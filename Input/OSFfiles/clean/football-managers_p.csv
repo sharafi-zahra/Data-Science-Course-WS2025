@@ -1,0 +1,396 @@
+manager_id,manager_name,club,caretaker,date_until,date_from,nat.,league,flag_inoffice
+83,George Graham,Arsenal,0,1995-02-21,1986-05-14,Scotland,EPL,0
+220,Stewart Houston,Arsenal,1,1995-06-08,1995-02-22,Scotland,EPL,0
+35,Bruce Rioch,Arsenal,0,1996-08-12,1995-06-08,Scotland,EPL,0
+220,Stewart Houston,Arsenal,1,1996-09-13,1996-08-12,Scotland,EPL,0
+167,Pat Rice,Arsenal,1,1996-09-30,1996-09-13,Northern Ireland,EPL,0
+19,Arsène Wenger,Arsenal,0,2018-05-13,1996-10-01,France,EPL,0
+238,Unai Emery,Arsenal,0,2019-07-01,2018-05-23,Spain,EPL,1
+195,Ron Atkinson,Aston Villa,0,1994-11-10,1991-06-07,England,EPL,0
+33,Brian Little,Aston Villa,0,1998-02-24,1994-11-25,England,EPL,0
+117,John Gregory,Aston Villa,0,2002-01-24,1998-02-25,England,EPL,0
+115,John Deehan,Aston Villa,1,2002-02-05,2002-01-24,England,EPL,0
+221,Stuart Gray,Aston Villa,1,2002-02-05,2002-01-24,England,EPL,0
+93,Graham Taylor,Aston Villa,0,2003-05-14,2002-02-05,England,EPL,0
+59,David O'Leary,Aston Villa,0,2006-07-19,2003-05-20,Republic of Ireland,EPL,0
+146,Martin O'Neill,Aston Villa,0,2010-08-09,2006-08-05,Northern Ireland,EPL,0
+131,Kevin MacDonald,Aston Villa,1,2010-09-08,2010-08-09,Scotland,EPL,0
+96,Gérard Houllier,Aston Villa,0,2011-06-01,2010-09-08,France,EPL,0
+80,Gary McAllister,Aston Villa,1,2011-05-22,2011-04-23,Scotland,EPL,0
+14,Alex McLeish,Aston Villa,0,2012-05-14,2011-06-17,Scotland,EPL,0
+173,Paul Lambert,Aston Villa,0,2015-02-11,2012-06-02,Scotland,EPL,0
+207,Scott Marshall,Aston Villa,1,2015-02-14,2015-02-11,Scotland,EPL,0
+229,Tim Sherwood,Aston Villa,0,2015-10-25,2015-02-14,England,EPL,0
+131,Kevin MacDonald,Aston Villa,1,2015-11-02,2015-10-25,Scotland,EPL,0
+204,Rémi Garde,Aston Villa,0,2016-03-29,2015-11-02,France,EPL,0
+71,Eric Black,Aston Villa,1,2016-06-02,2016-03-29,Scotland,EPL,0
+64,Dean Smith,Aston Villa,0,2019-07-01,2018-10-10,England,EPL,1
+51,Danny Wilson,Barnsley,0,1998-07-07,1994-06-02,Northern Ireland,EPL,0
+213,Steve Bruce,Birmingham City,0,2007-11-23,2001-12-12,England,EPL,0
+71,Eric Black,Birmingham City,1,2007-11-27,2007-11-23,Scotland,EPL,0
+14,Alex McLeish,Birmingham City,0,2011-06-12,2007-11-28,Scotland,EPL,0
+126,Kenny Dalglish,Blackburn Rovers,0,1995-06-21,1991-10-12,Scotland,EPL,0
+186,Ray Harford,Blackburn Rovers,0,1996-10-25,1995-06-25,England,EPL,0
+234,Tony Parkes,Blackburn Rovers,0,1997-06-01,1996-10-25,England,EPL,0
+199,Roy Hodgson,Blackburn Rovers,0,1998-11-21,1997-06-01,England,EPL,0
+31,Brian Kidd,Blackburn Rovers,0,1999-11-03,1998-12-04,England,EPL,0
+90,Graeme Souness,Blackburn Rovers,0,2004-09-06,2000-03-14,Scotland,EPL,0
+143,Mark Hughes,Blackburn Rovers,0,2008-06-03,2004-09-15,Wales,EPL,0
+171,Paul Ince,Blackburn Rovers,0,2008-12-16,2008-06-22,England,EPL,0
+205,Sam Allardyce,Blackburn Rovers,0,2010-12-13,2008-12-17,England,EPL,0
+216,Steve Kean,Blackburn Rovers,0,2012-09-28,2010-12-13,Scotland,EPL,0
+102,Ian Holloway,Blackpool,0,2012-11-03,2009-05-21,England,EPL,0
+201,Roy McFarland,Bolton Wanderers,0,1996-01-02,1995-06-20,England,EPL,0
+48,Colin Todd,Bolton Wanderers,0,1999-09-22,1996-01-02,England,EPL,0
+205,Sam Allardyce,Bolton Wanderers,0,2007-04-29,1999-10-19,England,EPL,0
+206,Sammy Lee,Bolton Wanderers,0,2007-10-07,2007-04-30,England,EPL,0
+18,Archie Knox,Bolton Wanderers,1,2007-10-25,2007-10-17,Scotland,EPL,0
+81,Gary Megson,Bolton Wanderers,0,2009-12-30,2007-10-25,England,EPL,0
+165,Owen Coyle,Bolton Wanderers,0,2012-10-09,2010-01-08,Republic of Ireland,EPL,0
+68,Eddie Howe,Bournemouth,0,2019-07-01,2012-10-12,England,EPL,1
+172,Paul Jewell,Bradford City,0,2000-06-18,1998-01-06,England,EPL,0
+41,Chris Hutchings,Bradford City,0,2000-11-06,2000-06-18,England,EPL,0
+222,Stuart McCall,Bradford City,1,2000-11-20,2000-11-06,Scotland,EPL,0
+108,Jim Jefferies,Bradford City,0,2001-12-24,2000-11-20,Scotland,EPL,0
+40,Chris Hughton,Brighton & Hove Albion,0,2019-05-13,2014-12-31,Republic of Ireland,EPL,0
+91,Graham Potter,Brighton & Hove Albion,0,2019-07-01,2019-05-20,England,EPL,1
+165,Owen Coyle,Burnley,0,2010-01-05,2007-11-27,Republic of Ireland,EPL,0
+32,Brian Laws,Burnley,0,2010-12-29,2010-01-13,England,EPL,0
+209,Sean Dyche,Burnley,0,2019-07-01,2012-10-30,England,EPL,1
+138,Malky Mackay,Cardiff City,0,2013-12-27,2011-06-17,Scotland,EPL,0
+57,David Kerslake,Cardiff City,1,2014-01-02,2013-12-27,England,EPL,0
+163,Ole Gunnar Solskjær,Cardiff City,0,2014-09-18,2014-01-02,Norway,EPL,0
+158,Neil Warnock,Cardiff City,0,2019-07-01,2016-10-05,England,EPL,1
+6,Alan Curbishley,Charlton Athletic,0,2006-05-08,1991-07-24,England,EPL,0
+100,Iain Dowie,Charlton Athletic,0,2006-11-13,2006-05-30,Northern Ireland,EPL,0
+135,Les Reed,Charlton Athletic,0,2006-12-24,2006-11-14,England,EPL,0
+9,Alan Pardew,Charlton Athletic,0,2008-11-22,2006-12-24,England,EPL,0
+103,Ian Porterfield,Chelsea,0,1993-02-15,1991-06-11,Scotland,EPL,0
+63,David Webb,Chelsea,1,1993-05-11,1993-02-15,England,EPL,0
+87,Glenn Hoddle,Chelsea,0,1996-05-10,1993-06-04,England,EPL,0
+202,Ruud Gullit,Chelsea,0,1998-02-12,1996-05-10,Netherlands,EPL,0
+86,Gianluca Vialli,Chelsea,0,2000-09-12,1998-02-12,Italy,EPL,0
+92,Graham Rix,Chelsea,1,2000-09-17,2000-09-13,England,EPL,0
+188,Ray Wilkins,Chelsea,1,2000-09-17,2000-09-13,England,EPL,0
+46,Claudio Ranieri,Chelsea,0,2004-05-31,2000-09-18,Italy,EPL,0
+120,José Mourinho,Chelsea,0,2007-09-20,2004-06-02,Portugal,EPL,0
+21,Avram Grant,Chelsea,0,2008-05-24,2007-09-20,Israel,EPL,0
+137,Luiz Felipe Scolari,Chelsea,0,2009-02-09,2008-07-01,Brazil,EPL,0
+188,Ray Wilkins,Chelsea,1,2009-02-16,2009-02-09,England,EPL,0
+95,Guus Hiddink,Chelsea,1,2009-05-31,2009-02-16,Netherlands,EPL,0
+37,Carlo Ancelotti,Chelsea,0,2011-05-22,2009-07-01,Italy,EPL,0
+16,André Villas-Boas,Chelsea,0,2012-03-04,2011-06-22,Portugal,EPL,0
+192,Roberto Di Matteo,Chelsea,0,2012-11-21,2012-03-04,Italy,EPL,0
+184,Rafael Benítez,Chelsea,1,2013-05-27,2012-11-21,Spain,EPL,0
+120,José Mourinho,Chelsea,0,2015-12-17,2013-06-03,Portugal,EPL,0
+95,Guus Hiddink,Chelsea,1,2016-05-15,2015-12-19,Netherlands,EPL,0
+17,Antonio Conte,Chelsea,0,2018-07-13,2016-07-03,Italy,EPL,0
+149,Maurizio Sarri,Chelsea,0,2019-06-16,2018-07-14,Italy,EPL,0
+26,Bobby Gould,Coventry City,0,1993-10-23,1992-06-24,England,EPL,0
+181,Phil Neal,Coventry City,0,1995-02-14,1993-10-23,England,EPL,0
+195,Ron Atkinson,Coventry City,0,1996-11-05,1995-02-15,England,EPL,0
+89,Gordon Strachan,Coventry City,0,2001-09-10,1996-11-05,Scotland,EPL,0
+215,Steve Coppell,Crystal Palace,0,1993-05-17,1984-06-03,England,EPL,0
+11,Alan Smith,Crystal Palace,0,1995-05-15,1993-06-03,England,EPL,0
+215,Steve Coppell,Crystal Palace,0,1998-03-13,1997-02-27,England,EPL,0
+20,Attilio Lombardo,Crystal Palace,1,1998-04-29,1998-03-13,Italy,EPL,0
+230,Tomas Brolin,Crystal Palace,1,1998-04-29,1998-03-13,Sweden,EPL,0
+196,Ron Noades,Crystal Palace,1,1998-05-10,1998-04-29,England,EPL,0
+187,Ray Lewington,Crystal Palace,1,1998-05-10,1998-04-29,England,EPL,0
+100,Iain Dowie,Crystal Palace,0,2006-05-22,2003-12-22,Northern Ireland,EPL,0
+102,Ian Holloway,Crystal Palace,0,2013-10-23,2012-11-03,England,EPL,0
+124,Keith Millen,Crystal Palace,1,2013-11-23,2013-10-23,England,EPL,0
+235,Tony Pulis,Crystal Palace,0,2014-08-14,2013-11-23,Wales,EPL,0
+124,Keith Millen,Crystal Palace,1,2014-08-27,2014-08-14,England,EPL,0
+158,Neil Warnock,Crystal Palace,0,2014-12-27,2014-08-27,England,EPL,0
+124,Keith Millen,Crystal Palace,1,2015-01-02,2014-12-27,England,EPL,0
+9,Alan Pardew,Crystal Palace,0,2016-12-22,2015-01-02,England,EPL,0
+205,Sam Allardyce,Crystal Palace,0,2017-05-23,2016-12-23,England,EPL,0
+77,Frank de Boer,Crystal Palace,0,2017-09-11,2017-06-26,Netherlands,EPL,0
+199,Roy Hodgson,Crystal Palace,0,2019-07-01,2017-09-12,England,EPL,1
+109,Jim Smith,Derby County,0,2001-10-07,1995-06-15,England,EPL,0
+48,Colin Todd,Derby County,0,2002-01-14,2001-10-08,England,EPL,0
+24,Billy McEwan,Derby County,1,2002-01-30,2002-01-14,Scotland,EPL,0
+117,John Gregory,Derby County,0,2003-03-21,2002-01-30,England,EPL,0
+23,Billy Davies,Derby County,0,2007-11-26,2006-06-02,Scotland,EPL,0
+172,Paul Jewell,Derby County,0,2008-12-29,2007-11-28,England,EPL,0
+98,Howard Kendall,Everton,0,1993-12-04,1990-11-05,England,EPL,0
+110,Jimmy Gabriel,Everton,1,1994-01-07,1993-12-04,Scotland,EPL,0
+156,Mike Walker,Everton,0,1994-11-08,1994-01-07,Wales,EPL,0
+113,Joe Royle,Everton,0,1997-03-27,1994-11-10,England,EPL,0
+56,Dave Watson,Everton,1,1997-05-31,1997-04-01,England,EPL,0
+98,Howard Kendall,Everton,0,1998-06-25,1997-06-27,England,EPL,0
+241,Walter Smith,Everton,0,2002-03-13,1998-07-01,Scotland,EPL,0
+58,David Moyes,Everton,0,2013-06-01,2002-03-15,Scotland,EPL,0
+194,Roberto Martínez,Everton,0,2016-05-12,2013-06-05,Spain,EPL,0
+61,David Unsworth,Everton,1,2016-06-14,2016-05-12,England,EPL,0
+197,Ronald Koeman,Everton,0,2017-10-23,2016-06-14,Netherlands,EPL,0
+61,David Unsworth,Everton,1,2017-11-30,2017-10-23,England,EPL,0
+205,Sam Allardyce,Everton,0,2018-05-16,2017-11-30,England,EPL,0
+140,Marco Silva,Everton,0,2019-07-01,2018-05-31,Portugal,EPL,1
+107,Jean Tigana,Fulham,0,2003-04-17,2000-07-01,France,EPL,0
+39,Chris Coleman,Fulham,0,2007-04-11,2003-04-17,Wales,EPL,0
+132,Lawrie Sanchez,Fulham,0,2007-12-21,2007-04-11,Northern Ireland,EPL,0
+187,Ray Lewington,Fulham,1,2007-12-30,2007-12-21,England,EPL,0
+199,Roy Hodgson,Fulham,0,2010-06-30,2007-12-30,England,EPL,0
+187,Ray Lewington,Fulham,1,2010-07-29,2010-07-01,England,EPL,0
+143,Mark Hughes,Fulham,0,2011-06-01,2010-07-29,Wales,EPL,0
+145,Martin Jol,Fulham,0,2013-12-01,2011-06-07,Netherlands,EPL,0
+189,René Meulensteen,Fulham,0,2014-02-14,2013-12-01,Netherlands,EPL,0
+72,Felix Magath,Fulham,0,2014-09-18,2014-02-14,Germany,EPL,0
+211,Slaviša Jokanović,Fulham,0,2018-11-14,2015-12-27,Serbia,EPL,0
+46,Claudio Ranieri,Fulham,0,2019-02-28,2018-11-14,Italy,EPL,0
+208,Scott Parker,Fulham,0,2019-07-01,2019-02-28,England,EPL,1
+62,David Wagner,Huddersfield Town,0,2019-01-14,2015-11-09,United States,EPL,0
+142,Mark Hudson,Huddersfield Town,1,2019-01-21,2019-01-14,England,EPL,0
+105,Jan Siewert,Huddersfield Town,0,2019-07-01,2019-01-21,Germany,EPL,1
+180,Phil Brown,Hull City,0,2010-03-15,2006-12-04,England,EPL,0
+100,Iain Dowie,Hull City,0,2010-05-09,2010-03-17,Northern Ireland,EPL,0
+213,Steve Bruce,Hull City,0,2016-07-22,2012-06-08,England,EPL,0
+154,Mike Phelan,Hull City,0,2017-01-03,2016-07-22,England,EPL,0
+140,Marco Silva,Hull City,0,2017-05-25,2017-01-05,Portugal,EPL,0
+118,John Lyall,Ipswich Town,0,1994-12-05,1990-05-11,England,EPL,0
+169,Paul Goddard,Ipswich Town,1,1994-12-27,1994-12-06,England,EPL,0
+119,John Wark,Ipswich Town,1,1994-12-27,1994-12-06,Scotland,EPL,0
+82,George Burley,Ipswich Town,0,2002-10-11,1994-12-28,Scotland,EPL,0
+99,Howard Wilkinson,Leeds United,0,1996-09-10,1988-10-10,England,EPL,0
+83,George Graham,Leeds United,0,1998-10-01,1996-09-10,Scotland,EPL,0
+59,David O'Leary,Leeds United,0,2002-06-27,1998-10-01,Republic of Ireland,EPL,0
+228,Terry Venables,Leeds United,0,2003-03-21,2002-07-08,England,EPL,0
+177,Peter Reid,Leeds United,0,2003-11-10,2003-03-21,England,EPL,0
+67,Eddie Gray,Leeds United,1,2004-05-21,2003-11-10,Scotland,EPL,0
+33,Brian Little,Leicester City,0,1994-11-22,1991-05-30,England,EPL,0
+131,Kevin MacDonald,Leicester City,1,1994-12-14,1994-11-22,Scotland,EPL,0
+144,Mark McGhee,Leicester City,0,1995-12-07,1994-12-14,Scotland,EPL,0
+146,Martin O'Neill,Leicester City,0,2000-06-01,1995-12-21,Northern Ireland,EPL,0
+179,Peter Taylor,Leicester City,0,2001-09-30,2000-06-12,England,EPL,0
+53,Dave Bassett,Leicester City,0,2002-04-06,2001-10-10,England,EPL,0
+153,Micky Adams,Leicester City,0,2004-10-11,2002-04-07,England,EPL,0
+160,Nigel Pearson,Leicester City,0,2015-06-30,2011-11-15,England,EPL,0
+46,Claudio Ranieri,Leicester City,0,2017-02-23,2015-07-13,Italy,EPL,0
+49,Craig Shakespeare,Leicester City,0,2017-10-17,2017-02-23,England,EPL,0
+150,Michael Appleton,Leicester City,1,2017-10-25,2017-10-17,England,EPL,0
+45,Claude Puel,Leicester City,0,2019-02-24,2017-10-25,France,EPL,0
+1,Adam Sadler,Leicester City,1,2019-02-26,2019-02-24,England,EPL,0
+155,Mike Stowell,Leicester City,1,2019-02-26,2019-02-24,England,EPL,0
+28,Brendan Rodgers,Leicester City,0,2019-07-01,2019-02-26,Northern Ireland,EPL,1
+90,Graeme Souness,Liverpool,0,1994-01-28,1991-04-16,Scotland,EPL,0
+198,Roy Evans,Liverpool,0,1998-11-12,1994-01-28,England,EPL,0
+96,Gérard Houllier,Liverpool,0,2001-10-14,1998-07-01,France,EPL,0
+182,Phil Thompson,Liverpool,1,2002-03-16,2001-10-14,England,EPL,0
+96,Gérard Houllier,Liverpool,0,2004-05-24,2002-03-17,France,EPL,0
+184,Rafael Benítez,Liverpool,0,2010-06-03,2004-06-16,Spain,EPL,0
+199,Roy Hodgson,Liverpool,0,2011-01-08,2010-07-01,England,EPL,0
+126,Kenny Dalglish,Liverpool,0,2012-05-16,2011-01-08,Scotland,EPL,0
+28,Brendan Rodgers,Liverpool,0,2015-10-04,2012-06-01,Northern Ireland,EPL,0
+122,Jürgen Klopp,Liverpool,0,2019-07-01,2015-10-08,Germany,EPL,1
+177,Peter Reid,Manchester City,0,1993-08-26,1990-11-11,England,EPL,0
+232,Tony Book,Manchester City,1,1993-08-28,1993-08-26,England,EPL,0
+30,Brian Horton,Manchester City,0,1995-05-16,1993-08-28,England,EPL,0
+5,Alan Ball,Manchester City,0,1996-08-26,1995-06-30,England,EPL,0
+113,Joe Royle,Manchester City,0,2001-05-21,1998-02-18,England,EPL,0
+129,Kevin Keegan,Manchester City,0,2005-03-11,2001-05-24,England,EPL,0
+223,Stuart Pearce,Manchester City,0,2007-05-14,2005-03-21,England,EPL,0
+224,Sven-Göran Eriksson,Manchester City,0,2008-06-02,2007-07-06,Sweden,EPL,0
+143,Mark Hughes,Manchester City,0,2009-12-19,2008-06-04,Wales,EPL,0
+193,Roberto Mancini,Manchester City,0,2013-05-13,2009-12-19,Italy,EPL,0
+31,Brian Kidd,Manchester City,1,2013-06-14,2013-05-13,England,EPL,0
+139,Manuel Pellegrini,Manchester City,0,2016-06-30,2013-06-14,Chile,EPL,0
+175,Pep Guardiola,Manchester City,0,2019-07-01,2016-07-01,Spain,EPL,1
+12,Alex Ferguson,Manchester United,0,2013-06-01,1986-11-06,Scotland,EPL,0
+58,David Moyes,Manchester United,0,2014-04-22,2013-07-01,Scotland,EPL,0
+203,Ryan Giggs,Manchester United,1,2014-05-11,2014-04-22,Wales,EPL,0
+136,Louis van Gaal,Manchester United,0,2016-05-23,2014-07-14,Netherlands,EPL,0
+120,José Mourinho,Manchester United,0,2018-12-18,2016-05-27,Portugal,EPL,0
+163,Ole Gunnar Solskjær,Manchester United,0,2019-07-01,2018-12-19,Norway,EPL,1
+133,Lennie Lawrence,Middlesbrough,0,1994-05-19,1991-07-10,England,EPL,0
+36,Bryan Robson,Middlesbrough,0,2000-12-06,1994-05-31,England,EPL,0
+228,Terry Venables,Middlesbrough,0,2001-06-12,2000-12-06,England,EPL,0
+217,Steve McClaren,Middlesbrough,0,2006-05-11,2001-06-12,England,EPL,0
+78,Gareth Southgate,Middlesbrough,0,2009-10-20,2006-06-07,England,EPL,0
+3,Aitor Karanka,Middlesbrough,0,2017-03-16,2013-11-13,Spain,EPL,0
+212,Steve Agnew,Middlesbrough,1,2017-06-09,2017-03-16,England,EPL,0
+129,Kevin Keegan,Newcastle United,0,1997-01-08,1992-02-05,England,EPL,0
+227,Terry McDermott,Newcastle United,1,1997-01-14,1997-01-08,England,EPL,0
+126,Kenny Dalglish,Newcastle United,0,1998-08-27,1997-01-14,Scotland,EPL,0
+202,Ruud Gullit,Newcastle United,0,1999-08-28,1998-08-28,Netherlands,EPL,0
+214,Steve Clarke,Newcastle United,1,1999-09-02,1999-08-28,Scotland,EPL,0
+27,Bobby Robson,Newcastle United,0,2004-08-30,1999-09-02,England,EPL,0
+114,John Carver,Newcastle United,1,2004-09-13,2004-09-11,England,EPL,0
+90,Graeme Souness,Newcastle United,0,2006-02-02,2004-09-13,Scotland,EPL,0
+88,Glenn Roeder,Newcastle United,0,2007-05-06,2006-02-02,England,EPL,0
+160,Nigel Pearson,Newcastle United,1,2007-05-15,2007-05-06,England,EPL,0
+205,Sam Allardyce,Newcastle United,0,2008-01-09,2007-05-15,England,EPL,0
+160,Nigel Pearson,Newcastle United,1,2008-01-16,2008-01-09,England,EPL,0
+129,Kevin Keegan,Newcastle United,0,2008-09-04,2008-01-16,England,EPL,0
+40,Chris Hughton,Newcastle United,1,2008-09-28,2008-09-08,Republic of Ireland,EPL,0
+112,Joe Kinnear,Newcastle United,0,2009-04-01,2008-09-29,Republic of Ireland,EPL,0
+10,Alan Shearer,Newcastle United,0,2009-05-24,2009-04-01,England,EPL,0
+40,Chris Hughton,Newcastle United,0,2010-12-06,2009-06-01,Republic of Ireland,EPL,0
+9,Alan Pardew,Newcastle United,0,2015-01-02,2010-12-09,England,EPL,0
+114,John Carver,Newcastle United,1,2015-01-26,2015-01-02,England,EPL,0
+114,John Carver,Newcastle United,0,2015-06-10,2015-01-26,England,EPL,0
+217,Steve McClaren,Newcastle United,0,2016-03-11,2015-06-10,England,EPL,0
+184,Rafael Benítez,Newcastle United,0,2019-07-01,2016-03-11,Spain,EPL,1
+156,Mike Walker,Norwich City,0,1994-01-06,1992-06-01,Wales,EPL,0
+115,John Deehan,Norwich City,0,1995-07-31,1994-01-12,England,EPL,0
+161,Nigel Worthington,Norwich City,0,2006-10-02,2000-12-04,Northern Ireland,EPL,0
+173,Paul Lambert,Norwich City,0,2012-06-02,2009-08-18,Scotland,EPL,0
+40,Chris Hughton,Norwich City,0,2014-04-06,2012-06-07,Republic of Ireland,EPL,0
+157,Neil Adams,Norwich City,0,2015-01-05,2014-04-06,England,EPL,0
+15,Alex Neil,Norwich City,0,2017-03-10,2015-01-09,Scotland,EPL,0
+50,Daniel Farke,Norwich City,0,2019-07-01,2017-05-25,Germany,EPL,1
+29,Brian Clough,Nottingham Forest,0,1993-05-08,1975-01-06,England,EPL,0
+76,Frank Clark,Nottingham Forest,0,1996-12-19,1993-05-12,England,EPL,0
+223,Stuart Pearce,Nottingham Forest,1,1997-05-08,1996-12-20,England,EPL,0
+53,Dave Bassett,Nottingham Forest,0,1999-01-05,1997-05-08,England,EPL,0
+153,Micky Adams,Nottingham Forest,1,1999-01-11,1999-01-05,England,EPL,0
+195,Ron Atkinson,Nottingham Forest,0,1999-05-16,1999-01-11,England,EPL,0
+113,Joe Royle,Oldham Athletic,0,1994-11-10,1982-07-14,England,EPL,0
+97,Harry Redknapp,Portsmouth,0,2004-11-24,2002-03-25,England,EPL,0
+239,Velimir Zajec,Portsmouth,0,2005-04-07,2004-12-24,Croatia,EPL,0
+4,Alain Perrin,Portsmouth,0,2005-11-24,2005-04-07,France,EPL,0
+111,Joe Jordan,Portsmouth,1,2005-12-07,2005-11-24,Scotland,EPL,0
+97,Harry Redknapp,Portsmouth,0,2008-10-25,2005-12-07,England,EPL,0
+111,Joe Jordan,Portsmouth,1,2008-10-28,2008-10-25,Scotland,EPL,0
+231,Tony Adams,Portsmouth,0,2009-02-09,2008-10-25,England,EPL,0
+170,Paul Hart,Portsmouth,0,2009-11-24,2009-02-09,England,EPL,0
+21,Avram Grant,Portsmouth,0,2010-05-21,2009-11-26,Israel,EPL,0
+84,Gerry Francis,Queens Park Rangers,0,1994-11-11,1991-06-01,England,EPL,0
+188,Ray Wilkins,Queens Park Rangers,0,1996-09-04,1994-11-15,England,EPL,0
+158,Neil Warnock,Queens Park Rangers,0,2012-01-08,2010-03-01,England,EPL,0
+143,Mark Hughes,Queens Park Rangers,0,2012-11-23,2012-01-10,Wales,EPL,0
+141,Mark Bowen,Queens Park Rangers,1,2012-11-24,2012-11-23,Wales,EPL,0
+97,Harry Redknapp,Queens Park Rangers,0,2015-02-03,2012-11-24,England,EPL,0
+128,Kevin Bond,Queens Park Rangers,1,2015-02-12,2015-02-03,England,EPL,0
+42,Chris Ramsey,Queens Park Rangers,0,2015-11-04,2015-02-03,England,EPL,0
+215,Steve Coppell,Reading,0,2009-05-12,2003-10-09,England,EPL,0
+34,Brian McDermott,Reading,0,2013-03-11,2009-12-17,England,EPL,0
+159,Nigel Adkins,Reading,0,2014-12-15,2013-03-26,England,EPL,0
+53,Dave Bassett,Sheffield United,0,1995-12-12,1988-01-02,England,EPL,0
+158,Neil Warnock,Sheffield United,0,2007-05-16,1999-12-02,England,EPL,0
+43,Chris Wilder,Sheffield United,0,2019-07-01,2016-05-12,England,EPL,1
+237,Trevor Francis,Sheffield Wednesday,0,1995-05-20,1991-06-07,England,EPL,0
+60,David Pleat,Sheffield Wednesday,0,1997-11-03,1995-06-14,England,EPL,0
+178,Peter Shreeves,Sheffield Wednesday,1,1997-11-14,1997-11-03,Wales,EPL,0
+195,Ron Atkinson,Sheffield Wednesday,0,1998-05-17,1997-11-14,England,EPL,0
+51,Danny Wilson,Sheffield Wednesday,0,2000-03-21,1998-07-06,Northern Ireland,EPL,0
+178,Peter Shreeves,Sheffield Wednesday,1,2000-06-21,2000-03-21,Wales,EPL,0
+101,Ian Branfoot,Southampton,0,1994-01-10,1991-06-11,England,EPL,0
+5,Alan Ball,Southampton,0,1995-07-02,1994-01-20,England,EPL,0
+55,Dave Merrington,Southampton,0,1996-06-14,1995-07-14,England,EPL,0
+90,Graeme Souness,Southampton,0,1997-06-01,1996-07-03,Scotland,EPL,0
+54,Dave Jones,Southampton,0,2000-01-27,1997-06-23,England,EPL,0
+87,Glenn Hoddle,Southampton,0,2001-03-28,2000-01-28,England,EPL,0
+221,Stuart Gray,Southampton,0,2001-10-21,2001-03-30,England,EPL,0
+89,Gordon Strachan,Southampton,0,2004-02-13,2001-10-22,Scotland,EPL,0
+219,Steve Wigley,Southampton,1,2004-03-04,2004-02-13,England,EPL,0
+174,Paul Sturrock,Southampton,0,2004-08-23,2004-03-04,Scotland,EPL,0
+219,Steve Wigley,Southampton,0,2004-12-10,2004-08-23,England,EPL,0
+97,Harry Redknapp,Southampton,0,2005-12-02,2004-12-08,England,EPL,0
+159,Nigel Adkins,Southampton,0,2013-01-18,2010-09-12,England,EPL,0
+148,Mauricio Pochettino,Southampton,0,2014-05-27,2013-01-18,Argentina,EPL,0
+197,Ronald Koeman,Southampton,0,2016-06-14,2014-06-16,Netherlands,EPL,0
+45,Claude Puel,Southampton,0,2017-06-14,2016-06-30,France,EPL,0
+147,Mauricio Pellegrino,Southampton,0,2018-03-12,2017-06-23,Argentina,EPL,0
+143,Mark Hughes,Southampton,0,2018-12-03,2018-03-14,Wales,EPL,0
+125,Kelvin Davis,Southampton,1,2018-12-05,2018-12-03,England,EPL,0
+185,Ralph Hasenhüttl,Southampton,0,2019-07-01,2018-12-05,Austria,EPL,1
+235,Tony Pulis,Stoke City,0,2013-05-21,2006-06-15,Wales,EPL,0
+143,Mark Hughes,Stoke City,0,2018-01-06,2013-05-30,Wales,EPL,0
+69,Eddie Niedzwiecki,Stoke City,1,2018-01-15,2018-01-08,Wales,EPL,0
+173,Paul Lambert,Stoke City,0,2018-05-18,2018-01-15,Scotland,EPL,0
+177,Peter Reid,Sunderland,0,2002-10-07,1995-03-29,England,EPL,0
+99,Howard Wilkinson,Sunderland,0,2003-03-10,2002-10-10,England,EPL,0
+152,Mick McCarthy,Sunderland,0,2006-03-06,2003-03-12,Republic of Ireland,EPL,0
+127,Kevin Ball,Sunderland,1,2006-05-31,2006-03-07,England,EPL,0
+200,Roy Keane,Sunderland,0,2008-12-04,2006-08-30,Republic of Ireland,EPL,0
+190,Ricky Sbragia,Sunderland,0,2009-05-24,2008-12-04,Scotland,EPL,0
+213,Steve Bruce,Sunderland,0,2011-11-30,2009-06-03,England,EPL,0
+146,Martin O'Neill,Sunderland,0,2013-03-30,2011-12-03,Northern Ireland,EPL,0
+166,Paolo Di Canio,Sunderland,0,2013-09-22,2013-03-31,Italy,EPL,0
+127,Kevin Ball,Sunderland,1,2013-10-08,2013-09-22,England,EPL,0
+94,Gus Poyet,Sunderland,0,2015-03-16,2013-10-08,Uruguay,EPL,0
+65,Dick Advocaat,Sunderland,0,2015-10-04,2015-03-17,Netherlands,EPL,0
+205,Sam Allardyce,Sunderland,0,2016-07-22,2015-10-09,England,EPL,0
+58,David Moyes,Sunderland,0,2017-05-22,2016-07-23,Scotland,EPL,0
+28,Brendan Rodgers,Swansea City,0,2012-06-01,2010-07-16,Northern Ireland,EPL,0
+151,Michael Laudrup,Swansea City,0,2014-02-04,2012-06-15,Denmark,EPL,0
+79,Garry Monk,Swansea City,0,2015-12-09,2014-02-04,England,EPL,0
+7,Alan Curtis,Swansea City,1,2016-01-18,2015-12-09,Wales,EPL,0
+73,Francesco Guidolin,Swansea City,0,2016-10-03,2016-01-18,Italy,EPL,0
+25,Bob Bradley,Swansea City,0,2016-12-27,2016-10-03,United States,EPL,0
+7,Alan Curtis,Swansea City,1,2017-01-03,2016-12-27,Wales,EPL,0
+168,Paul Clement,Swansea City,0,2017-12-20,2017-01-03,England,EPL,0
+134,Leon Britton,Swansea City,1,2017-12-28,2017-12-20,England,EPL,0
+38,Carlos Carvalhal,Swansea City,0,2018-05-18,2017-12-28,Portugal,EPL,0
+116,John Gorman,Swindon Town,0,1994-11-21,1993-06-04,Scotland,EPL,0
+66,Doug Livermore,Tottenham Hotspur,0,1993-06-19,1992-05-27,England,EPL,0
+164,Ossie Ardiles,Tottenham Hotspur,0,1994-11-01,1993-06-19,Argentina,EPL,0
+218,Steve Perryman,Tottenham Hotspur,1,1994-11-15,1994-11-01,England,EPL,0
+84,Gerry Francis,Tottenham Hotspur,0,1997-11-19,1994-11-15,England,EPL,0
+44,Christian Gross,Tottenham Hotspur,0,1998-09-05,1997-11-25,Switzerland,EPL,0
+60,David Pleat,Tottenham Hotspur,1,1998-10-03,1998-08-30,England,EPL,0
+40,Chris Hughton,Tottenham Hotspur,1,1998-10-01,1998-09-07,Republic of Ireland,EPL,0
+83,George Graham,Tottenham Hotspur,0,2001-03-16,1998-10-05,Scotland,EPL,0
+60,David Pleat,Tottenham Hotspur,1,2001-04-02,2001-03-16,England,EPL,0
+87,Glenn Hoddle,Tottenham Hotspur,0,2003-09-21,2001-04-02,England,EPL,0
+60,David Pleat,Tottenham Hotspur,1,2004-06-03,2003-09-21,England,EPL,0
+104,Jacques Santini,Tottenham Hotspur,0,2004-11-05,2004-06-03,France,EPL,0
+145,Martin Jol,Tottenham Hotspur,0,2007-10-25,2004-11-05,Netherlands,EPL,0
+47,Clive Allen,Tottenham Hotspur,1,2007-10-29,2007-10-25,England,EPL,0
+13,Alex Inglethorpe,Tottenham Hotspur,1,2007-10-29,2007-10-25,England,EPL,0
+121,Juande Ramos,Tottenham Hotspur,0,2008-10-25,2007-10-27,Spain,EPL,0
+47,Clive Allen,Tottenham Hotspur,1,2008-10-26,2008-10-25,England,EPL,0
+97,Harry Redknapp,Tottenham Hotspur,0,2012-06-13,2008-10-26,England,EPL,0
+16,André Villas-Boas,Tottenham Hotspur,0,2013-12-16,2012-07-06,Portugal,EPL,0
+229,Tim Sherwood,Tottenham Hotspur,0,2014-05-13,2013-12-16,England,EPL,0
+148,Mauricio Pochettino,Tottenham Hotspur,0,2019-07-01,2014-05-27,Argentina,EPL,1
+93,Graham Taylor,Watford,0,2001-06-01,1996-02-21,England,EPL,0
+2,Aidy Boothroyd,Watford,0,2008-11-03,2005-03-29,England,EPL,0
+183,Quique Sánchez Flores,Watford,0,2016-05-15,2015-06-05,Spain,EPL,0
+240,Walter Mazzarri,Watford,0,2017-05-21,2016-07-01,Italy,EPL,0
+140,Marco Silva,Watford,0,2018-01-21,2017-05-27,Portugal,EPL,0
+106,Javi Gracia,Watford,0,2019-07-01,2018-01-21,Spain,EPL,1
+81,Gary Megson,West Bromwich Albion,0,2004-10-26,2000-03-09,England,EPL,0
+75,Frank Burrows,West Bromwich Albion,1,2004-11-08,2004-10-27,Scotland,EPL,0
+36,Bryan Robson,West Bromwich Albion,0,2006-09-18,2004-11-09,England,EPL,0
+233,Tony Mowbray,West Bromwich Albion,0,2009-06-16,2006-10-18,England,EPL,0
+192,Roberto Di Matteo,West Bromwich Albion,0,2011-02-06,2009-06-30,Italy,EPL,0
+150,Michael Appleton,West Bromwich Albion,1,2011-02-14,2011-02-06,England,EPL,0
+199,Roy Hodgson,West Bromwich Albion,0,2012-05-13,2011-02-14,England,EPL,0
+214,Steve Clarke,West Bromwich Albion,0,2013-12-14,2012-06-08,Scotland,EPL,0
+123,Keith Downing,West Bromwich Albion,1,2014-01-09,2013-12-14,England,EPL,0
+176,Pepe Mel,West Bromwich Albion,0,2014-05-12,2014-01-09,Spain,EPL,0
+8,Alan Irvine,West Bromwich Albion,0,2014-12-29,2014-06-14,Scotland,EPL,0
+191,Rob Kelly,West Bromwich Albion,1,2015-01-01,2014-12-29,England,EPL,0
+235,Tony Pulis,West Bromwich Albion,0,2017-11-20,2015-01-01,Wales,EPL,0
+81,Gary Megson,West Bromwich Albion,1,2017-11-29,2017-11-20,England,EPL,0
+9,Alan Pardew,West Bromwich Albion,0,2018-04-02,2017-11-29,England,EPL,0
+52,Darren Moore,West Bromwich Albion,0,2019-03-09,2018-04-02,Jamaica,EPL,0
+22,Billy Bonds,West Ham United,0,1994-08-10,1990-02-23,England,EPL,0
+97,Harry Redknapp,West Ham United,0,2001-05-09,1994-08-10,England,EPL,0
+88,Glenn Roeder,West Ham United,0,2003-04-24,2001-05-09,England,EPL,0
+236,Trevor Brooking,West Ham United,1,2003-05-12,2003-04-24,England,EPL,0
+9,Alan Pardew,West Ham United,0,2006-12-11,2003-10-20,England,EPL,0
+6,Alan Curbishley,West Ham United,0,2008-09-03,2006-12-13,England,EPL,0
+130,Kevin Keen,West Ham United,1,2008-09-15,2008-09-03,England,EPL,0
+85,Gianfranco Zola,West Ham United,0,2010-05-11,2008-09-15,Italy,EPL,0
+21,Avram Grant,West Ham United,0,2011-05-15,2010-06-03,Israel,EPL,0
+130,Kevin Keen,West Ham United,1,2011-06-01,2011-05-15,England,EPL,0
+205,Sam Allardyce,West Ham United,0,2015-05-24,2011-06-01,England,EPL,0
+210,Slaven Bilić,West Ham United,0,2017-11-06,2015-06-09,Croatia,EPL,0
+58,David Moyes,West Ham United,0,2018-05-16,2017-11-07,Scotland,EPL,0
+139,Manuel Pellegrini,West Ham United,0,2019-07-01,2018-05-22,Chile,EPL,1
+172,Paul Jewell,Wigan Athletic,0,2007-05-14,2001-06-12,England,EPL,0
+41,Chris Hutchings,Wigan Athletic,0,2007-11-05,2007-05-14,England,EPL,0
+74,Frank Barlow,Wigan Athletic,1,2007-11-26,2007-11-05,England,EPL,0
+213,Steve Bruce,Wigan Athletic,0,2009-06-03,2007-11-26,England,EPL,0
+194,Roberto Martínez,Wigan Athletic,0,2013-05-28,2009-06-15,Spain,EPL,0
+112,Joe Kinnear,Wimbledon,0,1999-06-09,1992-01-19,Republic of Ireland,EPL,0
+70,Egil Olsen,Wimbledon,0,2000-05-01,1999-06-09,Norway,EPL,0
+225,Terry Burton,Wimbledon,0,2002-04-25,2000-05-01,England,EPL,0
+54,Dave Jones,Wolverhampton Wanderers,0,2004-11-11,2001-01-03,England,EPL,0
+152,Mick McCarthy,Wolverhampton Wanderers,0,2012-02-14,2006-08-05,Republic of Ireland,EPL,0
+226,Terry Connor,Wolverhampton Wanderers,0,2012-06-30,2012-02-24,England,EPL,0
+162,Nuno Espírito Santo,Wolverhampton Wanderers,0,2019-07-01,2017-05-31,Portugal,EPL,1

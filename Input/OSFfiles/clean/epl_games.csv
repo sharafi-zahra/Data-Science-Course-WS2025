@@ -1,0 +1,4181 @@
+div,season,date,team_home,team_away,points_home,points_away,goals_home,goals_away
+E0,2008,16aug2008,Arsenal,West Brom,3,0,1,0
+E0,2008,16aug2008,West Ham,Wigan,3,0,2,1
+E0,2008,16aug2008,Middlesbrough,Tottenham,3,0,2,1
+E0,2008,16aug2008,Everton,Blackburn,0,3,2,3
+E0,2008,16aug2008,Bolton,Stoke,3,0,3,1
+E0,2008,16aug2008,Sunderland,Liverpool,0,3,0,1
+E0,2008,16aug2008,Hull,Fulham,3,0,2,1
+E0,2008,17aug2008,Chelsea,Portsmouth,3,0,4,0
+E0,2008,17aug2008,Man United,Newcastle,1,1,1,1
+E0,2008,17aug2008,Aston Villa,Man City,3,0,4,2
+E0,2008,23aug2008,Liverpool,Middlesbrough,3,0,2,1
+E0,2008,23aug2008,Stoke,Aston Villa,3,0,3,2
+E0,2008,23aug2008,Blackburn,Hull,1,1,1,1
+E0,2008,23aug2008,West Brom,Everton,0,3,1,2
+E0,2008,23aug2008,Fulham,Arsenal,3,0,1,0
+E0,2008,23aug2008,Tottenham,Sunderland,0,3,1,2
+E0,2008,23aug2008,Newcastle,Bolton,3,0,1,0
+E0,2008,24aug2008,Wigan,Chelsea,0,3,0,1
+E0,2008,24aug2008,Man City,West Ham,3,0,3,0
+E0,2008,25aug2008,Portsmouth,Man United,0,3,0,1
+E0,2008,30aug2008,Middlesbrough,Stoke,3,0,2,1
+E0,2008,30aug2008,Arsenal,Newcastle,3,0,3,0
+E0,2008,30aug2008,Everton,Portsmouth,0,3,0,3
+E0,2008,30aug2008,West Ham,Blackburn,3,0,4,1
+E0,2008,30aug2008,Hull,Wigan,0,3,0,5
+E0,2008,30aug2008,Bolton,West Brom,1,1,0,0
+E0,2008,31aug2008,Chelsea,Tottenham,1,1,1,1
+E0,2008,31aug2008,Aston Villa,Liverpool,1,1,0,0
+E0,2008,31aug2008,Sunderland,Man City,0,3,0,3
+E0,2008,13sep2008,Liverpool,Man United,3,0,2,1
+E0,2008,13sep2008,Man City,Chelsea,0,3,1,3
+E0,2008,13sep2008,Wigan,Sunderland,1,1,1,1
+E0,2008,13sep2008,Fulham,Bolton,3,0,2,1
+E0,2008,13sep2008,West Brom,West Ham,3,0,3,2
+E0,2008,13sep2008,Blackburn,Arsenal,0,3,0,4
+E0,2008,13sep2008,Newcastle,Hull,0,3,1,2
+E0,2008,13sep2008,Portsmouth,Middlesbrough,3,0,2,1
+E0,2008,14sep2008,Stoke,Everton,0,3,2,3
+E0,2008,15sep2008,Tottenham,Aston Villa,0,3,1,2
+E0,2008,20sep2008,Liverpool,Stoke,1,1,0,0
+E0,2008,20sep2008,Blackburn,Fulham,3,0,1,0
+E0,2008,20sep2008,Sunderland,Middlesbrough,3,0,2,0
+E0,2008,20sep2008,West Ham,Newcastle,3,0,3,1
+E0,2008,20sep2008,Bolton,Arsenal,0,3,1,3
+E0,2008,21sep2008,Tottenham,Wigan,1,1,0,0
+E0,2008,21sep2008,West Brom,Aston Villa,0,3,1,2
+E0,2008,21sep2008,Hull,Everton,1,1,2,2
+E0,2008,21sep2008,Chelsea,Man United,1,1,1,1
+E0,2008,21sep2008,Man City,Portsmouth,3,0,6,0
+E0,2008,27sep2008,Middlesbrough,West Brom,0,3,0,1
+E0,2008,27sep2008,Everton,Liverpool,0,3,0,2
+E0,2008,27sep2008,Aston Villa,Sunderland,3,0,2,1
+E0,2008,27sep2008,Man United,Bolton,3,0,2,0
+E0,2008,27sep2008,Arsenal,Hull,0,3,1,2
+E0,2008,27sep2008,Stoke,Chelsea,0,3,0,2
+E0,2008,27sep2008,Newcastle,Blackburn,0,3,1,2
+E0,2008,27sep2008,Fulham,West Ham,0,3,1,2
+E0,2008,28sep2008,Wigan,Man City,3,0,2,1
+E0,2008,28sep2008,Portsmouth,Tottenham,3,0,2,0
+E0,2008,04oct2008,Blackburn,Man United,0,3,0,2
+E0,2008,04oct2008,West Brom,Fulham,3,0,1,0
+E0,2008,04oct2008,Sunderland,Arsenal,1,1,1,1
+E0,2008,04oct2008,Wigan,Middlesbrough,0,3,0,1
+E0,2008,05oct2008,Man City,Liverpool,0,3,2,3
+E0,2008,05oct2008,Portsmouth,Stoke,3,0,2,1
+E0,2008,05oct2008,Everton,Newcastle,1,1,2,2
+E0,2008,05oct2008,West Ham,Bolton,0,3,1,3
+E0,2008,05oct2008,Tottenham,Hull,0,3,0,1
+E0,2008,05oct2008,Chelsea,Aston Villa,3,0,2,0
+E0,2008,18oct2008,Fulham,Sunderland,1,1,0,0
+E0,2008,18oct2008,Middlesbrough,Chelsea,0,3,0,5
+E0,2008,18oct2008,Bolton,Blackburn,1,1,0,0
+E0,2008,18oct2008,Aston Villa,Portsmouth,1,1,0,0
+E0,2008,18oct2008,Man United,West Brom,3,0,4,0
+E0,2008,18oct2008,Liverpool,Wigan,3,0,3,2
+E0,2008,18oct2008,Arsenal,Everton,3,0,3,1
+E0,2008,19oct2008,Stoke,Tottenham,3,0,2,1
+E0,2008,19oct2008,Hull,West Ham,3,0,1,0
+E0,2008,20oct2008,Newcastle,Man City,1,1,2,2
+E0,2008,25oct2008,Sunderland,Newcastle,3,0,2,1
+E0,2008,25oct2008,Blackburn,Middlesbrough,1,1,1,1
+E0,2008,25oct2008,West Brom,Hull,0,3,0,3
+E0,2008,25oct2008,Everton,Man United,1,1,1,1
+E0,2008,26oct2008,Wigan,Aston Villa,0,3,0,4
+E0,2008,26oct2008,Tottenham,Bolton,3,0,2,0
+E0,2008,26oct2008,Man City,Stoke,3,0,3,0
+E0,2008,26oct2008,Portsmouth,Fulham,1,1,1,1
+E0,2008,26oct2008,West Ham,Arsenal,0,3,0,2
+E0,2008,26oct2008,Chelsea,Liverpool,0,3,0,1
+E0,2008,28oct2008,Newcastle,West Brom,3,0,2,1
+E0,2008,29oct2008,Bolton,Everton,0,3,0,1
+E0,2008,29oct2008,Aston Villa,Blackburn,3,0,3,2
+E0,2008,29oct2008,Stoke,Sunderland,3,0,1,0
+E0,2008,29oct2008,Hull,Chelsea,0,3,0,3
+E0,2008,29oct2008,Man United,West Ham,3,0,2,0
+E0,2008,29oct2008,Arsenal,Tottenham,1,1,4,4
+E0,2008,29oct2008,Liverpool,Portsmouth,3,0,1,0
+E0,2008,29oct2008,Fulham,Wigan,3,0,2,0
+E0,2008,29oct2008,Middlesbrough,Man City,3,0,2,0
+E0,2008,01nov2008,Portsmouth,Wigan,0,3,1,2
+E0,2008,01nov2008,Stoke,Arsenal,3,0,2,1
+E0,2008,01nov2008,Man United,Hull,3,0,4,3
+E0,2008,01nov2008,Tottenham,Liverpool,3,0,2,1
+E0,2008,01nov2008,Everton,Fulham,3,0,1,0
+E0,2008,01nov2008,Middlesbrough,West Ham,1,1,1,1
+E0,2008,01nov2008,Chelsea,Sunderland,3,0,5,0
+E0,2008,01nov2008,West Brom,Blackburn,1,1,2,2
+E0,2008,02nov2008,Bolton,Man City,3,0,2,0
+E0,2008,03nov2008,Newcastle,Aston Villa,3,0,2,0
+E0,2008,08nov2008,West Ham,Everton,0,3,1,3
+E0,2008,08nov2008,Sunderland,Portsmouth,0,3,1,2
+E0,2008,08nov2008,Wigan,Stoke,1,1,0,0
+E0,2008,08nov2008,Liverpool,West Brom,3,0,3,0
+E0,2008,08nov2008,Arsenal,Man United,3,0,2,1
+E0,2008,08nov2008,Hull,Bolton,0,3,0,1
+E0,2008,09nov2008,Blackburn,Chelsea,0,3,0,2
+E0,2008,09nov2008,Fulham,Newcastle,3,0,2,1
+E0,2008,09nov2008,Man City,Tottenham,0,3,1,2
+E0,2008,09nov2008,Aston Villa,Middlesbrough,0,3,1,2
+E0,2008,15nov2008,Newcastle,Wigan,1,1,2,2
+E0,2008,15nov2008,Man United,Stoke,3,0,5,0
+E0,2008,15nov2008,Blackburn,Sunderland,0,3,1,2
+E0,2008,15nov2008,Bolton,Liverpool,0,3,0,2
+E0,2008,15nov2008,Arsenal,Aston Villa,0,3,0,2
+E0,2008,15nov2008,West Brom,Chelsea,0,3,0,3
+E0,2008,15nov2008,West Ham,Portsmouth,1,1,0,0
+E0,2008,15nov2008,Fulham,Tottenham,3,0,2,1
+E0,2008,16nov2008,Everton,Middlesbrough,1,1,1,1
+E0,2008,16nov2008,Hull,Man City,1,1,2,2
+E0,2008,22nov2008,Portsmouth,Hull,1,1,2,2
+E0,2008,22nov2008,Man City,Arsenal,3,0,3,0
+E0,2008,22nov2008,Middlesbrough,Bolton,0,3,1,3
+E0,2008,22nov2008,Aston Villa,Man United,1,1,0,0
+E0,2008,22nov2008,Chelsea,Newcastle,1,1,0,0
+E0,2008,22nov2008,Stoke,West Brom,3,0,1,0
+E0,2008,22nov2008,Liverpool,Fulham,1,1,0,0
+E0,2008,23nov2008,Sunderland,West Ham,0,3,0,1
+E0,2008,23nov2008,Tottenham,Blackburn,3,0,1,0
+E0,2008,24nov2008,Wigan,Everton,3,0,1,0
+E0,2008,29nov2008,Sunderland,Bolton,0,3,1,4
+E0,2008,29nov2008,Middlesbrough,Newcastle,1,1,0,0
+E0,2008,29nov2008,Wigan,West Brom,3,0,2,1
+E0,2008,29nov2008,Aston Villa,Fulham,1,1,0,0
+E0,2008,29nov2008,Stoke,Hull,1,1,1,1
+E0,2008,30nov2008,Portsmouth,Blackburn,3,0,3,2
+E0,2008,30nov2008,Man City,Man United,0,3,0,1
+E0,2008,30nov2008,Chelsea,Arsenal,0,3,1,2
+E0,2008,30nov2008,Tottenham,Everton,0,3,0,1
+E0,2008,01dec2008,Liverpool,West Ham,1,1,0,0
+E0,2008,06dec2008,Blackburn,Liverpool,0,3,1,3
+E0,2008,06dec2008,Fulham,Man City,1,1,1,1
+E0,2008,06dec2008,Newcastle,Stoke,1,1,2,2
+E0,2008,06dec2008,Hull,Middlesbrough,3,0,2,1
+E0,2008,06dec2008,Man United,Sunderland,3,0,1,0
+E0,2008,06dec2008,Bolton,Chelsea,0,3,0,2
+E0,2008,06dec2008,Arsenal,Wigan,3,0,1,0
+E0,2008,07dec2008,Everton,Aston Villa,0,3,2,3
+E0,2008,07dec2008,West Brom,Portsmouth,1,1,1,1
+E0,2008,08dec2008,West Ham,Tottenham,0,3,0,2
+E0,2008,13dec2008,Liverpool,Hull,1,1,2,2
+E0,2008,13dec2008,Stoke,Fulham,1,1,0,0
+E0,2008,13dec2008,Wigan,Blackburn,3,0,3,0
+E0,2008,13dec2008,Tottenham,Man United,1,1,0,0
+E0,2008,13dec2008,Aston Villa,Bolton,3,0,4,2
+E0,2008,13dec2008,Man City,Everton,0,3,0,1
+E0,2008,13dec2008,Middlesbrough,Arsenal,1,1,1,1
+E0,2008,13dec2008,Sunderland,West Brom,3,0,4,0
+E0,2008,14dec2008,Portsmouth,Newcastle,0,3,0,3
+E0,2008,14dec2008,Chelsea,West Ham,1,1,1,1
+E0,2008,20dec2008,Blackburn,Stoke,3,0,3,0
+E0,2008,20dec2008,Hull,Sunderland,0,3,1,4
+E0,2008,20dec2008,West Ham,Aston Villa,0,3,0,1
+E0,2008,20dec2008,Bolton,Portsmouth,3,0,2,1
+E0,2008,20dec2008,Fulham,Middlesbrough,3,0,3,0
+E0,2008,21dec2008,West Brom,Man City,3,0,2,1
+E0,2008,21dec2008,Newcastle,Tottenham,3,0,2,1
+E0,2008,21dec2008,Arsenal,Liverpool,1,1,1,1
+E0,2008,22dec2008,Everton,Chelsea,1,1,0,0
+E0,2008,26dec2008,Middlesbrough,Everton,0,3,0,1
+E0,2008,26dec2008,Man City,Hull,3,0,5,1
+E0,2008,26dec2008,Liverpool,Bolton,3,0,3,0
+E0,2008,26dec2008,Wigan,Newcastle,3,0,2,1
+E0,2008,26dec2008,Chelsea,West Brom,3,0,2,0
+E0,2008,26dec2008,Stoke,Man United,0,3,0,1
+E0,2008,26dec2008,Aston Villa,Arsenal,1,1,2,2
+E0,2008,26dec2008,Sunderland,Blackburn,1,1,0,0
+E0,2008,26dec2008,Portsmouth,West Ham,0,3,1,4
+E0,2008,26dec2008,Tottenham,Fulham,1,1,0,0
+E0,2008,28dec2008,Blackburn,Man City,1,1,2,2
+E0,2008,28dec2008,Bolton,Wigan,0,3,0,1
+E0,2008,28dec2008,Newcastle,Liverpool,0,3,1,5
+E0,2008,28dec2008,West Brom,Tottenham,3,0,2,0
+E0,2008,28dec2008,West Ham,Stoke,3,0,2,1
+E0,2008,28dec2008,Everton,Sunderland,3,0,3,0
+E0,2008,28dec2008,Fulham,Chelsea,1,1,2,2
+E0,2008,28dec2008,Arsenal,Portsmouth,3,0,1,0
+E0,2008,29dec2008,Man United,Middlesbrough,3,0,1,0
+E0,2008,30dec2008,Hull,Aston Villa,0,3,0,1
+E0,2008,10jan2009,Everton,Hull,3,0,2,0
+E0,2008,10jan2009,Arsenal,Bolton,3,0,1,0
+E0,2008,10jan2009,Middlesbrough,Sunderland,1,1,1,1
+E0,2008,10jan2009,Stoke,Liverpool,1,1,0,0
+E0,2008,10jan2009,Aston Villa,West Brom,3,0,2,1
+E0,2008,10jan2009,Newcastle,West Ham,1,1,2,2
+E0,2008,11jan2009,Wigan,Tottenham,3,0,1,0
+E0,2008,11jan2009,Man United,Chelsea,3,0,3,0
+E0,2008,14jan2009,Man United,Wigan,3,0,1,0
+E0,2008,17jan2009,Man City,Wigan,3,0,1,0
+E0,2008,17jan2009,West Brom,Middlesbrough,3,0,3,0
+E0,2008,17jan2009,Sunderland,Aston Villa,0,3,1,2
+E0,2008,17jan2009,Blackburn,Newcastle,3,0,3,0
+E0,2008,17jan2009,Bolton,Man United,0,3,0,1
+E0,2008,17jan2009,Chelsea,Stoke,3,0,2,1
+E0,2008,17jan2009,Hull,Arsenal,0,3,1,3
+E0,2008,18jan2009,Tottenham,Portsmouth,1,1,1,1
+E0,2008,18jan2009,West Ham,Fulham,3,0,3,1
+E0,2008,19jan2009,Liverpool,Everton,1,1,1,1
+E0,2008,27jan2009,West Brom,Man United,0,3,0,5
+E0,2008,27jan2009,Portsmouth,Aston Villa,0,3,0,1
+E0,2008,27jan2009,Tottenham,Stoke,3,0,3,1
+E0,2008,27jan2009,Sunderland,Fulham,3,0,1,0
+E0,2008,28jan2009,Man City,Newcastle,3,0,2,1
+E0,2008,28jan2009,West Ham,Hull,3,0,2,0
+E0,2008,28jan2009,Wigan,Liverpool,1,1,1,1
+E0,2008,28jan2009,Chelsea,Middlesbrough,3,0,2,0
+E0,2008,28jan2009,Everton,Arsenal,1,1,1,1
+E0,2008,28jan2009,Blackburn,Bolton,1,1,2,2
+E0,2008,31jan2009,Arsenal,West Ham,1,1,0,0
+E0,2008,31jan2009,Fulham,Portsmouth,3,0,3,1
+E0,2008,31jan2009,Middlesbrough,Blackburn,1,1,0,0
+E0,2008,31jan2009,Stoke,Man City,3,0,1,0
+E0,2008,31jan2009,Man United,Everton,3,0,1,0
+E0,2008,31jan2009,Aston Villa,Wigan,1,1,0,0
+E0,2008,31jan2009,Hull,West Brom,1,1,2,2
+E0,2008,31jan2009,Bolton,Tottenham,3,0,3,2
+E0,2008,01feb2009,Liverpool,Chelsea,3,0,2,0
+E0,2008,01feb2009,Newcastle,Sunderland,1,1,1,1
+E0,2008,07feb2009,Blackburn,Aston Villa,0,3,0,2
+E0,2008,07feb2009,Everton,Bolton,3,0,3,0
+E0,2008,07feb2009,Portsmouth,Liverpool,0,3,2,3
+E0,2008,07feb2009,Chelsea,Hull,1,1,0,0
+E0,2008,07feb2009,West Brom,Newcastle,0,3,2,3
+E0,2008,07feb2009,Sunderland,Stoke,3,0,2,0
+E0,2008,07feb2009,Wigan,Fulham,1,1,0,0
+E0,2008,07feb2009,Man City,Middlesbrough,3,0,1,0
+E0,2008,08feb2009,West Ham,Man United,0,3,0,1
+E0,2008,08feb2009,Tottenham,Arsenal,1,1,0,0
+E0,2008,14feb2009,Portsmouth,Man City,3,0,2,0
+E0,2008,18feb2009,Man United,Fulham,3,0,3,0
+E0,2008,21feb2009,Middlesbrough,Wigan,1,1,0,0
+E0,2008,21feb2009,Arsenal,Sunderland,1,1,0,0
+E0,2008,21feb2009,Man United,Blackburn,3,0,2,1
+E0,2008,21feb2009,Bolton,West Ham,3,0,2,1
+E0,2008,21feb2009,Aston Villa,Chelsea,0,3,0,1
+E0,2008,21feb2009,Stoke,Portsmouth,1,1,2,2
+E0,2008,22feb2009,Liverpool,Man City,1,1,1,1
+E0,2008,22feb2009,Newcastle,Everton,1,1,0,0
+E0,2008,22feb2009,Fulham,West Brom,3,0,2,0
+E0,2008,23feb2009,Hull,Tottenham,0,3,1,2
+E0,2008,28feb2009,Arsenal,Fulham,1,1,0,0
+E0,2008,28feb2009,Middlesbrough,Liverpool,3,0,2,0
+E0,2008,28feb2009,Chelsea,Wigan,3,0,2,1
+E0,2008,28feb2009,Everton,West Brom,3,0,2,0
+E0,2008,01mar2009,Hull,Blackburn,0,3,1,2
+E0,2008,01mar2009,Aston Villa,Stoke,1,1,2,2
+E0,2008,01mar2009,Bolton,Newcastle,3,0,1,0
+E0,2008,01mar2009,West Ham,Man City,3,0,1,0
+E0,2008,03mar2009,Liverpool,Sunderland,3,0,2,0
+E0,2008,03mar2009,Portsmouth,Chelsea,0,3,0,1
+E0,2008,03mar2009,West Brom,Arsenal,0,3,1,3
+E0,2008,04mar2009,Blackburn,Everton,1,1,0,0
+E0,2008,04mar2009,Newcastle,Man United,0,3,1,2
+E0,2008,04mar2009,Tottenham,Middlesbrough,3,0,4,0
+E0,2008,04mar2009,Fulham,Hull,0,3,0,1
+E0,2008,04mar2009,Wigan,West Ham,0,3,0,1
+E0,2008,04mar2009,Man City,Aston Villa,3,0,2,0
+E0,2008,04mar2009,Stoke,Bolton,3,0,2,0
+E0,2008,07mar2009,Sunderland,Tottenham,1,1,1,1
+E0,2008,11mar2009,Fulham,Blackburn,0,3,1,2
+E0,2008,14mar2009,Bolton,Fulham,0,3,1,3
+E0,2008,14mar2009,Man United,Liverpool,0,3,1,4
+E0,2008,14mar2009,Arsenal,Blackburn,3,0,4,0
+E0,2008,14mar2009,Everton,Stoke,3,0,3,1
+E0,2008,14mar2009,Hull,Newcastle,1,1,1,1
+E0,2008,14mar2009,Sunderland,Wigan,0,3,1,2
+E0,2008,14mar2009,Middlesbrough,Portsmouth,1,1,1,1
+E0,2008,15mar2009,Chelsea,Man City,3,0,1,0
+E0,2008,15mar2009,Aston Villa,Tottenham,0,3,1,2
+E0,2008,16mar2009,West Ham,West Brom,1,1,0,0
+E0,2008,21mar2009,Portsmouth,Everton,3,0,2,1
+E0,2008,21mar2009,West Brom,Bolton,1,1,1,1
+E0,2008,21mar2009,Blackburn,West Ham,1,1,1,1
+E0,2008,21mar2009,Fulham,Man United,3,0,2,0
+E0,2008,21mar2009,Newcastle,Arsenal,0,3,1,3
+E0,2008,21mar2009,Tottenham,Chelsea,3,0,1,0
+E0,2008,21mar2009,Stoke,Middlesbrough,3,0,1,0
+E0,2008,22mar2009,Liverpool,Aston Villa,3,0,5,0
+E0,2008,22mar2009,Man City,Sunderland,3,0,1,0
+E0,2008,22mar2009,Wigan,Hull,3,0,1,0
+E0,2008,04apr2009,Hull,Portsmouth,1,1,0,0
+E0,2008,04apr2009,Blackburn,Tottenham,3,0,2,1
+E0,2008,04apr2009,Newcastle,Chelsea,0,3,0,2
+E0,2008,04apr2009,Fulham,Liverpool,0,3,0,1
+E0,2008,04apr2009,West Ham,Sunderland,3,0,2,0
+E0,2008,04apr2009,Arsenal,Man City,3,0,2,0
+E0,2008,04apr2009,Bolton,Middlesbrough,3,0,4,1
+E0,2008,04apr2009,West Brom,Stoke,0,3,0,2
+E0,2008,05apr2009,Everton,Wigan,3,0,4,0
+E0,2008,05apr2009,Man United,Aston Villa,3,0,3,2
+E0,2008,11apr2009,Stoke,Newcastle,1,1,1,1
+E0,2008,11apr2009,Wigan,Arsenal,0,3,1,4
+E0,2008,11apr2009,Tottenham,West Ham,3,0,1,0
+E0,2008,11apr2009,Middlesbrough,Hull,3,0,3,1
+E0,2008,11apr2009,Portsmouth,West Brom,1,1,2,2
+E0,2008,11apr2009,Liverpool,Blackburn,3,0,4,0
+E0,2008,11apr2009,Sunderland,Man United,0,3,1,2
+E0,2008,11apr2009,Chelsea,Bolton,3,0,4,3
+E0,2008,12apr2009,Aston Villa,Everton,1,1,3,3
+E0,2008,12apr2009,Man City,Fulham,0,3,1,3
+E0,2008,18apr2009,Middlesbrough,Fulham,1,1,0,0
+E0,2008,18apr2009,Stoke,Blackburn,3,0,1,0
+E0,2008,18apr2009,Portsmouth,Bolton,3,0,1,0
+E0,2008,18apr2009,Aston Villa,West Ham,1,1,1,1
+E0,2008,18apr2009,Sunderland,Hull,3,0,1,0
+E0,2008,19apr2009,Man City,West Brom,3,0,4,2
+E0,2008,19apr2009,Tottenham,Newcastle,3,0,1,0
+E0,2008,21apr2009,Liverpool,Arsenal,1,1,4,4
+E0,2008,22apr2009,Man United,Portsmouth,3,0,2,0
+E0,2008,22apr2009,Chelsea,Everton,1,1,0,0
+E0,2008,25apr2009,Man United,Tottenham,3,0,5,2
+E0,2008,25apr2009,West Ham,Chelsea,0,3,0,1
+E0,2008,25apr2009,Everton,Man City,0,3,1,2
+E0,2008,25apr2009,Fulham,Stoke,3,0,1,0
+E0,2008,25apr2009,West Brom,Sunderland,3,0,3,0
+E0,2008,25apr2009,Bolton,Aston Villa,1,1,1,1
+E0,2008,25apr2009,Hull,Liverpool,0,3,1,3
+E0,2008,26apr2009,Arsenal,Middlesbrough,3,0,2,0
+E0,2008,26apr2009,Blackburn,Wigan,3,0,2,0
+E0,2008,27apr2009,Newcastle,Portsmouth,1,1,0,0
+E0,2008,02may2009,Man City,Blackburn,3,0,3,1
+E0,2008,02may2009,Portsmouth,Arsenal,0,3,0,3
+E0,2008,02may2009,Stoke,West Ham,0,3,0,1
+E0,2008,02may2009,Chelsea,Fulham,3,0,3,1
+E0,2008,02may2009,Wigan,Bolton,1,1,0,0
+E0,2008,02may2009,Tottenham,West Brom,3,0,1,0
+E0,2008,02may2009,Middlesbrough,Man United,0,3,0,2
+E0,2008,03may2009,Liverpool,Newcastle,3,0,3,0
+E0,2008,03may2009,Sunderland,Everton,0,3,0,2
+E0,2008,04may2009,Aston Villa,Hull,3,0,1,0
+E0,2008,09may2009,Blackburn,Portsmouth,3,0,2,0
+E0,2008,09may2009,Fulham,Aston Villa,3,0,3,1
+E0,2008,09may2009,Bolton,Sunderland,1,1,0,0
+E0,2008,09may2009,West Brom,Wigan,3,0,3,1
+E0,2008,09may2009,Hull,Stoke,0,3,1,2
+E0,2008,09may2009,West Ham,Liverpool,0,3,0,3
+E0,2008,09may2009,Everton,Tottenham,1,1,0,0
+E0,2008,10may2009,Arsenal,Chelsea,0,3,1,4
+E0,2008,10may2009,Man United,Man City,3,0,2,0
+E0,2008,11may2009,Newcastle,Middlesbrough,3,0,3,1
+E0,2008,13may2009,Wigan,Man United,0,3,1,2
+E0,2008,16may2009,Man United,Arsenal,1,1,0,0
+E0,2008,16may2009,Middlesbrough,Aston Villa,1,1,1,1
+E0,2008,16may2009,Stoke,Wigan,3,0,2,0
+E0,2008,16may2009,Everton,West Ham,3,0,3,1
+E0,2008,16may2009,Tottenham,Man City,3,0,2,1
+E0,2008,16may2009,Bolton,Hull,1,1,1,1
+E0,2008,16may2009,Newcastle,Fulham,0,3,0,1
+E0,2008,17may2009,West Brom,Liverpool,0,3,0,2
+E0,2008,17may2009,Chelsea,Blackburn,3,0,2,0
+E0,2008,18may2009,Portsmouth,Sunderland,3,0,3,1
+E0,2008,24may2009,Liverpool,Tottenham,3,0,3,1
+E0,2008,24may2009,Man City,Bolton,3,0,1,0
+E0,2008,24may2009,Sunderland,Chelsea,0,3,2,3
+E0,2008,24may2009,Aston Villa,Newcastle,3,0,1,0
+E0,2008,24may2009,Hull,Man United,0,3,0,1
+E0,2008,24may2009,Arsenal,Stoke,3,0,4,1
+E0,2008,24may2009,Wigan,Portsmouth,3,0,1,0
+E0,2008,24may2009,Blackburn,West Brom,1,1,0,0
+E0,2008,24may2009,Fulham,Everton,0,3,0,2
+E0,2008,24may2009,West Ham,Middlesbrough,3,0,2,1
+E0,2009,15aug2009,Bolton,Sunderland,0,3,0,1
+E0,2009,15aug2009,Stoke,Burnley,3,0,2,0
+E0,2009,15aug2009,Chelsea,Hull,3,0,2,1
+E0,2009,15aug2009,Everton,Arsenal,0,3,1,6
+E0,2009,15aug2009,Wolves,West Ham,0,3,0,2
+E0,2009,15aug2009,Portsmouth,Fulham,0,3,0,1
+E0,2009,15aug2009,Blackburn,Man City,0,3,0,2
+E0,2009,15aug2009,Aston Villa,Wigan,0,3,0,2
+E0,2009,16aug2009,Tottenham,Liverpool,3,0,2,1
+E0,2009,16aug2009,Man United,Birmingham,3,0,1,0
+E0,2009,18aug2009,Wigan,Wolves,0,3,0,1
+E0,2009,18aug2009,Sunderland,Chelsea,0,3,1,3
+E0,2009,19aug2009,Burnley,Man United,3,0,1,0
+E0,2009,19aug2009,Liverpool,Stoke,3,0,4,0
+E0,2009,19aug2009,Birmingham,Portsmouth,3,0,1,0
+E0,2009,19aug2009,Hull,Tottenham,0,3,1,5
+E0,2009,22aug2009,Man City,Wolves,3,0,1,0
+E0,2009,22aug2009,Hull,Bolton,3,0,1,0
+E0,2009,22aug2009,Wigan,Man United,0,3,0,5
+E0,2009,22aug2009,Birmingham,Stoke,1,1,0,0
+E0,2009,22aug2009,Arsenal,Portsmouth,3,0,4,1
+E0,2009,22aug2009,Sunderland,Blackburn,3,0,2,1
+E0,2009,23aug2009,West Ham,Tottenham,0,3,1,2
+E0,2009,23aug2009,Burnley,Everton,3,0,1,0
+E0,2009,23aug2009,Fulham,Chelsea,0,3,0,2
+E0,2009,24aug2009,Liverpool,Aston Villa,0,3,1,3
+E0,2009,29aug2009,Tottenham,Birmingham,3,0,2,1
+E0,2009,29aug2009,Blackburn,West Ham,1,1,0,0
+E0,2009,29aug2009,Chelsea,Burnley,3,0,3,0
+E0,2009,29aug2009,Wolves,Hull,1,1,1,1
+E0,2009,29aug2009,Bolton,Liverpool,0,3,2,3
+E0,2009,29aug2009,Man United,Arsenal,3,0,2,1
+E0,2009,29aug2009,Stoke,Sunderland,3,0,1,0
+E0,2009,30aug2009,Everton,Wigan,3,0,2,1
+E0,2009,30aug2009,Aston Villa,Fulham,3,0,2,0
+E0,2009,30aug2009,Portsmouth,Man City,0,3,0,1
+E0,2009,12sep2009,Sunderland,Hull,3,0,4,1
+E0,2009,12sep2009,Portsmouth,Bolton,0,3,2,3
+E0,2009,12sep2009,Tottenham,Man United,0,3,1,3
+E0,2009,12sep2009,Man City,Arsenal,3,0,4,2
+E0,2009,12sep2009,Liverpool,Burnley,3,0,4,0
+E0,2009,12sep2009,Stoke,Chelsea,0,3,1,2
+E0,2009,12sep2009,Blackburn,Wolves,3,0,3,1
+E0,2009,12sep2009,Wigan,West Ham,3,0,1,0
+E0,2009,13sep2009,Birmingham,Aston Villa,0,3,0,1
+E0,2009,13sep2009,Fulham,Everton,3,0,2,1
+E0,2009,19sep2009,Bolton,Stoke,1,1,1,1
+E0,2009,19sep2009,Hull,Birmingham,0,3,0,1
+E0,2009,19sep2009,Aston Villa,Portsmouth,3,0,2,0
+E0,2009,19sep2009,Arsenal,Wigan,3,0,4,0
+E0,2009,19sep2009,West Ham,Liverpool,0,3,2,3
+E0,2009,19sep2009,Burnley,Sunderland,3,0,3,1
+E0,2009,20sep2009,Wolves,Fulham,3,0,2,1
+E0,2009,20sep2009,Man United,Man City,3,0,4,3
+E0,2009,20sep2009,Chelsea,Tottenham,3,0,3,0
+E0,2009,20sep2009,Everton,Blackburn,3,0,3,0
+E0,2009,26sep2009,Tottenham,Burnley,3,0,5,0
+E0,2009,26sep2009,Wigan,Chelsea,3,0,3,1
+E0,2009,26sep2009,Blackburn,Aston Villa,3,0,2,1
+E0,2009,26sep2009,Fulham,Arsenal,0,3,0,1
+E0,2009,26sep2009,Liverpool,Hull,3,0,6,1
+E0,2009,26sep2009,Portsmouth,Everton,0,3,0,1
+E0,2009,26sep2009,Birmingham,Bolton,0,3,1,2
+E0,2009,26sep2009,Stoke,Man United,0,3,0,2
+E0,2009,27sep2009,Sunderland,Wolves,3,0,5,2
+E0,2009,28sep2009,Man City,West Ham,3,0,3,1
+E0,2009,03oct2009,Burnley,Birmingham,3,0,2,1
+E0,2009,03oct2009,Man United,Sunderland,1,1,2,2
+E0,2009,03oct2009,Bolton,Tottenham,1,1,2,2
+E0,2009,03oct2009,Hull,Wigan,3,0,2,1
+E0,2009,03oct2009,Wolves,Portsmouth,0,3,0,1
+E0,2009,04oct2009,Arsenal,Blackburn,3,0,6,2
+E0,2009,04oct2009,West Ham,Fulham,1,1,2,2
+E0,2009,04oct2009,Chelsea,Liverpool,3,0,2,0
+E0,2009,04oct2009,Everton,Stoke,1,1,1,1
+E0,2009,05oct2009,Aston Villa,Man City,1,1,1,1
+E0,2009,17oct2009,Everton,Wolves,1,1,1,1
+E0,2009,17oct2009,Aston Villa,Chelsea,3,0,2,1
+E0,2009,17oct2009,Portsmouth,Tottenham,0,3,1,2
+E0,2009,17oct2009,Stoke,West Ham,3,0,2,1
+E0,2009,17oct2009,Arsenal,Birmingham,3,0,3,1
+E0,2009,17oct2009,Sunderland,Liverpool,3,0,1,0
+E0,2009,17oct2009,Man United,Bolton,3,0,2,1
+E0,2009,18oct2009,Wigan,Man City,1,1,1,1
+E0,2009,18oct2009,Blackburn,Burnley,3,0,3,2
+E0,2009,19oct2009,Fulham,Hull,3,0,2,0
+E0,2009,24oct2009,Wolves,Aston Villa,1,1,1,1
+E0,2009,24oct2009,Hull,Portsmouth,1,1,0,0
+E0,2009,24oct2009,Tottenham,Stoke,0,3,0,1
+E0,2009,24oct2009,Birmingham,Sunderland,3,0,2,1
+E0,2009,24oct2009,Burnley,Wigan,0,3,1,3
+E0,2009,24oct2009,Chelsea,Blackburn,3,0,5,0
+E0,2009,25oct2009,West Ham,Arsenal,1,1,2,2
+E0,2009,25oct2009,Liverpool,Man United,3,0,2,0
+E0,2009,25oct2009,Man City,Fulham,1,1,2,2
+E0,2009,25oct2009,Bolton,Everton,3,0,3,2
+E0,2009,31oct2009,Arsenal,Tottenham,3,0,3,0
+E0,2009,31oct2009,Sunderland,West Ham,1,1,2,2
+E0,2009,31oct2009,Everton,Aston Villa,1,1,1,1
+E0,2009,31oct2009,Stoke,Wolves,1,1,2,2
+E0,2009,31oct2009,Portsmouth,Wigan,3,0,4,0
+E0,2009,31oct2009,Man United,Blackburn,3,0,2,0
+E0,2009,31oct2009,Bolton,Chelsea,0,3,0,4
+E0,2009,31oct2009,Fulham,Liverpool,3,0,3,1
+E0,2009,31oct2009,Burnley,Hull,3,0,2,0
+E0,2009,01nov2009,Birmingham,Man City,1,1,0,0
+E0,2009,04nov2009,West Ham,Aston Villa,3,0,2,1
+E0,2009,07nov2009,Tottenham,Sunderland,3,0,2,0
+E0,2009,07nov2009,Man City,Burnley,1,1,3,3
+E0,2009,07nov2009,Wolves,Arsenal,0,3,1,4
+E0,2009,07nov2009,Blackburn,Portsmouth,3,0,3,1
+E0,2009,07nov2009,Aston Villa,Bolton,3,0,5,1
+E0,2009,08nov2009,Chelsea,Man United,3,0,1,0
+E0,2009,08nov2009,Hull,Stoke,3,0,2,1
+E0,2009,08nov2009,West Ham,Everton,0,3,1,2
+E0,2009,08nov2009,Wigan,Fulham,1,1,1,1
+E0,2009,09nov2009,Liverpool,Birmingham,1,1,2,2
+E0,2009,21nov2009,Hull,West Ham,1,1,3,3
+E0,2009,21nov2009,Birmingham,Fulham,3,0,1,0
+E0,2009,21nov2009,Man United,Everton,3,0,3,0
+E0,2009,21nov2009,Burnley,Aston Villa,1,1,1,1
+E0,2009,21nov2009,Sunderland,Arsenal,3,0,1,0
+E0,2009,21nov2009,Liverpool,Man City,1,1,2,2
+E0,2009,21nov2009,Chelsea,Wolves,3,0,4,0
+E0,2009,22nov2009,Tottenham,Wigan,3,0,9,1
+E0,2009,22nov2009,Bolton,Blackburn,0,3,0,2
+E0,2009,22nov2009,Stoke,Portsmouth,3,0,1,0
+E0,2009,25nov2009,Hull,Everton,3,0,3,2
+E0,2009,25nov2009,Fulham,Blackburn,3,0,3,0
+E0,2009,28nov2009,Man City,Hull,1,1,1,1
+E0,2009,28nov2009,West Ham,Burnley,3,0,5,3
+E0,2009,28nov2009,Portsmouth,Man United,0,3,1,4
+E0,2009,28nov2009,Wigan,Sunderland,3,0,1,0
+E0,2009,28nov2009,Aston Villa,Tottenham,1,1,1,1
+E0,2009,28nov2009,Blackburn,Stoke,1,1,0,0
+E0,2009,28nov2009,Fulham,Bolton,1,1,1,1
+E0,2009,29nov2009,Everton,Liverpool,0,3,0,2
+E0,2009,29nov2009,Arsenal,Chelsea,0,3,0,3
+E0,2009,29nov2009,Wolves,Birmingham,0,3,0,1
+E0,2009,05dec2009,West Ham,Man United,0,3,0,4
+E0,2009,05dec2009,Portsmouth,Burnley,3,0,2,0
+E0,2009,05dec2009,Wigan,Birmingham,0,3,2,3
+E0,2009,05dec2009,Man City,Chelsea,3,0,2,1
+E0,2009,05dec2009,Wolves,Bolton,3,0,2,1
+E0,2009,05dec2009,Arsenal,Stoke,3,0,2,0
+E0,2009,05dec2009,Blackburn,Liverpool,1,1,0,0
+E0,2009,05dec2009,Aston Villa,Hull,3,0,3,0
+E0,2009,06dec2009,Fulham,Sunderland,3,0,1,0
+E0,2009,06dec2009,Everton,Tottenham,1,1,2,2
+E0,2009,12dec2009,Bolton,Man City,1,1,3,3
+E0,2009,12dec2009,Tottenham,Wolves,0,3,0,1
+E0,2009,12dec2009,Hull,Blackburn,1,1,0,0
+E0,2009,12dec2009,Stoke,Wigan,1,1,2,2
+E0,2009,12dec2009,Birmingham,West Ham,3,0,1,0
+E0,2009,12dec2009,Sunderland,Portsmouth,1,1,1,1
+E0,2009,12dec2009,Chelsea,Everton,1,1,3,3
+E0,2009,12dec2009,Man United,Aston Villa,0,3,0,1
+E0,2009,12dec2009,Burnley,Fulham,1,1,1,1
+E0,2009,13dec2009,Liverpool,Arsenal,0,3,1,2
+E0,2009,15dec2009,Man United,Wolves,3,0,3,0
+E0,2009,15dec2009,Sunderland,Aston Villa,0,3,0,2
+E0,2009,15dec2009,Bolton,West Ham,3,0,3,1
+E0,2009,15dec2009,Birmingham,Blackburn,3,0,2,1
+E0,2009,16dec2009,Tottenham,Man City,3,0,3,0
+E0,2009,16dec2009,Burnley,Arsenal,1,1,1,1
+E0,2009,16dec2009,Chelsea,Portsmouth,3,0,2,1
+E0,2009,16dec2009,Liverpool,Wigan,3,0,2,1
+E0,2009,19dec2009,Fulham,Man United,3,0,3,0
+E0,2009,19dec2009,Arsenal,Hull,3,0,3,0
+E0,2009,19dec2009,Blackburn,Tottenham,0,3,0,2
+E0,2009,19dec2009,Man City,Sunderland,3,0,4,3
+E0,2009,19dec2009,Portsmouth,Liverpool,3,0,2,0
+E0,2009,19dec2009,Aston Villa,Stoke,3,0,1,0
+E0,2009,20dec2009,Wolves,Burnley,3,0,2,0
+E0,2009,20dec2009,Everton,Birmingham,1,1,1,1
+E0,2009,20dec2009,West Ham,Chelsea,1,1,1,1
+E0,2009,26dec2009,Birmingham,Chelsea,1,1,0,0
+E0,2009,26dec2009,Man City,Stoke,3,0,2,0
+E0,2009,26dec2009,Burnley,Bolton,1,1,1,1
+E0,2009,26dec2009,Sunderland,Everton,1,1,1,1
+E0,2009,26dec2009,Fulham,Tottenham,1,1,0,0
+E0,2009,26dec2009,Liverpool,Wolves,3,0,2,0
+E0,2009,26dec2009,Wigan,Blackburn,1,1,1,1
+E0,2009,26dec2009,West Ham,Portsmouth,3,0,2,0
+E0,2009,27dec2009,Hull,Man United,0,3,1,3
+E0,2009,27dec2009,Arsenal,Aston Villa,3,0,3,0
+E0,2009,28dec2009,Everton,Burnley,3,0,2,0
+E0,2009,28dec2009,Chelsea,Fulham,3,0,2,1
+E0,2009,28dec2009,Tottenham,West Ham,3,0,2,0
+E0,2009,28dec2009,Wolves,Man City,0,3,0,3
+E0,2009,28dec2009,Blackburn,Sunderland,1,1,2,2
+E0,2009,28dec2009,Stoke,Birmingham,0,3,0,1
+E0,2009,29dec2009,Aston Villa,Liverpool,0,3,0,1
+E0,2009,29dec2009,Bolton,Hull,1,1,2,2
+E0,2009,30dec2009,Portsmouth,Arsenal,0,3,1,4
+E0,2009,30dec2009,Man United,Wigan,3,0,5,0
+E0,2009,05jan2010,Stoke,Fulham,3,0,3,2
+E0,2009,09jan2010,Arsenal,Everton,1,1,2,2
+E0,2009,09jan2010,Birmingham,Man United,1,1,1,1
+E0,2009,11jan2010,Man City,Blackburn,3,0,4,1
+E0,2009,16jan2010,Man United,Burnley,3,0,3,0
+E0,2009,16jan2010,Tottenham,Hull,1,1,0,0
+E0,2009,16jan2010,Chelsea,Sunderland,3,0,7,2
+E0,2009,16jan2010,Wolves,Wigan,0,3,0,2
+E0,2009,16jan2010,Stoke,Liverpool,1,1,1,1
+E0,2009,16jan2010,Everton,Man City,3,0,2,0
+E0,2009,17jan2010,Bolton,Arsenal,0,3,0,2
+E0,2009,17jan2010,Aston Villa,West Ham,1,1,0,0
+E0,2009,17jan2010,Blackburn,Fulham,3,0,2,0
+E0,2009,20jan2010,Arsenal,Bolton,3,0,4,2
+E0,2009,20jan2010,Liverpool,Tottenham,3,0,2,0
+E0,2009,23jan2010,Man United,Hull,3,0,4,0
+E0,2009,26jan2010,Tottenham,Fulham,3,0,2,0
+E0,2009,26jan2010,Portsmouth,West Ham,1,1,1,1
+E0,2009,26jan2010,Wolves,Liverpool,1,1,0,0
+E0,2009,26jan2010,Bolton,Burnley,3,0,1,0
+E0,2009,27jan2010,Chelsea,Birmingham,3,0,3,0
+E0,2009,27jan2010,Aston Villa,Arsenal,1,1,0,0
+E0,2009,27jan2010,Blackburn,Wigan,3,0,2,1
+E0,2009,27jan2010,Everton,Sunderland,3,0,2,0
+E0,2009,30jan2010,Birmingham,Tottenham,1,1,1,1
+E0,2009,30jan2010,West Ham,Blackburn,1,1,0,0
+E0,2009,30jan2010,Burnley,Chelsea,0,3,1,2
+E0,2009,30jan2010,Hull,Wolves,1,1,2,2
+E0,2009,30jan2010,Wigan,Everton,0,3,0,1
+E0,2009,30jan2010,Liverpool,Bolton,3,0,2,0
+E0,2009,30jan2010,Fulham,Aston Villa,0,3,0,2
+E0,2009,31jan2010,Man City,Portsmouth,3,0,2,0
+E0,2009,31jan2010,Arsenal,Man United,0,3,1,3
+E0,2009,01feb2010,Sunderland,Stoke,1,1,0,0
+E0,2009,02feb2010,Hull,Chelsea,1,1,1,1
+E0,2009,03feb2010,Fulham,Portsmouth,3,0,1,0
+E0,2009,06feb2010,Bolton,Fulham,1,1,0,0
+E0,2009,06feb2010,Man United,Portsmouth,3,0,5,0
+E0,2009,06feb2010,Liverpool,Everton,3,0,1,0
+E0,2009,06feb2010,Hull,Man City,3,0,2,1
+E0,2009,06feb2010,Sunderland,Wigan,1,1,1,1
+E0,2009,06feb2010,Tottenham,Aston Villa,1,1,0,0
+E0,2009,06feb2010,Stoke,Blackburn,3,0,3,0
+E0,2009,06feb2010,Burnley,West Ham,3,0,2,1
+E0,2009,07feb2010,Chelsea,Arsenal,3,0,2,0
+E0,2009,07feb2010,Birmingham,Wolves,3,0,2,1
+E0,2009,09feb2010,Portsmouth,Sunderland,1,1,1,1
+E0,2009,09feb2010,Man City,Bolton,3,0,2,0
+E0,2009,09feb2010,Fulham,Burnley,3,0,3,0
+E0,2009,09feb2010,Wigan,Stoke,1,1,1,1
+E0,2009,10feb2010,Everton,Chelsea,3,0,2,1
+E0,2009,10feb2010,Blackburn,Hull,3,0,1,0
+E0,2009,10feb2010,Wolves,Tottenham,3,0,1,0
+E0,2009,10feb2010,Arsenal,Liverpool,3,0,1,0
+E0,2009,10feb2010,Aston Villa,Man United,1,1,1,1
+E0,2009,10feb2010,West Ham,Birmingham,3,0,2,0
+E0,2009,16feb2010,Stoke,Man City,1,1,1,1
+E0,2009,17feb2010,Wigan,Bolton,1,1,0,0
+E0,2009,20feb2010,West Ham,Hull,3,0,3,0
+E0,2009,20feb2010,Wolves,Chelsea,0,3,0,2
+E0,2009,20feb2010,Arsenal,Sunderland,3,0,2,0
+E0,2009,20feb2010,Portsmouth,Stoke,0,3,1,2
+E0,2009,20feb2010,Everton,Man United,3,0,3,1
+E0,2009,21feb2010,Man City,Liverpool,1,1,0,0
+E0,2009,21feb2010,Fulham,Birmingham,3,0,2,1
+E0,2009,21feb2010,Blackburn,Bolton,3,0,3,0
+E0,2009,21feb2010,Aston Villa,Burnley,3,0,5,2
+E0,2009,21feb2010,Wigan,Tottenham,0,3,0,3
+E0,2009,23feb2010,Man United,West Ham,3,0,3,0
+E0,2009,27feb2010,Chelsea,Man City,0,3,2,4
+E0,2009,27feb2010,Birmingham,Wigan,3,0,1,0
+E0,2009,27feb2010,Bolton,Wolves,3,0,1,0
+E0,2009,27feb2010,Stoke,Arsenal,0,3,1,3
+E0,2009,27feb2010,Burnley,Portsmouth,0,3,1,2
+E0,2009,28feb2010,Liverpool,Blackburn,3,0,2,1
+E0,2009,28feb2010,Sunderland,Fulham,1,1,0,0
+E0,2009,28feb2010,Tottenham,Everton,3,0,2,1
+E0,2009,06mar2010,Wolves,Man United,0,3,0,1
+E0,2009,06mar2010,Arsenal,Burnley,3,0,3,1
+E0,2009,06mar2010,West Ham,Bolton,0,3,1,2
+E0,2009,07mar2010,Everton,Hull,3,0,5,1
+E0,2009,08mar2010,Wigan,Liverpool,3,0,1,0
+E0,2009,09mar2010,Sunderland,Bolton,3,0,4,0
+E0,2009,09mar2010,Portsmouth,Birmingham,0,3,1,2
+E0,2009,10mar2010,Burnley,Stoke,1,1,1,1
+E0,2009,13mar2010,Tottenham,Blackburn,3,0,3,1
+E0,2009,13mar2010,Birmingham,Everton,1,1,2,2
+E0,2009,13mar2010,Stoke,Aston Villa,1,1,0,0
+E0,2009,13mar2010,Hull,Arsenal,0,3,1,2
+E0,2009,13mar2010,Chelsea,West Ham,3,0,4,1
+E0,2009,13mar2010,Burnley,Wolves,0,3,1,2
+E0,2009,13mar2010,Bolton,Wigan,3,0,4,0
+E0,2009,14mar2010,Man United,Fulham,3,0,3,0
+E0,2009,14mar2010,Sunderland,Man City,1,1,1,1
+E0,2009,15mar2010,Liverpool,Portsmouth,3,0,4,1
+E0,2009,16mar2010,Wigan,Aston Villa,0,3,1,2
+E0,2009,20mar2010,Sunderland,Birmingham,3,0,3,1
+E0,2009,20mar2010,Portsmouth,Hull,3,0,3,2
+E0,2009,20mar2010,Stoke,Tottenham,0,3,1,2
+E0,2009,20mar2010,Wigan,Burnley,3,0,1,0
+E0,2009,20mar2010,Aston Villa,Wolves,1,1,2,2
+E0,2009,20mar2010,Arsenal,West Ham,3,0,2,0
+E0,2009,20mar2010,Everton,Bolton,3,0,2,0
+E0,2009,21mar2010,Fulham,Man City,0,3,1,2
+E0,2009,21mar2010,Blackburn,Chelsea,1,1,1,1
+E0,2009,21mar2010,Man United,Liverpool,3,0,2,1
+E0,2009,23mar2010,West Ham,Wolves,0,3,1,3
+E0,2009,24mar2010,Portsmouth,Chelsea,0,3,0,5
+E0,2009,24mar2010,Man City,Everton,0,3,0,2
+E0,2009,24mar2010,Aston Villa,Sunderland,1,1,1,1
+E0,2009,24mar2010,Blackburn,Birmingham,3,0,2,1
+E0,2009,27mar2010,Bolton,Man United,0,3,0,4
+E0,2009,27mar2010,Hull,Fulham,3,0,2,0
+E0,2009,27mar2010,Birmingham,Arsenal,1,1,1,1
+E0,2009,27mar2010,Wolves,Everton,1,1,0,0
+E0,2009,27mar2010,Chelsea,Aston Villa,3,0,7,1
+E0,2009,27mar2010,Tottenham,Portsmouth,3,0,2,0
+E0,2009,27mar2010,West Ham,Stoke,0,3,0,1
+E0,2009,28mar2010,Burnley,Blackburn,0,3,0,1
+E0,2009,28mar2010,Liverpool,Sunderland,3,0,3,0
+E0,2009,29mar2010,Man City,Wigan,3,0,3,0
+E0,2009,03apr2010,Portsmouth,Blackburn,1,1,0,0
+E0,2009,03apr2010,Bolton,Aston Villa,0,3,0,1
+E0,2009,03apr2010,Stoke,Hull,3,0,2,0
+E0,2009,03apr2010,Arsenal,Wolves,3,0,1,0
+E0,2009,03apr2010,Sunderland,Tottenham,3,0,3,1
+E0,2009,03apr2010,Man United,Chelsea,0,3,1,2
+E0,2009,03apr2010,Burnley,Man City,0,3,1,6
+E0,2009,04apr2010,Everton,West Ham,1,1,2,2
+E0,2009,04apr2010,Birmingham,Liverpool,1,1,1,1
+E0,2009,04apr2010,Fulham,Wigan,3,0,2,1
+E0,2009,10apr2010,West Ham,Sunderland,3,0,1,0
+E0,2009,10apr2010,Hull,Burnley,0,3,1,4
+E0,2009,11apr2010,Blackburn,Man United,1,1,0,0
+E0,2009,11apr2010,Wolves,Stoke,1,1,0,0
+E0,2009,11apr2010,Man City,Birmingham,3,0,5,1
+E0,2009,11apr2010,Liverpool,Fulham,1,1,0,0
+E0,2009,13apr2010,Chelsea,Bolton,3,0,1,0
+E0,2009,14apr2010,Tottenham,Arsenal,3,0,2,1
+E0,2009,14apr2010,Aston Villa,Everton,1,1,2,2
+E0,2009,14apr2010,Wigan,Portsmouth,1,1,0,0
+E0,2009,17apr2010,Blackburn,Everton,0,3,2,3
+E0,2009,17apr2010,Birmingham,Hull,1,1,0,0
+E0,2009,17apr2010,Man City,Man United,0,3,0,1
+E0,2009,17apr2010,Tottenham,Chelsea,3,0,2,1
+E0,2009,17apr2010,Sunderland,Burnley,3,0,2,1
+E0,2009,17apr2010,Stoke,Bolton,0,3,1,2
+E0,2009,17apr2010,Fulham,Wolves,1,1,0,0
+E0,2009,18apr2010,Wigan,Arsenal,3,0,3,2
+E0,2009,18apr2010,Portsmouth,Aston Villa,0,3,1,2
+E0,2009,19apr2010,Liverpool,West Ham,3,0,3,0
+E0,2009,21apr2010,Hull,Aston Villa,0,3,0,2
+E0,2009,24apr2010,Arsenal,Man City,1,1,0,0
+E0,2009,24apr2010,West Ham,Wigan,3,0,3,2
+E0,2009,24apr2010,Bolton,Portsmouth,1,1,2,2
+E0,2009,24apr2010,Man United,Tottenham,3,0,3,1
+E0,2009,24apr2010,Hull,Sunderland,0,3,0,1
+E0,2009,24apr2010,Wolves,Blackburn,1,1,1,1
+E0,2009,25apr2010,Burnley,Liverpool,0,3,0,4
+E0,2009,25apr2010,Chelsea,Stoke,3,0,7,0
+E0,2009,25apr2010,Aston Villa,Birmingham,3,0,1,0
+E0,2009,25apr2010,Everton,Fulham,3,0,2,1
+E0,2009,01may2010,Stoke,Everton,1,1,0,0
+E0,2009,01may2010,Tottenham,Bolton,3,0,1,0
+E0,2009,01may2010,Portsmouth,Wolves,3,0,3,1
+E0,2009,01may2010,Man City,Aston Villa,3,0,3,1
+E0,2009,01may2010,Birmingham,Burnley,3,0,2,1
+E0,2009,02may2010,Sunderland,Man United,0,3,0,1
+E0,2009,02may2010,Fulham,West Ham,3,0,3,2
+E0,2009,02may2010,Liverpool,Chelsea,0,3,0,2
+E0,2009,03may2010,Blackburn,Arsenal,3,0,2,1
+E0,2009,03may2010,Wigan,Hull,1,1,2,2
+E0,2009,05may2010,Fulham,Stoke,0,3,0,1
+E0,2009,05may2010,Man City,Tottenham,0,3,0,1
+E0,2009,09may2010,Burnley,Tottenham,3,0,4,2
+E0,2009,09may2010,Arsenal,Fulham,3,0,4,0
+E0,2009,09may2010,Wolves,Sunderland,3,0,2,1
+E0,2009,09may2010,Man United,Stoke,3,0,4,0
+E0,2009,09may2010,Hull,Liverpool,1,1,0,0
+E0,2009,09may2010,West Ham,Man City,1,1,1,1
+E0,2009,09may2010,Aston Villa,Blackburn,0,3,0,1
+E0,2009,09may2010,Chelsea,Wigan,3,0,8,0
+E0,2009,09may2010,Everton,Portsmouth,3,0,1,0
+E0,2009,09may2010,Bolton,Birmingham,3,0,2,1
+E0,2010,14aug2010,Tottenham,Man City,1,1,0,0
+E0,2010,14aug2010,Aston Villa,West Ham,3,0,3,0
+E0,2010,14aug2010,Blackburn,Everton,3,0,1,0
+E0,2010,14aug2010,Sunderland,Birmingham,1,1,2,2
+E0,2010,14aug2010,Wigan,Blackpool,0,3,0,4
+E0,2010,14aug2010,Bolton,Fulham,1,1,0,0
+E0,2010,14aug2010,Chelsea,West Brom,3,0,6,0
+E0,2010,14aug2010,Wolves,Stoke,3,0,2,1
+E0,2010,15aug2010,Liverpool,Arsenal,1,1,1,1
+E0,2010,16aug2010,Man United,Newcastle,3,0,3,0
+E0,2010,21aug2010,Everton,Wolves,1,1,1,1
+E0,2010,21aug2010,Stoke,Tottenham,0,3,1,2
+E0,2010,21aug2010,West Ham,Bolton,0,3,1,3
+E0,2010,21aug2010,Birmingham,Blackburn,3,0,2,1
+E0,2010,21aug2010,Arsenal,Blackpool,3,0,6,0
+E0,2010,21aug2010,Wigan,Chelsea,0,3,0,6
+E0,2010,21aug2010,West Brom,Sunderland,3,0,1,0
+E0,2010,22aug2010,Newcastle,Aston Villa,3,0,6,0
+E0,2010,22aug2010,Fulham,Man United,1,1,2,2
+E0,2010,23aug2010,Man City,Liverpool,3,0,3,0
+E0,2010,28aug2010,Wolves,Newcastle,1,1,1,1
+E0,2010,28aug2010,Man United,West Ham,3,0,3,0
+E0,2010,28aug2010,Blackburn,Arsenal,0,3,1,2
+E0,2010,28aug2010,Blackpool,Fulham,1,1,2,2
+E0,2010,28aug2010,Tottenham,Wigan,0,3,0,1
+E0,2010,28aug2010,Chelsea,Stoke,3,0,2,0
+E0,2010,29aug2010,Liverpool,West Brom,3,0,1,0
+E0,2010,29aug2010,Sunderland,Man City,3,0,1,0
+E0,2010,29aug2010,Aston Villa,Everton,3,0,1,0
+E0,2010,29aug2010,Bolton,Birmingham,1,1,2,2
+E0,2010,11sep2010,Man City,Blackburn,1,1,1,1
+E0,2010,11sep2010,Wigan,Sunderland,1,1,1,1
+E0,2010,11sep2010,Arsenal,Bolton,3,0,4,1
+E0,2010,11sep2010,West Brom,Tottenham,1,1,1,1
+E0,2010,11sep2010,Everton,Man United,1,1,3,3
+E0,2010,11sep2010,Newcastle,Blackpool,0,3,0,2
+E0,2010,11sep2010,West Ham,Chelsea,0,3,1,3
+E0,2010,11sep2010,Fulham,Wolves,3,0,2,1
+E0,2010,12sep2010,Birmingham,Liverpool,1,1,0,0
+E0,2010,13sep2010,Stoke,Aston Villa,3,0,2,1
+E0,2010,18sep2010,Sunderland,Arsenal,1,1,1,1
+E0,2010,18sep2010,Stoke,West Ham,1,1,1,1
+E0,2010,18sep2010,Aston Villa,Bolton,1,1,1,1
+E0,2010,18sep2010,West Brom,Birmingham,3,0,3,1
+E0,2010,18sep2010,Tottenham,Wolves,3,0,3,1
+E0,2010,18sep2010,Everton,Newcastle,0,3,0,1
+E0,2010,18sep2010,Blackburn,Fulham,1,1,1,1
+E0,2010,19sep2010,Wigan,Man City,0,3,0,2
+E0,2010,19sep2010,Chelsea,Blackpool,3,0,4,0
+E0,2010,19sep2010,Man United,Liverpool,3,0,3,2
+E0,2010,25sep2010,Liverpool,Sunderland,1,1,2,2
+E0,2010,25sep2010,West Ham,Tottenham,3,0,1,0
+E0,2010,25sep2010,Fulham,Everton,1,1,0,0
+E0,2010,25sep2010,Birmingham,Wigan,1,1,0,0
+E0,2010,25sep2010,Man City,Chelsea,3,0,1,0
+E0,2010,25sep2010,Blackpool,Blackburn,0,3,1,2
+E0,2010,25sep2010,Arsenal,West Brom,0,3,2,3
+E0,2010,26sep2010,Bolton,Man United,1,1,2,2
+E0,2010,26sep2010,Newcastle,Stoke,0,3,1,2
+E0,2010,26sep2010,Wolves,Aston Villa,0,3,1,2
+E0,2010,02oct2010,Sunderland,Man United,1,1,0,0
+E0,2010,02oct2010,Birmingham,Everton,0,3,0,2
+E0,2010,02oct2010,Tottenham,Aston Villa,3,0,2,1
+E0,2010,02oct2010,West Brom,Bolton,1,1,1,1
+E0,2010,02oct2010,West Ham,Fulham,1,1,1,1
+E0,2010,02oct2010,Wigan,Wolves,3,0,2,0
+E0,2010,02oct2010,Stoke,Blackburn,3,0,1,0
+E0,2010,03oct2010,Chelsea,Arsenal,3,0,2,0
+E0,2010,03oct2010,Man City,Newcastle,3,0,2,1
+E0,2010,03oct2010,Liverpool,Blackpool,0,3,1,2
+E0,2010,16oct2010,Aston Villa,Chelsea,1,1,0,0
+E0,2010,16oct2010,Man United,West Brom,1,1,2,2
+E0,2010,16oct2010,Wolves,West Ham,1,1,1,1
+E0,2010,16oct2010,Fulham,Tottenham,0,3,1,2
+E0,2010,16oct2010,Bolton,Stoke,3,0,2,1
+E0,2010,16oct2010,Newcastle,Wigan,1,1,2,2
+E0,2010,16oct2010,Arsenal,Birmingham,3,0,2,1
+E0,2010,17oct2010,Everton,Liverpool,3,0,2,0
+E0,2010,17oct2010,Blackpool,Man City,0,3,2,3
+E0,2010,18oct2010,Blackburn,Sunderland,1,1,0,0
+E0,2010,23oct2010,Wigan,Bolton,1,1,1,1
+E0,2010,23oct2010,Birmingham,Blackpool,3,0,2,0
+E0,2010,23oct2010,Chelsea,Wolves,3,0,2,0
+E0,2010,23oct2010,Sunderland,Aston Villa,3,0,1,0
+E0,2010,23oct2010,Tottenham,Everton,1,1,1,1
+E0,2010,23oct2010,West Ham,Newcastle,0,3,1,2
+E0,2010,23oct2010,West Brom,Fulham,3,0,2,1
+E0,2010,24oct2010,Stoke,Man United,0,3,1,2
+E0,2010,24oct2010,Liverpool,Blackburn,3,0,2,1
+E0,2010,24oct2010,Man City,Arsenal,0,3,0,3
+E0,2010,30oct2010,Arsenal,West Ham,3,0,1,0
+E0,2010,30oct2010,Wolves,Man City,3,0,2,1
+E0,2010,30oct2010,Fulham,Wigan,3,0,2,0
+E0,2010,30oct2010,Blackburn,Chelsea,0,3,1,2
+E0,2010,30oct2010,Everton,Stoke,3,0,1,0
+E0,2010,30oct2010,Man United,Tottenham,3,0,2,0
+E0,2010,31oct2010,Bolton,Liverpool,0,3,0,1
+E0,2010,31oct2010,Aston Villa,Birmingham,1,1,0,0
+E0,2010,31oct2010,Newcastle,Sunderland,3,0,5,1
+E0,2010,01nov2010,Blackpool,West Brom,3,0,2,1
+E0,2010,06nov2010,Blackburn,Wigan,3,0,2,1
+E0,2010,06nov2010,Birmingham,West Ham,1,1,2,2
+E0,2010,06nov2010,Sunderland,Stoke,3,0,2,0
+E0,2010,06nov2010,Bolton,Tottenham,3,0,4,2
+E0,2010,06nov2010,Blackpool,Everton,1,1,2,2
+E0,2010,06nov2010,Man United,Wolves,3,0,2,1
+E0,2010,06nov2010,Fulham,Aston Villa,1,1,1,1
+E0,2010,07nov2010,West Brom,Man City,0,3,0,2
+E0,2010,07nov2010,Liverpool,Chelsea,3,0,2,0
+E0,2010,07nov2010,Arsenal,Newcastle,0,3,0,1
+E0,2010,09nov2010,Stoke,Birmingham,3,0,3,2
+E0,2010,09nov2010,Tottenham,Sunderland,1,1,1,1
+E0,2010,10nov2010,Everton,Bolton,1,1,1,1
+E0,2010,10nov2010,Aston Villa,Blackpool,3,0,3,2
+E0,2010,10nov2010,Wigan,Liverpool,1,1,1,1
+E0,2010,10nov2010,West Ham,West Brom,1,1,2,2
+E0,2010,10nov2010,Man City,Man United,1,1,0,0
+E0,2010,10nov2010,Chelsea,Fulham,3,0,1,0
+E0,2010,10nov2010,Newcastle,Blackburn,0,3,1,2
+E0,2010,10nov2010,Wolves,Arsenal,0,3,0,2
+E0,2010,13nov2010,Tottenham,Blackburn,3,0,4,2
+E0,2010,13nov2010,Aston Villa,Man United,1,1,2,2
+E0,2010,13nov2010,Wigan,West Brom,3,0,1,0
+E0,2010,13nov2010,Stoke,Liverpool,3,0,2,0
+E0,2010,13nov2010,Newcastle,Fulham,1,1,0,0
+E0,2010,13nov2010,Man City,Birmingham,1,1,0,0
+E0,2010,13nov2010,West Ham,Blackpool,1,1,0,0
+E0,2010,13nov2010,Wolves,Bolton,0,3,2,3
+E0,2010,14nov2010,Everton,Arsenal,0,3,1,2
+E0,2010,14nov2010,Chelsea,Sunderland,0,3,0,3
+E0,2010,20nov2010,Birmingham,Chelsea,3,0,1,0
+E0,2010,20nov2010,Bolton,Newcastle,3,0,5,1
+E0,2010,20nov2010,Man United,Wigan,3,0,2,0
+E0,2010,20nov2010,Blackpool,Wolves,3,0,2,1
+E0,2010,20nov2010,West Brom,Stoke,0,3,0,3
+E0,2010,20nov2010,Arsenal,Tottenham,0,3,2,3
+E0,2010,20nov2010,Liverpool,West Ham,3,0,3,0
+E0,2010,21nov2010,Blackburn,Aston Villa,3,0,2,0
+E0,2010,21nov2010,Fulham,Man City,0,3,1,4
+E0,2010,22nov2010,Sunderland,Everton,1,1,2,2
+E0,2010,27nov2010,Stoke,Man City,1,1,1,1
+E0,2010,27nov2010,Bolton,Blackpool,1,1,2,2
+E0,2010,27nov2010,Everton,West Brom,0,3,1,4
+E0,2010,27nov2010,Man United,Blackburn,3,0,7,1
+E0,2010,27nov2010,Aston Villa,Arsenal,0,3,2,4
+E0,2010,27nov2010,Fulham,Birmingham,1,1,1,1
+E0,2010,27nov2010,Wolves,Sunderland,3,0,3,2
+E0,2010,27nov2010,West Ham,Wigan,3,0,3,1
+E0,2010,28nov2010,Newcastle,Chelsea,1,1,1,1
+E0,2010,28nov2010,Tottenham,Liverpool,3,0,2,1
+E0,2010,04dec2010,Arsenal,Fulham,3,0,2,1
+E0,2010,04dec2010,Man City,Bolton,3,0,1,0
+E0,2010,04dec2010,Wigan,Stoke,1,1,2,2
+E0,2010,04dec2010,Chelsea,Everton,1,1,1,1
+E0,2010,04dec2010,Birmingham,Tottenham,1,1,1,1
+E0,2010,04dec2010,Blackburn,Wolves,3,0,3,0
+E0,2010,05dec2010,Sunderland,West Ham,3,0,1,0
+E0,2010,05dec2010,West Brom,Newcastle,3,0,3,1
+E0,2010,06dec2010,Liverpool,Aston Villa,3,0,3,0
+E0,2010,11dec2010,Newcastle,Liverpool,3,0,3,1
+E0,2010,11dec2010,West Ham,Man City,0,3,1,3
+E0,2010,11dec2010,Everton,Wigan,1,1,0,0
+E0,2010,11dec2010,Aston Villa,West Brom,3,0,2,1
+E0,2010,11dec2010,Fulham,Sunderland,1,1,0,0
+E0,2010,11dec2010,Stoke,Blackpool,0,3,0,1
+E0,2010,12dec2010,Tottenham,Chelsea,1,1,1,1
+E0,2010,12dec2010,Bolton,Blackburn,3,0,2,1
+E0,2010,12dec2010,Wolves,Birmingham,3,0,1,0
+E0,2010,13dec2010,Man United,Arsenal,3,0,1,0
+E0,2010,18dec2010,Sunderland,Bolton,3,0,1,0
+E0,2010,18dec2010,Blackburn,West Ham,1,1,1,1
+E0,2010,20dec2010,Man City,Everton,0,3,1,2
+E0,2010,26dec2010,Newcastle,Man City,0,3,1,3
+E0,2010,26dec2010,Fulham,West Ham,0,3,1,3
+E0,2010,26dec2010,Aston Villa,Tottenham,0,3,1,2
+E0,2010,26dec2010,Blackburn,Stoke,0,3,0,2
+E0,2010,26dec2010,Man United,Sunderland,3,0,2,0
+E0,2010,26dec2010,Wolves,Wigan,0,3,1,2
+E0,2010,26dec2010,Bolton,West Brom,3,0,2,0
+E0,2010,27dec2010,Arsenal,Chelsea,3,0,3,1
+E0,2010,28dec2010,Man City,Aston Villa,3,0,4,0
+E0,2010,28dec2010,Birmingham,Man United,1,1,1,1
+E0,2010,28dec2010,West Brom,Blackburn,0,3,1,3
+E0,2010,28dec2010,West Ham,Everton,1,1,1,1
+E0,2010,28dec2010,Tottenham,Newcastle,3,0,2,0
+E0,2010,28dec2010,Stoke,Fulham,0,3,0,2
+E0,2010,28dec2010,Sunderland,Blackpool,0,3,0,2
+E0,2010,29dec2010,Liverpool,Wolves,0,3,0,1
+E0,2010,29dec2010,Chelsea,Bolton,3,0,1,0
+E0,2010,29dec2010,Wigan,Arsenal,1,1,2,2
+E0,2010,01jan2011,Sunderland,Blackburn,3,0,3,0
+E0,2010,01jan2011,Man City,Blackpool,3,0,1,0
+E0,2010,01jan2011,West Brom,Man United,0,3,1,2
+E0,2010,01jan2011,West Ham,Wolves,3,0,2,0
+E0,2010,01jan2011,Liverpool,Bolton,3,0,2,1
+E0,2010,01jan2011,Tottenham,Fulham,3,0,1,0
+E0,2010,01jan2011,Birmingham,Arsenal,0,3,0,3
+E0,2010,01jan2011,Stoke,Everton,3,0,2,0
+E0,2010,02jan2011,Chelsea,Aston Villa,1,1,3,3
+E0,2010,02jan2011,Wigan,Newcastle,0,3,0,1
+E0,2010,04jan2011,Fulham,West Brom,3,0,3,0
+E0,2010,04jan2011,Blackpool,Birmingham,0,3,1,2
+E0,2010,04jan2011,Man United,Stoke,3,0,2,1
+E0,2010,05jan2011,Newcastle,West Ham,3,0,5,0
+E0,2010,05jan2011,Bolton,Wigan,1,1,1,1
+E0,2010,05jan2011,Everton,Tottenham,3,0,2,1
+E0,2010,05jan2011,Arsenal,Man City,1,1,0,0
+E0,2010,05jan2011,Wolves,Chelsea,3,0,1,0
+E0,2010,05jan2011,Blackburn,Liverpool,3,0,3,1
+E0,2010,05jan2011,Aston Villa,Sunderland,0,3,0,1
+E0,2010,12jan2011,Blackpool,Liverpool,3,0,2,1
+E0,2010,15jan2011,Wigan,Fulham,1,1,1,1
+E0,2010,15jan2011,Stoke,Bolton,3,0,2,0
+E0,2010,15jan2011,West Ham,Arsenal,0,3,0,3
+E0,2010,15jan2011,West Brom,Blackpool,3,0,3,2
+E0,2010,15jan2011,Chelsea,Blackburn,3,0,2,0
+E0,2010,15jan2011,Man City,Wolves,3,0,4,3
+E0,2010,16jan2011,Birmingham,Aston Villa,1,1,1,1
+E0,2010,16jan2011,Tottenham,Man United,1,1,0,0
+E0,2010,16jan2011,Liverpool,Everton,1,1,2,2
+E0,2010,16jan2011,Sunderland,Newcastle,1,1,1,1
+E0,2010,22jan2011,Man United,Birmingham,3,0,5,0
+E0,2010,22jan2011,Newcastle,Tottenham,1,1,1,1
+E0,2010,22jan2011,Fulham,Stoke,3,0,2,0
+E0,2010,22jan2011,Blackpool,Sunderland,0,3,1,2
+E0,2010,22jan2011,Aston Villa,Man City,3,0,1,0
+E0,2010,22jan2011,Wolves,Liverpool,0,3,0,3
+E0,2010,22jan2011,Everton,West Ham,1,1,2,2
+E0,2010,22jan2011,Arsenal,Wigan,3,0,3,0
+E0,2010,23jan2011,Blackburn,West Brom,3,0,2,0
+E0,2010,24jan2011,Bolton,Chelsea,0,3,0,4
+E0,2010,25jan2011,Blackpool,Man United,0,3,2,3
+E0,2010,25jan2011,Wigan,Aston Villa,0,3,1,2
+E0,2010,26jan2011,Liverpool,Fulham,3,0,1,0
+E0,2010,01feb2011,Sunderland,Chelsea,0,3,2,4
+E0,2010,01feb2011,Arsenal,Everton,3,0,2,1
+E0,2010,01feb2011,West Brom,Wigan,1,1,2,2
+E0,2010,01feb2011,Man United,Aston Villa,3,0,3,1
+E0,2010,02feb2011,Bolton,Wolves,3,0,1,0
+E0,2010,02feb2011,Birmingham,Man City,1,1,2,2
+E0,2010,02feb2011,Liverpool,Stoke,3,0,2,0
+E0,2010,02feb2011,Fulham,Newcastle,3,0,1,0
+E0,2010,02feb2011,Blackpool,West Ham,0,3,1,3
+E0,2010,02feb2011,Blackburn,Tottenham,0,3,0,1
+E0,2010,05feb2011,Wolves,Man United,3,0,2,1
+E0,2010,05feb2011,Man City,West Brom,3,0,3,0
+E0,2010,05feb2011,Everton,Blackpool,3,0,5,3
+E0,2010,05feb2011,Wigan,Blackburn,3,0,4,3
+E0,2010,05feb2011,Stoke,Sunderland,3,0,3,2
+E0,2010,05feb2011,Aston Villa,Fulham,1,1,2,2
+E0,2010,05feb2011,Newcastle,Arsenal,1,1,4,4
+E0,2010,05feb2011,Tottenham,Bolton,3,0,2,1
+E0,2010,06feb2011,Chelsea,Liverpool,0,3,0,1
+E0,2010,06feb2011,West Ham,Birmingham,0,3,0,1
+E0,2010,12feb2011,Arsenal,Wolves,3,0,2,0
+E0,2010,12feb2011,Liverpool,Wigan,1,1,1,1
+E0,2010,12feb2011,Sunderland,Tottenham,0,3,1,2
+E0,2010,12feb2011,Blackburn,Newcastle,1,1,0,0
+E0,2010,12feb2011,West Brom,West Ham,1,1,3,3
+E0,2010,12feb2011,Blackpool,Aston Villa,1,1,1,1
+E0,2010,12feb2011,Birmingham,Stoke,3,0,1,0
+E0,2010,12feb2011,Man United,Man City,3,0,2,1
+E0,2010,13feb2011,Bolton,Everton,3,0,2,0
+E0,2010,14feb2011,Fulham,Chelsea,1,1,0,0
+E0,2010,15feb2011,Birmingham,Newcastle,0,3,0,2
+E0,2010,20feb2011,West Brom,Wolves,1,1,1,1
+E0,2010,22feb2011,Blackpool,Tottenham,3,0,3,1
+E0,2010,23feb2011,Arsenal,Stoke,3,0,1,0
+E0,2010,26feb2011,Aston Villa,Blackburn,3,0,4,1
+E0,2010,26feb2011,Wigan,Man United,0,3,0,4
+E0,2010,26feb2011,Newcastle,Bolton,1,1,1,1
+E0,2010,26feb2011,Everton,Sunderland,3,0,2,0
+E0,2010,26feb2011,Wolves,Blackpool,3,0,4,0
+E0,2010,27feb2011,Man City,Fulham,1,1,1,1
+E0,2010,27feb2011,West Ham,Liverpool,3,0,3,1
+E0,2010,28feb2011,Stoke,West Brom,1,1,1,1
+E0,2010,01mar2011,Chelsea,Man United,3,0,2,1
+E0,2010,05mar2011,Arsenal,Sunderland,1,1,0,0
+E0,2010,05mar2011,Newcastle,Everton,0,3,1,2
+E0,2010,05mar2011,Man City,Wigan,3,0,1,0
+E0,2010,05mar2011,West Ham,Stoke,3,0,3,0
+E0,2010,05mar2011,Fulham,Blackburn,3,0,3,2
+E0,2010,05mar2011,Bolton,Aston Villa,3,0,3,2
+E0,2010,05mar2011,Birmingham,West Brom,0,3,1,3
+E0,2010,06mar2011,Wolves,Tottenham,1,1,3,3
+E0,2010,06mar2011,Liverpool,Man United,3,0,3,1
+E0,2010,07mar2011,Blackpool,Chelsea,0,3,1,3
+E0,2010,09mar2011,Everton,Birmingham,1,1,1,1
+E0,2010,19mar2011,Stoke,Newcastle,3,0,4,0
+E0,2010,19mar2011,Aston Villa,Wolves,0,3,0,1
+E0,2010,19mar2011,Man United,Bolton,3,0,1,0
+E0,2010,19mar2011,Wigan,Birmingham,3,0,2,1
+E0,2010,19mar2011,Everton,Fulham,3,0,2,1
+E0,2010,19mar2011,Blackburn,Blackpool,1,1,2,2
+E0,2010,19mar2011,West Brom,Arsenal,1,1,2,2
+E0,2010,19mar2011,Tottenham,West Ham,1,1,0,0
+E0,2010,20mar2011,Chelsea,Man City,3,0,2,0
+E0,2010,20mar2011,Sunderland,Liverpool,0,3,0,2
+E0,2010,02apr2011,Birmingham,Bolton,3,0,2,1
+E0,2010,02apr2011,West Ham,Man United,0,3,2,4
+E0,2010,02apr2011,Everton,Aston Villa,1,1,2,2
+E0,2010,02apr2011,Wigan,Tottenham,1,1,0,0
+E0,2010,02apr2011,Newcastle,Wolves,3,0,4,1
+E0,2010,02apr2011,West Brom,Liverpool,3,0,2,1
+E0,2010,02apr2011,Stoke,Chelsea,1,1,1,1
+E0,2010,02apr2011,Arsenal,Blackburn,1,1,0,0
+E0,2010,03apr2011,Fulham,Blackpool,3,0,3,0
+E0,2010,03apr2011,Man City,Sunderland,3,0,5,0
+E0,2010,09apr2011,Chelsea,Wigan,3,0,1,0
+E0,2010,09apr2011,Blackburn,Birmingham,1,1,1,1
+E0,2010,09apr2011,Wolves,Everton,0,3,0,3
+E0,2010,09apr2011,Man United,Fulham,3,0,2,0
+E0,2010,09apr2011,Bolton,West Ham,3,0,3,0
+E0,2010,09apr2011,Tottenham,Stoke,3,0,3,2
+E0,2010,09apr2011,Sunderland,West Brom,0,3,2,3
+E0,2010,10apr2011,Blackpool,Arsenal,0,3,1,3
+E0,2010,10apr2011,Aston Villa,Newcastle,3,0,1,0
+E0,2010,11apr2011,Liverpool,Man City,3,0,3,0
+E0,2010,16apr2011,West Brom,Chelsea,0,3,1,3
+E0,2010,16apr2011,Birmingham,Sunderland,3,0,2,0
+E0,2010,16apr2011,Everton,Blackburn,3,0,2,0
+E0,2010,16apr2011,West Ham,Aston Villa,0,3,1,2
+E0,2010,16apr2011,Blackpool,Wigan,0,3,1,3
+E0,2010,17apr2011,Arsenal,Liverpool,1,1,1,1
+E0,2010,19apr2011,Newcastle,Man United,1,1,0,0
+E0,2010,20apr2011,Tottenham,Arsenal,1,1,3,3
+E0,2010,20apr2011,Chelsea,Birmingham,3,0,3,1
+E0,2010,23apr2011,Aston Villa,Stoke,1,1,1,1
+E0,2010,23apr2011,Sunderland,Wigan,3,0,4,2
+E0,2010,23apr2011,Blackpool,Newcastle,1,1,1,1
+E0,2010,23apr2011,Wolves,Fulham,1,1,1,1
+E0,2010,23apr2011,Chelsea,West Ham,3,0,3,0
+E0,2010,23apr2011,Tottenham,West Brom,1,1,2,2
+E0,2010,23apr2011,Liverpool,Birmingham,3,0,5,0
+E0,2010,23apr2011,Man United,Everton,3,0,1,0
+E0,2010,24apr2011,Bolton,Arsenal,3,0,2,1
+E0,2010,25apr2011,Blackburn,Man City,0,3,0,1
+E0,2010,26apr2011,Stoke,Wolves,3,0,3,0
+E0,2010,27apr2011,Fulham,Bolton,3,0,3,0
+E0,2010,30apr2011,Blackpool,Stoke,1,1,0,0
+E0,2010,30apr2011,West Brom,Aston Villa,3,0,2,1
+E0,2010,30apr2011,Sunderland,Fulham,0,3,0,3
+E0,2010,30apr2011,Chelsea,Tottenham,3,0,2,1
+E0,2010,30apr2011,Blackburn,Bolton,3,0,1,0
+E0,2010,30apr2011,Wigan,Everton,1,1,1,1
+E0,2010,01may2011,Liverpool,Newcastle,3,0,3,0
+E0,2010,01may2011,Man City,West Ham,3,0,2,1
+E0,2010,01may2011,Birmingham,Wolves,1,1,1,1
+E0,2010,01may2011,Arsenal,Man United,3,0,1,0
+E0,2010,07may2011,Tottenham,Blackpool,1,1,1,1
+E0,2010,07may2011,Bolton,Sunderland,0,3,1,2
+E0,2010,07may2011,Everton,Man City,3,0,2,1
+E0,2010,07may2011,Aston Villa,Wigan,1,1,1,1
+E0,2010,07may2011,Newcastle,Birmingham,3,0,2,1
+E0,2010,07may2011,West Ham,Blackburn,1,1,1,1
+E0,2010,08may2011,Stoke,Arsenal,3,0,3,1
+E0,2010,08may2011,Wolves,West Brom,3,0,3,1
+E0,2010,08may2011,Man United,Chelsea,3,0,2,1
+E0,2010,09may2011,Fulham,Liverpool,0,3,2,5
+E0,2010,10may2011,Man City,Tottenham,3,0,1,0
+E0,2010,14may2011,West Brom,Everton,3,0,1,0
+E0,2010,14may2011,Blackpool,Bolton,3,0,4,3
+E0,2010,14may2011,Blackburn,Man United,1,1,1,1
+E0,2010,14may2011,Sunderland,Wolves,0,3,1,3
+E0,2010,15may2011,Liverpool,Tottenham,0,3,0,2
+E0,2010,15may2011,Wigan,West Ham,3,0,3,2
+E0,2010,15may2011,Chelsea,Newcastle,1,1,2,2
+E0,2010,15may2011,Arsenal,Aston Villa,0,3,1,2
+E0,2010,15may2011,Birmingham,Fulham,0,3,0,2
+E0,2010,17may2011,Man City,Stoke,3,0,3,0
+E0,2010,22may2011,Aston Villa,Liverpool,3,0,1,0
+E0,2010,22may2011,Fulham,Arsenal,1,1,2,2
+E0,2010,22may2011,Everton,Chelsea,3,0,1,0
+E0,2010,22may2011,Man United,Blackpool,3,0,4,2
+E0,2010,22may2011,Wolves,Blackburn,0,3,2,3
+E0,2010,22may2011,Newcastle,West Brom,1,1,3,3
+E0,2010,22may2011,Tottenham,Birmingham,3,0,2,1
+E0,2010,22may2011,Bolton,Man City,0,3,0,2
+E0,2010,22may2011,West Ham,Sunderland,0,3,0,3
+E0,2010,22may2011,Stoke,Wigan,0,3,0,1
+E0,2011,13aug2011,Newcastle,Arsenal,1,1,0,0
+E0,2011,13aug2011,Blackburn,Wolves,0,3,1,2
+E0,2011,13aug2011,QPR,Bolton,0,3,0,4
+E0,2011,13aug2011,Liverpool,Sunderland,1,1,1,1
+E0,2011,13aug2011,Fulham,Aston Villa,1,1,0,0
+E0,2011,13aug2011,Wigan,Norwich,1,1,1,1
+E0,2011,14aug2011,West Brom,Man United,0,3,1,2
+E0,2011,14aug2011,Stoke,Chelsea,1,1,0,0
+E0,2011,15aug2011,Man City,Swansea,3,0,4,0
+E0,2011,20aug2011,Chelsea,West Brom,3,0,2,1
+E0,2011,20aug2011,Everton,QPR,0,3,0,1
+E0,2011,20aug2011,Swansea,Wigan,1,1,0,0
+E0,2011,20aug2011,Aston Villa,Blackburn,3,0,3,1
+E0,2011,20aug2011,Arsenal,Liverpool,0,3,0,2
+E0,2011,20aug2011,Sunderland,Newcastle,0,3,0,1
+E0,2011,21aug2011,Bolton,Man City,0,3,2,3
+E0,2011,21aug2011,Wolves,Fulham,3,0,2,0
+E0,2011,21aug2011,Norwich,Stoke,1,1,1,1
+E0,2011,22aug2011,Man United,Tottenham,3,0,3,0
+E0,2011,27aug2011,Liverpool,Bolton,3,0,3,1
+E0,2011,27aug2011,Blackburn,Everton,0,3,0,1
+E0,2011,27aug2011,Swansea,Sunderland,1,1,0,0
+E0,2011,27aug2011,Chelsea,Norwich,3,0,3,1
+E0,2011,27aug2011,Aston Villa,Wolves,1,1,0,0
+E0,2011,27aug2011,Wigan,QPR,3,0,2,0
+E0,2011,28aug2011,Man United,Arsenal,3,0,8,2
+E0,2011,28aug2011,Tottenham,Man City,0,3,1,5
+E0,2011,28aug2011,Newcastle,Fulham,3,0,2,1
+E0,2011,28aug2011,West Brom,Stoke,0,3,0,1
+E0,2011,10sep2011,Sunderland,Chelsea,0,3,1,2
+E0,2011,10sep2011,Man City,Wigan,3,0,3,0
+E0,2011,10sep2011,Wolves,Tottenham,0,3,0,2
+E0,2011,10sep2011,Stoke,Liverpool,3,0,1,0
+E0,2011,10sep2011,Everton,Aston Villa,1,1,2,2
+E0,2011,10sep2011,Arsenal,Swansea,3,0,1,0
+E0,2011,10sep2011,Bolton,Man United,0,3,0,5
+E0,2011,11sep2011,Norwich,West Brom,0,3,0,1
+E0,2011,11sep2011,Fulham,Blackburn,1,1,1,1
+E0,2011,12sep2011,QPR,Newcastle,1,1,0,0
+E0,2011,17sep2011,Wolves,QPR,0,3,0,3
+E0,2011,17sep2011,Blackburn,Arsenal,3,0,4,3
+E0,2011,17sep2011,Bolton,Norwich,0,3,1,2
+E0,2011,17sep2011,Swansea,West Brom,3,0,3,0
+E0,2011,17sep2011,Aston Villa,Newcastle,1,1,1,1
+E0,2011,17sep2011,Everton,Wigan,3,0,3,1
+E0,2011,18sep2011,Fulham,Man City,1,1,2,2
+E0,2011,18sep2011,Man United,Chelsea,3,0,3,1
+E0,2011,18sep2011,Sunderland,Stoke,3,0,4,0
+E0,2011,18sep2011,Tottenham,Liverpool,3,0,4,0
+E0,2011,24sep2011,Wigan,Tottenham,0,3,1,2
+E0,2011,24sep2011,Man City,Everton,3,0,2,0
+E0,2011,24sep2011,Liverpool,Wolves,3,0,2,1
+E0,2011,24sep2011,Stoke,Man United,1,1,1,1
+E0,2011,24sep2011,Newcastle,Blackburn,3,0,3,1
+E0,2011,24sep2011,Arsenal,Bolton,3,0,3,0
+E0,2011,24sep2011,West Brom,Fulham,1,1,0,0
+E0,2011,24sep2011,Chelsea,Swansea,3,0,4,1
+E0,2011,25sep2011,QPR,Aston Villa,1,1,1,1
+E0,2011,26sep2011,Norwich,Sunderland,3,0,2,1
+E0,2011,01oct2011,Aston Villa,Wigan,3,0,2,0
+E0,2011,01oct2011,Sunderland,West Brom,1,1,2,2
+E0,2011,01oct2011,Man United,Norwich,3,0,2,0
+E0,2011,01oct2011,Blackburn,Man City,0,3,0,4
+E0,2011,01oct2011,Wolves,Newcastle,0,3,1,2
+E0,2011,01oct2011,Everton,Liverpool,0,3,0,2
+E0,2011,02oct2011,Swansea,Stoke,3,0,2,0
+E0,2011,02oct2011,Bolton,Chelsea,0,3,1,5
+E0,2011,02oct2011,Fulham,QPR,3,0,6,0
+E0,2011,02oct2011,Tottenham,Arsenal,3,0,2,1
+E0,2011,15oct2011,Stoke,Fulham,3,0,2,0
+E0,2011,15oct2011,Man City,Aston Villa,3,0,4,1
+E0,2011,15oct2011,Norwich,Swansea,3,0,3,1
+E0,2011,15oct2011,Wigan,Bolton,0,3,1,3
+E0,2011,15oct2011,Liverpool,Man United,1,1,1,1
+E0,2011,15oct2011,QPR,Blackburn,1,1,1,1
+E0,2011,15oct2011,Chelsea,Everton,3,0,3,1
+E0,2011,16oct2011,Arsenal,Sunderland,3,0,2,1
+E0,2011,16oct2011,West Brom,Wolves,3,0,2,0
+E0,2011,16oct2011,Newcastle,Tottenham,1,1,2,2
+E0,2011,22oct2011,Bolton,Sunderland,0,3,0,2
+E0,2011,22oct2011,Wolves,Swansea,1,1,2,2
+E0,2011,22oct2011,Liverpool,Norwich,1,1,1,1
+E0,2011,22oct2011,Newcastle,Wigan,3,0,1,0
+E0,2011,22oct2011,Aston Villa,West Brom,0,3,1,2
+E0,2011,23oct2011,Fulham,Everton,0,3,1,3
+E0,2011,23oct2011,Man United,Man City,0,3,1,6
+E0,2011,23oct2011,QPR,Chelsea,3,0,1,0
+E0,2011,23oct2011,Blackburn,Tottenham,0,3,1,2
+E0,2011,23oct2011,Arsenal,Stoke,3,0,3,1
+E0,2011,29oct2011,Man City,Wolves,3,0,3,1
+E0,2011,29oct2011,Chelsea,Arsenal,0,3,3,5
+E0,2011,29oct2011,Wigan,Fulham,0,3,0,2
+E0,2011,29oct2011,Norwich,Blackburn,1,1,3,3
+E0,2011,29oct2011,Everton,Man United,0,3,0,1
+E0,2011,29oct2011,West Brom,Liverpool,0,3,0,2
+E0,2011,29oct2011,Swansea,Bolton,3,0,3,1
+E0,2011,29oct2011,Sunderland,Aston Villa,1,1,2,2
+E0,2011,30oct2011,Tottenham,QPR,3,0,3,1
+E0,2011,31oct2011,Stoke,Newcastle,0,3,1,3
+E0,2011,05nov2011,QPR,Man City,0,3,2,3
+E0,2011,05nov2011,Arsenal,West Brom,3,0,3,0
+E0,2011,05nov2011,Newcastle,Everton,3,0,2,1
+E0,2011,05nov2011,Man United,Sunderland,3,0,1,0
+E0,2011,05nov2011,Aston Villa,Norwich,3,0,3,2
+E0,2011,05nov2011,Liverpool,Swansea,1,1,0,0
+E0,2011,05nov2011,Blackburn,Chelsea,0,3,0,1
+E0,2011,06nov2011,Wolves,Wigan,3,0,3,1
+E0,2011,06nov2011,Fulham,Tottenham,0,3,1,3
+E0,2011,06nov2011,Bolton,Stoke,3,0,5,0
+E0,2011,19nov2011,Norwich,Arsenal,0,3,1,2
+E0,2011,19nov2011,Wigan,Blackburn,1,1,3,3
+E0,2011,19nov2011,Swansea,Man United,0,3,0,1
+E0,2011,19nov2011,Man City,Newcastle,3,0,3,1
+E0,2011,19nov2011,Stoke,QPR,0,3,2,3
+E0,2011,19nov2011,Everton,Wolves,3,0,2,1
+E0,2011,19nov2011,Sunderland,Fulham,1,1,0,0
+E0,2011,19nov2011,West Brom,Bolton,3,0,2,1
+E0,2011,20nov2011,Chelsea,Liverpool,0,3,1,2
+E0,2011,21nov2011,Tottenham,Aston Villa,3,0,2,0
+E0,2011,26nov2011,Sunderland,Wigan,0,3,1,2
+E0,2011,26nov2011,Stoke,Blackburn,3,0,3,1
+E0,2011,26nov2011,Arsenal,Fulham,1,1,1,1
+E0,2011,26nov2011,West Brom,Tottenham,0,3,1,3
+E0,2011,26nov2011,Man United,Newcastle,1,1,1,1
+E0,2011,26nov2011,Bolton,Everton,0,3,0,2
+E0,2011,26nov2011,Norwich,QPR,3,0,2,1
+E0,2011,26nov2011,Chelsea,Wolves,3,0,3,0
+E0,2011,27nov2011,Liverpool,Man City,1,1,1,1
+E0,2011,27nov2011,Swansea,Aston Villa,1,1,0,0
+E0,2011,03dec2011,Aston Villa,Man United,0,3,0,1
+E0,2011,03dec2011,Tottenham,Bolton,3,0,3,0
+E0,2011,03dec2011,Wigan,Arsenal,0,3,0,4
+E0,2011,03dec2011,Blackburn,Swansea,3,0,4,2
+E0,2011,03dec2011,QPR,West Brom,1,1,1,1
+E0,2011,03dec2011,Newcastle,Chelsea,0,3,0,3
+E0,2011,03dec2011,Man City,Norwich,3,0,5,1
+E0,2011,04dec2011,Wolves,Sunderland,3,0,2,1
+E0,2011,04dec2011,Everton,Stoke,0,3,0,1
+E0,2011,05dec2011,Fulham,Liverpool,3,0,1,0
+E0,2011,10dec2011,Arsenal,Everton,3,0,1,0
+E0,2011,10dec2011,West Brom,Wigan,0,3,1,2
+E0,2011,10dec2011,Man United,Wolves,3,0,4,1
+E0,2011,10dec2011,Norwich,Newcastle,3,0,4,2
+E0,2011,10dec2011,Bolton,Aston Villa,0,3,1,2
+E0,2011,10dec2011,Liverpool,QPR,3,0,1,0
+E0,2011,10dec2011,Swansea,Fulham,3,0,2,0
+E0,2011,11dec2011,Sunderland,Blackburn,3,0,2,1
+E0,2011,11dec2011,Stoke,Tottenham,3,0,2,1
+E0,2011,12dec2011,Chelsea,Man City,3,0,2,1
+E0,2011,17dec2011,Fulham,Bolton,3,0,2,0
+E0,2011,17dec2011,Blackburn,West Brom,0,3,1,2
+E0,2011,17dec2011,Wigan,Chelsea,1,1,1,1
+E0,2011,17dec2011,Wolves,Stoke,0,3,1,2
+E0,2011,17dec2011,Everton,Norwich,1,1,1,1
+E0,2011,17dec2011,Newcastle,Swansea,1,1,0,0
+E0,2011,18dec2011,QPR,Man United,0,3,0,2
+E0,2011,18dec2011,Aston Villa,Liverpool,0,3,0,2
+E0,2011,18dec2011,Tottenham,Sunderland,3,0,1,0
+E0,2011,18dec2011,Man City,Arsenal,3,0,1,0
+E0,2011,20dec2011,Wolves,Norwich,1,1,2,2
+E0,2011,20dec2011,Blackburn,Bolton,0,3,1,2
+E0,2011,21dec2011,Fulham,Man United,0,3,0,5
+E0,2011,21dec2011,Aston Villa,Arsenal,0,3,1,2
+E0,2011,21dec2011,QPR,Sunderland,0,3,2,3
+E0,2011,21dec2011,Everton,Swansea,3,0,1,0
+E0,2011,21dec2011,Newcastle,West Brom,0,3,2,3
+E0,2011,21dec2011,Wigan,Liverpool,1,1,0,0
+E0,2011,21dec2011,Man City,Stoke,3,0,3,0
+E0,2011,22dec2011,Tottenham,Chelsea,1,1,1,1
+E0,2011,26dec2011,Chelsea,Fulham,1,1,1,1
+E0,2011,26dec2011,Man United,Wigan,3,0,5,0
+E0,2011,26dec2011,Liverpool,Blackburn,1,1,1,1
+E0,2011,26dec2011,Sunderland,Everton,1,1,1,1
+E0,2011,26dec2011,Stoke,Aston Villa,1,1,0,0
+E0,2011,26dec2011,Bolton,Newcastle,0,3,0,2
+E0,2011,26dec2011,West Brom,Man City,1,1,0,0
+E0,2011,27dec2011,Swansea,QPR,1,1,1,1
+E0,2011,27dec2011,Arsenal,Wolves,1,1,1,1
+E0,2011,27dec2011,Norwich,Tottenham,0,3,0,2
+E0,2011,30dec2011,Liverpool,Newcastle,3,0,3,1
+E0,2011,31dec2011,Stoke,Wigan,1,1,2,2
+E0,2011,31dec2011,Norwich,Fulham,1,1,1,1
+E0,2011,31dec2011,Bolton,Wolves,1,1,1,1
+E0,2011,31dec2011,Chelsea,Aston Villa,0,3,1,3
+E0,2011,31dec2011,Arsenal,QPR,3,0,1,0
+E0,2011,31dec2011,Swansea,Tottenham,1,1,1,1
+E0,2011,31dec2011,Man United,Blackburn,0,3,2,3
+E0,2011,01jan2012,West Brom,Everton,0,3,0,1
+E0,2011,01jan2012,Sunderland,Man City,3,0,1,0
+E0,2011,02jan2012,Wolves,Chelsea,0,3,1,2
+E0,2011,02jan2012,QPR,Norwich,0,3,1,2
+E0,2011,02jan2012,Blackburn,Stoke,0,3,1,2
+E0,2011,02jan2012,Fulham,Arsenal,3,0,2,1
+E0,2011,02jan2012,Aston Villa,Swansea,0,3,0,2
+E0,2011,03jan2012,Tottenham,West Brom,3,0,1,0
+E0,2011,03jan2012,Wigan,Sunderland,0,3,1,4
+E0,2011,03jan2012,Man City,Liverpool,3,0,3,0
+E0,2011,04jan2012,Newcastle,Man United,3,0,3,0
+E0,2011,04jan2012,Everton,Bolton,0,3,1,2
+E0,2011,11jan2012,Tottenham,Everton,3,0,2,0
+E0,2011,14jan2012,Liverpool,Stoke,1,1,0,0
+E0,2011,14jan2012,Aston Villa,Everton,1,1,1,1
+E0,2011,14jan2012,Blackburn,Fulham,3,0,3,1
+E0,2011,14jan2012,Chelsea,Sunderland,3,0,1,0
+E0,2011,14jan2012,Man United,Bolton,3,0,3,0
+E0,2011,14jan2012,West Brom,Norwich,0,3,1,2
+E0,2011,14jan2012,Tottenham,Wolves,1,1,1,1
+E0,2011,15jan2012,Newcastle,QPR,3,0,1,0
+E0,2011,15jan2012,Swansea,Arsenal,3,0,3,2
+E0,2011,16jan2012,Wigan,Man City,0,3,0,1
+E0,2011,21jan2012,Everton,Blackburn,1,1,1,1
+E0,2011,21jan2012,Norwich,Chelsea,1,1,0,0
+E0,2011,21jan2012,Stoke,West Brom,0,3,1,2
+E0,2011,21jan2012,Sunderland,Swansea,3,0,2,0
+E0,2011,21jan2012,QPR,Wigan,3,0,3,1
+E0,2011,21jan2012,Fulham,Newcastle,3,0,5,2
+E0,2011,21jan2012,Bolton,Liverpool,3,0,3,1
+E0,2011,21jan2012,Wolves,Aston Villa,0,3,2,3
+E0,2011,22jan2012,Arsenal,Man United,0,3,1,2
+E0,2011,22jan2012,Man City,Tottenham,3,0,3,2
+E0,2011,31jan2012,Swansea,Chelsea,1,1,1,1
+E0,2011,31jan2012,Everton,Man City,3,0,1,0
+E0,2011,31jan2012,Man United,Stoke,3,0,2,0
+E0,2011,31jan2012,Wolves,Liverpool,0,3,0,3
+E0,2011,31jan2012,Tottenham,Wigan,3,0,3,1
+E0,2011,01feb2012,Sunderland,Norwich,3,0,3,0
+E0,2011,01feb2012,Blackburn,Newcastle,0,3,0,2
+E0,2011,01feb2012,Fulham,West Brom,1,1,1,1
+E0,2011,01feb2012,Bolton,Arsenal,1,1,0,0
+E0,2011,01feb2012,Aston Villa,QPR,1,1,2,2
+E0,2011,04feb2012,Wigan,Everton,1,1,1,1
+E0,2011,04feb2012,Norwich,Bolton,3,0,2,0
+E0,2011,04feb2012,Man City,Fulham,3,0,3,0
+E0,2011,04feb2012,West Brom,Swansea,0,3,1,2
+E0,2011,04feb2012,Stoke,Sunderland,0,3,0,1
+E0,2011,04feb2012,QPR,Wolves,0,3,1,2
+E0,2011,04feb2012,Arsenal,Blackburn,3,0,7,1
+E0,2011,05feb2012,Chelsea,Man United,1,1,3,3
+E0,2011,05feb2012,Newcastle,Aston Villa,3,0,2,1
+E0,2011,06feb2012,Liverpool,Tottenham,1,1,0,0
+E0,2011,11feb2012,Swansea,Norwich,0,3,2,3
+E0,2011,11feb2012,Everton,Chelsea,3,0,2,0
+E0,2011,11feb2012,Fulham,Stoke,3,0,2,1
+E0,2011,11feb2012,Man United,Liverpool,3,0,2,1
+E0,2011,11feb2012,Blackburn,QPR,3,0,3,2
+E0,2011,11feb2012,Sunderland,Arsenal,0,3,1,2
+E0,2011,11feb2012,Bolton,Wigan,0,3,1,2
+E0,2011,11feb2012,Tottenham,Newcastle,3,0,5,0
+E0,2011,12feb2012,Wolves,West Brom,0,3,1,5
+E0,2011,12feb2012,Aston Villa,Man City,0,3,0,1
+E0,2011,25feb2012,Wigan,Aston Villa,1,1,0,0
+E0,2011,25feb2012,Chelsea,Bolton,3,0,3,0
+E0,2011,25feb2012,QPR,Fulham,0,3,0,1
+E0,2011,25feb2012,West Brom,Sunderland,3,0,4,0
+E0,2011,25feb2012,Newcastle,Wolves,1,1,2,2
+E0,2011,25feb2012,Man City,Blackburn,3,0,3,0
+E0,2011,26feb2012,Norwich,Man United,0,3,1,2
+E0,2011,26feb2012,Arsenal,Tottenham,3,0,5,2
+E0,2011,26feb2012,Stoke,Swansea,3,0,2,0
+E0,2011,03mar2012,Man City,Bolton,3,0,2,0
+E0,2011,03mar2012,Blackburn,Aston Villa,1,1,1,1
+E0,2011,03mar2012,QPR,Everton,1,1,1,1
+E0,2011,03mar2012,Stoke,Norwich,3,0,1,0
+E0,2011,03mar2012,Wigan,Swansea,0,3,0,2
+E0,2011,03mar2012,Liverpool,Arsenal,0,3,1,2
+E0,2011,03mar2012,West Brom,Chelsea,3,0,1,0
+E0,2011,04mar2012,Tottenham,Man United,0,3,1,3
+E0,2011,04mar2012,Newcastle,Sunderland,1,1,1,1
+E0,2011,04mar2012,Fulham,Wolves,3,0,5,0
+E0,2011,10mar2012,Bolton,QPR,3,0,2,1
+E0,2011,10mar2012,Everton,Tottenham,3,0,1,0
+E0,2011,10mar2012,Chelsea,Stoke,3,0,1,0
+E0,2011,10mar2012,Sunderland,Liverpool,3,0,1,0
+E0,2011,10mar2012,Aston Villa,Fulham,3,0,1,0
+E0,2011,10mar2012,Wolves,Blackburn,0,3,0,2
+E0,2011,11mar2012,Man United,West Brom,3,0,2,0
+E0,2011,11mar2012,Swansea,Man City,3,0,1,0
+E0,2011,11mar2012,Norwich,Wigan,1,1,1,1
+E0,2011,12mar2012,Arsenal,Newcastle,3,0,2,1
+E0,2011,13mar2012,Liverpool,Everton,3,0,3,0
+E0,2011,17mar2012,Wigan,West Brom,1,1,1,1
+E0,2011,17mar2012,Fulham,Swansea,0,3,0,3
+E0,2011,18mar2012,Newcastle,Norwich,3,0,1,0
+E0,2011,18mar2012,Wolves,Man United,0,3,0,5
+E0,2011,20mar2012,Blackburn,Sunderland,3,0,2,0
+E0,2011,21mar2012,QPR,Liverpool,3,0,3,2
+E0,2011,21mar2012,Man City,Chelsea,3,0,2,1
+E0,2011,21mar2012,Everton,Arsenal,0,3,0,1
+E0,2011,21mar2012,Tottenham,Stoke,1,1,1,1
+E0,2011,24mar2012,Norwich,Wolves,3,0,2,1
+E0,2011,24mar2012,Sunderland,QPR,3,0,3,1
+E0,2011,24mar2012,Swansea,Everton,0,3,0,2
+E0,2011,24mar2012,Arsenal,Aston Villa,3,0,3,0
+E0,2011,24mar2012,Liverpool,Wigan,0,3,1,2
+E0,2011,24mar2012,Bolton,Blackburn,3,0,2,1
+E0,2011,24mar2012,Stoke,Man City,1,1,1,1
+E0,2011,24mar2012,Chelsea,Tottenham,1,1,0,0
+E0,2011,25mar2012,West Brom,Newcastle,0,3,1,3
+E0,2011,26mar2012,Man United,Fulham,3,0,1,0
+E0,2011,31mar2012,Aston Villa,Chelsea,0,3,2,4
+E0,2011,31mar2012,Man City,Sunderland,1,1,3,3
+E0,2011,31mar2012,QPR,Arsenal,3,0,2,1
+E0,2011,31mar2012,Wigan,Stoke,3,0,2,0
+E0,2011,31mar2012,Fulham,Norwich,3,0,2,1
+E0,2011,31mar2012,Everton,West Brom,3,0,2,0
+E0,2011,31mar2012,Wolves,Bolton,0,3,2,3
+E0,2011,01apr2012,Tottenham,Swansea,3,0,3,1
+E0,2011,01apr2012,Newcastle,Liverpool,3,0,2,0
+E0,2011,02apr2012,Blackburn,Man United,0,3,0,2
+E0,2011,06apr2012,Swansea,Newcastle,0,3,0,2
+E0,2011,07apr2012,Chelsea,Wigan,3,0,2,1
+E0,2011,07apr2012,Sunderland,Tottenham,1,1,0,0
+E0,2011,07apr2012,Stoke,Wolves,3,0,2,1
+E0,2011,07apr2012,Bolton,Fulham,0,3,0,3
+E0,2011,07apr2012,West Brom,Blackburn,3,0,3,0
+E0,2011,07apr2012,Liverpool,Aston Villa,1,1,1,1
+E0,2011,07apr2012,Norwich,Everton,1,1,2,2
+E0,2011,08apr2012,Man United,QPR,3,0,2,0
+E0,2011,08apr2012,Arsenal,Man City,3,0,1,0
+E0,2011,09apr2012,Fulham,Chelsea,1,1,1,1
+E0,2011,09apr2012,Newcastle,Bolton,3,0,2,0
+E0,2011,09apr2012,Tottenham,Norwich,0,3,1,2
+E0,2011,09apr2012,Everton,Sunderland,3,0,4,0
+E0,2011,09apr2012,Aston Villa,Stoke,1,1,1,1
+E0,2011,10apr2012,Blackburn,Liverpool,0,3,2,3
+E0,2011,11apr2012,QPR,Swansea,3,0,3,0
+E0,2011,11apr2012,Wolves,Arsenal,0,3,0,3
+E0,2011,11apr2012,Wigan,Man United,3,0,1,0
+E0,2011,11apr2012,Man City,West Brom,3,0,4,0
+E0,2011,14apr2012,Sunderland,Wolves,1,1,0,0
+E0,2011,14apr2012,West Brom,QPR,3,0,1,0
+E0,2011,14apr2012,Norwich,Man City,0,3,1,6
+E0,2011,14apr2012,Swansea,Blackburn,3,0,3,0
+E0,2011,15apr2012,Man United,Aston Villa,3,0,4,0
+E0,2011,16apr2012,Arsenal,Wigan,0,3,1,2
+E0,2011,21apr2012,Aston Villa,Sunderland,1,1,0,0
+E0,2011,21apr2012,QPR,Tottenham,3,0,1,0
+E0,2011,21apr2012,Fulham,Wigan,3,0,2,1
+E0,2011,21apr2012,Newcastle,Stoke,3,0,3,0
+E0,2011,21apr2012,Bolton,Swansea,1,1,1,1
+E0,2011,21apr2012,Blackburn,Norwich,3,0,2,0
+E0,2011,21apr2012,Arsenal,Chelsea,1,1,0,0
+E0,2011,22apr2012,Liverpool,West Brom,0,3,0,1
+E0,2011,22apr2012,Man United,Everton,1,1,4,4
+E0,2011,22apr2012,Wolves,Man City,0,3,0,2
+E0,2011,24apr2012,Aston Villa,Bolton,0,3,1,2
+E0,2011,28apr2012,Norwich,Liverpool,0,3,0,3
+E0,2011,28apr2012,Sunderland,Bolton,1,1,2,2
+E0,2011,28apr2012,West Brom,Aston Villa,1,1,0,0
+E0,2011,28apr2012,Swansea,Wolves,1,1,4,4
+E0,2011,28apr2012,Wigan,Newcastle,3,0,4,0
+E0,2011,28apr2012,Stoke,Arsenal,1,1,1,1
+E0,2011,28apr2012,Everton,Fulham,3,0,4,0
+E0,2011,29apr2012,Tottenham,Blackburn,3,0,2,0
+E0,2011,29apr2012,Chelsea,QPR,3,0,6,1
+E0,2011,30apr2012,Man City,Man United,3,0,1,0
+E0,2011,01may2012,Liverpool,Fulham,0,3,0,1
+E0,2011,01may2012,Stoke,Everton,1,1,1,1
+E0,2011,02may2012,Chelsea,Newcastle,0,3,0,2
+E0,2011,02may2012,Bolton,Tottenham,0,3,1,4
+E0,2011,05may2012,Arsenal,Norwich,1,1,3,3
+E0,2011,06may2012,Man United,Swansea,3,0,2,0
+E0,2011,06may2012,QPR,Stoke,3,0,1,0
+E0,2011,06may2012,Wolves,Everton,1,1,0,0
+E0,2011,06may2012,Fulham,Sunderland,3,0,2,1
+E0,2011,06may2012,Aston Villa,Tottenham,1,1,1,1
+E0,2011,06may2012,Newcastle,Man City,0,3,0,2
+E0,2011,06may2012,Bolton,West Brom,1,1,2,2
+E0,2011,07may2012,Blackburn,Wigan,0,3,0,1
+E0,2011,08may2012,Liverpool,Chelsea,3,0,4,1
+E0,2011,13may2012,Sunderland,Man United,0,3,0,1
+E0,2011,13may2012,Stoke,Bolton,1,1,2,2
+E0,2011,13may2012,Swansea,Liverpool,3,0,1,0
+E0,2011,13may2012,Norwich,Aston Villa,3,0,2,0
+E0,2011,13may2012,Chelsea,Blackburn,3,0,2,1
+E0,2011,13may2012,Man City,QPR,3,0,3,2
+E0,2011,13may2012,Everton,Newcastle,3,0,3,1
+E0,2011,13may2012,Tottenham,Fulham,3,0,2,0
+E0,2011,13may2012,West Brom,Arsenal,0,3,2,3
+E0,2011,13may2012,Wigan,Wolves,3,0,3,2
+E0,2012,18aug2012,West Ham,Aston Villa,3,0,1,0
+E0,2012,18aug2012,Arsenal,Sunderland,1,1,0,0
+E0,2012,18aug2012,Reading,Stoke,1,1,1,1
+E0,2012,18aug2012,Newcastle,Tottenham,3,0,2,1
+E0,2012,18aug2012,Fulham,Norwich,3,0,5,0
+E0,2012,18aug2012,West Brom,Liverpool,3,0,3,0
+E0,2012,18aug2012,QPR,Swansea,0,3,0,5
+E0,2012,19aug2012,Man City,Southampton,3,0,3,2
+E0,2012,19aug2012,Wigan,Chelsea,0,3,0,2
+E0,2012,20aug2012,Everton,Man United,3,0,1,0
+E0,2012,22aug2012,Chelsea,Reading,3,0,4,2
+E0,2012,25aug2012,Norwich,QPR,1,1,1,1
+E0,2012,25aug2012,Southampton,Wigan,0,3,0,2
+E0,2012,25aug2012,Chelsea,Newcastle,3,0,2,0
+E0,2012,25aug2012,Tottenham,West Brom,1,1,1,1
+E0,2012,25aug2012,Swansea,West Ham,3,0,3,0
+E0,2012,25aug2012,Man United,Fulham,3,0,3,2
+E0,2012,25aug2012,Aston Villa,Everton,0,3,1,3
+E0,2012,26aug2012,Stoke,Arsenal,1,1,0,0
+E0,2012,26aug2012,Liverpool,Man City,1,1,2,2
+E0,2012,01sep2012,Man City,QPR,3,0,3,1
+E0,2012,01sep2012,Tottenham,Norwich,1,1,1,1
+E0,2012,01sep2012,Swansea,Sunderland,1,1,2,2
+E0,2012,01sep2012,Wigan,Stoke,1,1,2,2
+E0,2012,01sep2012,West Brom,Everton,3,0,2,0
+E0,2012,01sep2012,West Ham,Fulham,3,0,3,0
+E0,2012,02sep2012,Southampton,Man United,0,3,2,3
+E0,2012,02sep2012,Newcastle,Aston Villa,1,1,1,1
+E0,2012,02sep2012,Liverpool,Arsenal,0,3,0,2
+E0,2012,15sep2012,Aston Villa,Swansea,3,0,2,0
+E0,2012,15sep2012,Arsenal,Southampton,3,0,6,1
+E0,2012,15sep2012,Man United,Wigan,3,0,4,0
+E0,2012,15sep2012,Norwich,West Ham,1,1,0,0
+E0,2012,15sep2012,QPR,Chelsea,1,1,0,0
+E0,2012,15sep2012,Fulham,West Brom,3,0,3,0
+E0,2012,15sep2012,Stoke,Man City,1,1,1,1
+E0,2012,15sep2012,Sunderland,Liverpool,1,1,1,1
+E0,2012,16sep2012,Reading,Tottenham,0,3,1,3
+E0,2012,17sep2012,Everton,Newcastle,1,1,2,2
+E0,2012,22sep2012,Wigan,Fulham,0,3,1,2
+E0,2012,22sep2012,Southampton,Aston Villa,3,0,4,1
+E0,2012,22sep2012,West Ham,Sunderland,1,1,1,1
+E0,2012,22sep2012,Swansea,Everton,0,3,0,3
+E0,2012,22sep2012,West Brom,Reading,3,0,1,0
+E0,2012,22sep2012,Chelsea,Stoke,3,0,1,0
+E0,2012,23sep2012,Newcastle,Norwich,3,0,1,0
+E0,2012,23sep2012,Tottenham,QPR,3,0,2,1
+E0,2012,23sep2012,Man City,Arsenal,1,1,1,1
+E0,2012,23sep2012,Liverpool,Man United,0,3,1,2
+E0,2012,29sep2012,Arsenal,Chelsea,0,3,1,2
+E0,2012,29sep2012,Sunderland,Wigan,3,0,1,0
+E0,2012,29sep2012,Man United,Tottenham,0,3,2,3
+E0,2012,29sep2012,Everton,Southampton,3,0,3,1
+E0,2012,29sep2012,Norwich,Liverpool,0,3,2,5
+E0,2012,29sep2012,Stoke,Swansea,3,0,2,0
+E0,2012,29sep2012,Reading,Newcastle,1,1,2,2
+E0,2012,29sep2012,Fulham,Man City,0,3,1,2
+E0,2012,30sep2012,Aston Villa,West Brom,1,1,1,1
+E0,2012,01oct2012,QPR,West Ham,0,3,1,2
+E0,2012,06oct2012,Man City,Sunderland,3,0,3,0
+E0,2012,06oct2012,Chelsea,Norwich,3,0,4,1
+E0,2012,06oct2012,Wigan,Everton,1,1,2,2
+E0,2012,06oct2012,West Brom,QPR,3,0,3,2
+E0,2012,06oct2012,West Ham,Arsenal,0,3,1,3
+E0,2012,06oct2012,Swansea,Reading,1,1,2,2
+E0,2012,07oct2012,Newcastle,Man United,0,3,0,3
+E0,2012,07oct2012,Liverpool,Stoke,1,1,0,0
+E0,2012,07oct2012,Southampton,Fulham,1,1,2,2
+E0,2012,07oct2012,Tottenham,Aston Villa,3,0,2,0
+E0,2012,20oct2012,Liverpool,Reading,3,0,1,0
+E0,2012,20oct2012,Norwich,Arsenal,3,0,1,0
+E0,2012,20oct2012,West Brom,Man City,0,3,1,2
+E0,2012,20oct2012,Tottenham,Chelsea,0,3,2,4
+E0,2012,20oct2012,Fulham,Aston Villa,3,0,1,0
+E0,2012,20oct2012,West Ham,Southampton,3,0,4,1
+E0,2012,20oct2012,Swansea,Wigan,3,0,2,1
+E0,2012,20oct2012,Man United,Stoke,3,0,4,2
+E0,2012,21oct2012,QPR,Everton,1,1,1,1
+E0,2012,21oct2012,Sunderland,Newcastle,1,1,1,1
+E0,2012,27oct2012,Man City,Swansea,3,0,1,0
+E0,2012,27oct2012,Stoke,Sunderland,1,1,0,0
+E0,2012,27oct2012,Aston Villa,Norwich,1,1,1,1
+E0,2012,27oct2012,Wigan,West Ham,3,0,2,1
+E0,2012,27oct2012,Arsenal,QPR,3,0,1,0
+E0,2012,27oct2012,Reading,Fulham,1,1,3,3
+E0,2012,28oct2012,Everton,Liverpool,1,1,2,2
+E0,2012,28oct2012,Chelsea,Man United,0,3,2,3
+E0,2012,28oct2012,Newcastle,West Brom,3,0,2,1
+E0,2012,28oct2012,Southampton,Tottenham,0,3,1,2
+E0,2012,03nov2012,Swansea,Chelsea,1,1,1,1
+E0,2012,03nov2012,Tottenham,Wigan,0,3,0,1
+E0,2012,03nov2012,West Ham,Man City,1,1,0,0
+E0,2012,03nov2012,Fulham,Everton,1,1,2,2
+E0,2012,03nov2012,Man United,Arsenal,3,0,2,1
+E0,2012,03nov2012,Sunderland,Aston Villa,0,3,0,1
+E0,2012,03nov2012,Norwich,Stoke,3,0,1,0
+E0,2012,04nov2012,QPR,Reading,1,1,1,1
+E0,2012,04nov2012,Liverpool,Newcastle,1,1,1,1
+E0,2012,05nov2012,West Brom,Southampton,3,0,2,0
+E0,2012,10nov2012,Arsenal,Fulham,1,1,3,3
+E0,2012,10nov2012,Stoke,QPR,3,0,1,0
+E0,2012,10nov2012,Aston Villa,Man United,0,3,2,3
+E0,2012,10nov2012,Southampton,Swansea,1,1,1,1
+E0,2012,10nov2012,Wigan,West Brom,0,3,1,2
+E0,2012,10nov2012,Reading,Norwich,1,1,0,0
+E0,2012,10nov2012,Everton,Sunderland,3,0,2,1
+E0,2012,11nov2012,Newcastle,West Ham,0,3,0,1
+E0,2012,11nov2012,Chelsea,Liverpool,1,1,1,1
+E0,2012,11nov2012,Man City,Tottenham,3,0,2,1
+E0,2012,17nov2012,Man City,Aston Villa,3,0,5,0
+E0,2012,17nov2012,QPR,Southampton,0,3,1,3
+E0,2012,17nov2012,West Brom,Chelsea,3,0,2,1
+E0,2012,17nov2012,Liverpool,Wigan,3,0,3,0
+E0,2012,17nov2012,Reading,Everton,3,0,2,1
+E0,2012,17nov2012,Norwich,Man United,3,0,1,0
+E0,2012,17nov2012,Newcastle,Swansea,0,3,1,2
+E0,2012,17nov2012,Arsenal,Tottenham,3,0,5,2
+E0,2012,18nov2012,Fulham,Sunderland,0,3,1,3
+E0,2012,19nov2012,West Ham,Stoke,1,1,1,1
+E0,2012,24nov2012,Sunderland,West Brom,0,3,2,4
+E0,2012,24nov2012,Aston Villa,Arsenal,1,1,0,0
+E0,2012,24nov2012,Man United,QPR,3,0,3,1
+E0,2012,24nov2012,Stoke,Fulham,3,0,1,0
+E0,2012,24nov2012,Wigan,Reading,3,0,3,2
+E0,2012,24nov2012,Everton,Norwich,1,1,1,1
+E0,2012,25nov2012,Swansea,Liverpool,1,1,0,0
+E0,2012,25nov2012,Southampton,Newcastle,3,0,2,0
+E0,2012,25nov2012,Chelsea,Man City,1,1,0,0
+E0,2012,25nov2012,Tottenham,West Ham,3,0,3,1
+E0,2012,27nov2012,Aston Villa,Reading,3,0,1,0
+E0,2012,27nov2012,Sunderland,QPR,1,1,0,0
+E0,2012,28nov2012,Stoke,Newcastle,3,0,2,1
+E0,2012,28nov2012,Swansea,West Brom,3,0,3,1
+E0,2012,28nov2012,Chelsea,Fulham,1,1,0,0
+E0,2012,28nov2012,Southampton,Norwich,1,1,1,1
+E0,2012,28nov2012,Wigan,Man City,0,3,0,2
+E0,2012,28nov2012,Man United,West Ham,3,0,1,0
+E0,2012,28nov2012,Tottenham,Liverpool,3,0,2,1
+E0,2012,28nov2012,Everton,Arsenal,1,1,1,1
+E0,2012,01dec2012,Fulham,Tottenham,0,3,0,3
+E0,2012,01dec2012,QPR,Aston Villa,1,1,1,1
+E0,2012,01dec2012,West Ham,Chelsea,3,0,3,1
+E0,2012,01dec2012,West Brom,Stoke,0,3,0,1
+E0,2012,01dec2012,Liverpool,Southampton,3,0,1,0
+E0,2012,01dec2012,Reading,Man United,0,3,3,4
+E0,2012,01dec2012,Arsenal,Swansea,0,3,0,2
+E0,2012,01dec2012,Man City,Everton,1,1,1,1
+E0,2012,02dec2012,Norwich,Sunderland,3,0,2,1
+E0,2012,03dec2012,Newcastle,Wigan,3,0,3,0
+E0,2012,08dec2012,Swansea,Norwich,0,3,3,4
+E0,2012,08dec2012,Aston Villa,Stoke,1,1,0,0
+E0,2012,08dec2012,Sunderland,Chelsea,0,3,1,3
+E0,2012,08dec2012,Arsenal,West Brom,3,0,2,0
+E0,2012,08dec2012,Wigan,QPR,1,1,2,2
+E0,2012,08dec2012,Southampton,Reading,3,0,1,0
+E0,2012,09dec2012,Everton,Tottenham,3,0,2,1
+E0,2012,09dec2012,Man City,Man United,0,3,2,3
+E0,2012,09dec2012,West Ham,Liverpool,0,3,2,3
+E0,2012,10dec2012,Fulham,Newcastle,3,0,2,1
+E0,2012,11dec2012,Sunderland,Reading,3,0,3,0
+E0,2012,15dec2012,Newcastle,Man City,0,3,1,3
+E0,2012,15dec2012,Stoke,Everton,1,1,1,1
+E0,2012,15dec2012,Liverpool,Aston Villa,0,3,1,3
+E0,2012,15dec2012,QPR,Fulham,3,0,2,1
+E0,2012,15dec2012,Man United,Sunderland,3,0,3,1
+E0,2012,15dec2012,Norwich,Wigan,3,0,2,1
+E0,2012,16dec2012,West Brom,West Ham,1,1,0,0
+E0,2012,16dec2012,Tottenham,Swansea,3,0,1,0
+E0,2012,17dec2012,Reading,Arsenal,0,3,2,5
+E0,2012,22dec2012,Tottenham,Stoke,1,1,0,0
+E0,2012,22dec2012,Southampton,Sunderland,0,3,0,1
+E0,2012,22dec2012,Liverpool,Fulham,3,0,4,0
+E0,2012,22dec2012,Newcastle,QPR,3,0,1,0
+E0,2012,22dec2012,West Brom,Norwich,3,0,2,1
+E0,2012,22dec2012,West Ham,Everton,0,3,1,2
+E0,2012,22dec2012,Man City,Reading,3,0,1,0
+E0,2012,22dec2012,Wigan,Arsenal,0,3,0,1
+E0,2012,23dec2012,Chelsea,Aston Villa,3,0,8,0
+E0,2012,23dec2012,Swansea,Man United,1,1,1,1
+E0,2012,26dec2012,Norwich,Chelsea,0,3,0,1
+E0,2012,26dec2012,Sunderland,Man City,3,0,1,0
+E0,2012,26dec2012,Man United,Newcastle,3,0,4,3
+E0,2012,26dec2012,Aston Villa,Tottenham,0,3,0,4
+E0,2012,26dec2012,Fulham,Southampton,1,1,1,1
+E0,2012,26dec2012,Stoke,Liverpool,3,0,3,1
+E0,2012,26dec2012,QPR,West Brom,0,3,1,2
+E0,2012,26dec2012,Everton,Wigan,3,0,2,1
+E0,2012,26dec2012,Reading,Swansea,1,1,0,0
+E0,2012,29dec2012,Fulham,Swansea,0,3,1,2
+E0,2012,29dec2012,Aston Villa,Wigan,0,3,0,3
+E0,2012,29dec2012,Arsenal,Newcastle,3,0,7,3
+E0,2012,29dec2012,Stoke,Southampton,1,1,3,3
+E0,2012,29dec2012,Sunderland,Tottenham,0,3,1,2
+E0,2012,29dec2012,Norwich,Man City,0,3,3,4
+E0,2012,29dec2012,Man United,West Brom,3,0,2,0
+E0,2012,29dec2012,Reading,West Ham,3,0,1,0
+E0,2012,30dec2012,QPR,Liverpool,0,3,0,3
+E0,2012,30dec2012,Everton,Chelsea,0,3,1,2
+E0,2012,01jan2013,Tottenham,Reading,3,0,3,1
+E0,2012,01jan2013,West Brom,Fulham,0,3,1,2
+E0,2012,01jan2013,Swansea,Aston Villa,1,1,2,2
+E0,2012,01jan2013,Southampton,Arsenal,1,1,1,1
+E0,2012,01jan2013,Man City,Stoke,3,0,3,0
+E0,2012,01jan2013,West Ham,Norwich,3,0,2,1
+E0,2012,01jan2013,Wigan,Man United,0,3,0,4
+E0,2012,02jan2013,Newcastle,Everton,0,3,1,2
+E0,2012,02jan2013,Liverpool,Sunderland,3,0,3,0
+E0,2012,02jan2013,Chelsea,QPR,0,3,0,1
+E0,2012,12jan2013,Sunderland,West Ham,3,0,3,0
+E0,2012,12jan2013,Reading,West Brom,3,0,3,2
+E0,2012,12jan2013,QPR,Tottenham,1,1,0,0
+E0,2012,12jan2013,Everton,Swansea,1,1,0,0
+E0,2012,12jan2013,Norwich,Newcastle,1,1,0,0
+E0,2012,12jan2013,Aston Villa,Southampton,0,3,0,1
+E0,2012,12jan2013,Fulham,Wigan,1,1,1,1
+E0,2012,12jan2013,Stoke,Chelsea,0,3,0,4
+E0,2012,13jan2013,Arsenal,Man City,0,3,0,2
+E0,2012,13jan2013,Man United,Liverpool,3,0,2,1
+E0,2012,16jan2013,Chelsea,Southampton,1,1,2,2
+E0,2012,19jan2013,Swansea,Stoke,3,0,3,1
+E0,2012,19jan2013,Newcastle,Reading,0,3,1,2
+E0,2012,19jan2013,Liverpool,Norwich,3,0,5,0
+E0,2012,19jan2013,Man City,Fulham,3,0,2,0
+E0,2012,19jan2013,West Brom,Aston Villa,1,1,2,2
+E0,2012,19jan2013,West Ham,QPR,1,1,1,1
+E0,2012,19jan2013,Wigan,Sunderland,0,3,2,3
+E0,2012,20jan2013,Chelsea,Arsenal,3,0,2,1
+E0,2012,20jan2013,Tottenham,Man United,1,1,1,1
+E0,2012,21jan2013,Southampton,Everton,1,1,0,0
+E0,2012,23jan2013,Arsenal,West Ham,3,0,5,1
+E0,2012,29jan2013,Stoke,Wigan,1,1,2,2
+E0,2012,29jan2013,Aston Villa,Newcastle,0,3,1,2
+E0,2012,29jan2013,QPR,Man City,1,1,0,0
+E0,2012,29jan2013,Sunderland,Swansea,1,1,0,0
+E0,2012,30jan2013,Everton,West Brom,3,0,2,1
+E0,2012,30jan2013,Norwich,Tottenham,1,1,1,1
+E0,2012,30jan2013,Reading,Chelsea,1,1,2,2
+E0,2012,30jan2013,Arsenal,Liverpool,1,1,2,2
+E0,2012,30jan2013,Fulham,West Ham,3,0,3,1
+E0,2012,30jan2013,Man United,Southampton,3,0,2,1
+E0,2012,02feb2013,Fulham,Man United,0,3,0,1
+E0,2012,02feb2013,West Ham,Swansea,3,0,1,0
+E0,2012,02feb2013,Everton,Aston Villa,1,1,3,3
+E0,2012,02feb2013,Wigan,Southampton,1,1,2,2
+E0,2012,02feb2013,Reading,Sunderland,3,0,2,1
+E0,2012,02feb2013,QPR,Norwich,1,1,0,0
+E0,2012,02feb2013,Arsenal,Stoke,3,0,1,0
+E0,2012,02feb2013,Newcastle,Chelsea,3,0,3,2
+E0,2012,03feb2013,West Brom,Tottenham,0,3,0,1
+E0,2012,03feb2013,Man City,Liverpool,1,1,2,2
+E0,2012,09feb2013,Chelsea,Wigan,3,0,4,1
+E0,2012,09feb2013,Southampton,Man City,3,0,3,1
+E0,2012,09feb2013,Swansea,QPR,3,0,4,1
+E0,2012,09feb2013,Sunderland,Arsenal,0,3,0,1
+E0,2012,09feb2013,Norwich,Fulham,1,1,0,0
+E0,2012,09feb2013,Stoke,Reading,3,0,2,1
+E0,2012,09feb2013,Tottenham,Newcastle,3,0,2,1
+E0,2012,10feb2013,Man United,Everton,3,0,2,0
+E0,2012,10feb2013,Aston Villa,West Ham,3,0,2,1
+E0,2012,11feb2013,Liverpool,West Brom,0,3,0,2
+E0,2012,17feb2013,Liverpool,Swansea,3,0,5,0
+E0,2012,23feb2013,Reading,Wigan,0,3,0,3
+E0,2012,23feb2013,Norwich,Everton,3,0,2,1
+E0,2012,23feb2013,QPR,Man United,0,3,0,2
+E0,2012,23feb2013,West Brom,Sunderland,3,0,2,1
+E0,2012,23feb2013,Arsenal,Aston Villa,3,0,2,1
+E0,2012,23feb2013,Fulham,Stoke,3,0,1,0
+E0,2012,24feb2013,Man City,Chelsea,3,0,2,0
+E0,2012,24feb2013,Newcastle,Southampton,3,0,4,2
+E0,2012,25feb2013,West Ham,Tottenham,0,3,2,3
+E0,2012,02mar2013,Everton,Reading,3,0,3,1
+E0,2012,02mar2013,Southampton,QPR,0,3,1,2
+E0,2012,02mar2013,Man United,Norwich,3,0,4,0
+E0,2012,02mar2013,Chelsea,West Brom,3,0,1,0
+E0,2012,02mar2013,Swansea,Newcastle,3,0,1,0
+E0,2012,02mar2013,Sunderland,Fulham,1,1,2,2
+E0,2012,02mar2013,Stoke,West Ham,0,3,0,1
+E0,2012,02mar2013,Wigan,Liverpool,0,3,0,4
+E0,2012,03mar2013,Tottenham,Arsenal,3,0,2,1
+E0,2012,04mar2013,Aston Villa,Man City,0,3,0,1
+E0,2012,09mar2013,QPR,Sunderland,3,0,3,1
+E0,2012,09mar2013,Reading,Aston Villa,0,3,1,2
+E0,2012,09mar2013,West Brom,Swansea,3,0,2,1
+E0,2012,09mar2013,Norwich,Southampton,1,1,0,0
+E0,2012,10mar2013,Liverpool,Tottenham,3,0,3,2
+E0,2012,10mar2013,Newcastle,Stoke,3,0,2,1
+E0,2012,16mar2013,Man United,Reading,3,0,1,0
+E0,2012,16mar2013,Aston Villa,QPR,3,0,3,2
+E0,2012,16mar2013,Southampton,Liverpool,3,0,3,1
+E0,2012,16mar2013,Everton,Man City,3,0,2,0
+E0,2012,16mar2013,Swansea,Arsenal,0,3,0,2
+E0,2012,16mar2013,Stoke,West Brom,1,1,0,0
+E0,2012,17mar2013,Wigan,Newcastle,3,0,2,1
+E0,2012,17mar2013,Tottenham,Fulham,0,3,0,1
+E0,2012,17mar2013,Sunderland,Norwich,1,1,1,1
+E0,2012,17mar2013,Chelsea,West Ham,3,0,2,0
+E0,2012,30mar2013,Southampton,Chelsea,3,0,2,1
+E0,2012,30mar2013,Man City,Newcastle,3,0,4,0
+E0,2012,30mar2013,Sunderland,Man United,0,3,0,1
+E0,2012,30mar2013,Arsenal,Reading,3,0,4,1
+E0,2012,30mar2013,Everton,Stoke,3,0,1,0
+E0,2012,30mar2013,Swansea,Tottenham,0,3,1,2
+E0,2012,30mar2013,West Ham,West Brom,3,0,3,1
+E0,2012,30mar2013,Wigan,Norwich,3,0,1,0
+E0,2012,31mar2013,Aston Villa,Liverpool,0,3,1,2
+E0,2012,01apr2013,Fulham,QPR,3,0,3,2
+E0,2012,06apr2013,Reading,Southampton,0,3,0,2
+E0,2012,06apr2013,Norwich,Swansea,1,1,2,2
+E0,2012,06apr2013,West Brom,Arsenal,0,3,1,2
+E0,2012,06apr2013,Stoke,Aston Villa,0,3,1,3
+E0,2012,07apr2013,Newcastle,Fulham,3,0,1,0
+E0,2012,07apr2013,Chelsea,Sunderland,3,0,2,1
+E0,2012,07apr2013,Liverpool,West Ham,1,1,0,0
+E0,2012,07apr2013,Tottenham,Everton,1,1,2,2
+E0,2012,07apr2013,QPR,Wigan,1,1,1,1
+E0,2012,08apr2013,Man United,Man City,0,3,1,2
+E0,2012,13apr2013,Aston Villa,Fulham,1,1,1,1
+E0,2012,13apr2013,Arsenal,Norwich,3,0,3,1
+E0,2012,13apr2013,Everton,QPR,3,0,2,0
+E0,2012,13apr2013,Reading,Liverpool,1,1,0,0
+E0,2012,13apr2013,Southampton,West Ham,1,1,1,1
+E0,2012,14apr2013,Stoke,Man United,0,3,0,2
+E0,2012,14apr2013,Newcastle,Sunderland,0,3,0,3
+E0,2012,16apr2013,Arsenal,Everton,1,1,0,0
+E0,2012,17apr2013,West Ham,Man United,1,1,2,2
+E0,2012,17apr2013,Man City,Wigan,3,0,1,0
+E0,2012,17apr2013,Fulham,Chelsea,0,3,0,3
+E0,2012,20apr2013,West Brom,Newcastle,1,1,1,1
+E0,2012,20apr2013,Sunderland,Everton,3,0,1,0
+E0,2012,20apr2013,Norwich,Reading,3,0,2,1
+E0,2012,20apr2013,QPR,Stoke,0,3,0,2
+E0,2012,20apr2013,Swansea,Southampton,1,1,0,0
+E0,2012,20apr2013,Fulham,Arsenal,0,3,0,1
+E0,2012,20apr2013,West Ham,Wigan,3,0,2,0
+E0,2012,21apr2013,Liverpool,Chelsea,1,1,2,2
+E0,2012,21apr2013,Tottenham,Man City,3,0,3,1
+E0,2012,22apr2013,Man United,Aston Villa,3,0,3,0
+E0,2012,27apr2013,Man City,West Ham,3,0,2,1
+E0,2012,27apr2013,Southampton,West Brom,0,3,0,3
+E0,2012,27apr2013,Everton,Fulham,3,0,1,0
+E0,2012,27apr2013,Stoke,Norwich,3,0,1,0
+E0,2012,27apr2013,Newcastle,Liverpool,0,3,0,6
+E0,2012,27apr2013,Wigan,Tottenham,1,1,2,2
+E0,2012,28apr2013,Chelsea,Swansea,3,0,2,0
+E0,2012,28apr2013,Arsenal,Man United,1,1,1,1
+E0,2012,28apr2013,Reading,QPR,1,1,0,0
+E0,2012,29apr2013,Aston Villa,Sunderland,3,0,6,1
+E0,2012,04may2013,Fulham,Reading,0,3,2,4
+E0,2012,04may2013,Tottenham,Southampton,3,0,1,0
+E0,2012,04may2013,Swansea,Man City,1,1,0,0
+E0,2012,04may2013,West Ham,Newcastle,1,1,0,0
+E0,2012,04may2013,West Brom,Wigan,0,3,2,3
+E0,2012,04may2013,Norwich,Aston Villa,0,3,1,2
+E0,2012,04may2013,QPR,Arsenal,0,3,0,1
+E0,2012,05may2013,Man United,Chelsea,0,3,0,1
+E0,2012,05may2013,Liverpool,Everton,1,1,0,0
+E0,2012,06may2013,Sunderland,Stoke,1,1,1,1
+E0,2012,07may2013,Wigan,Swansea,0,3,2,3
+E0,2012,07may2013,Man City,West Brom,3,0,1,0
+E0,2012,08may2013,Chelsea,Tottenham,1,1,2,2
+E0,2012,11may2013,Aston Villa,Chelsea,0,3,1,2
+E0,2012,12may2013,Norwich,West Brom,3,0,4,0
+E0,2012,12may2013,Everton,West Ham,3,0,2,0
+E0,2012,12may2013,Stoke,Tottenham,0,3,1,2
+E0,2012,12may2013,Sunderland,Southampton,1,1,1,1
+E0,2012,12may2013,QPR,Newcastle,0,3,1,2
+E0,2012,12may2013,Man United,Swansea,3,0,2,1
+E0,2012,12may2013,Fulham,Liverpool,0,3,1,3
+E0,2012,14may2013,Arsenal,Wigan,3,0,4,1
+E0,2012,14may2013,Reading,Man City,0,3,0,2
+E0,2012,19may2013,Southampton,Stoke,1,1,1,1
+E0,2012,19may2013,Wigan,Aston Villa,1,1,2,2
+E0,2012,19may2013,Tottenham,Sunderland,3,0,1,0
+E0,2012,19may2013,Liverpool,QPR,3,0,1,0
+E0,2012,19may2013,West Brom,Man United,1,1,5,5
+E0,2012,19may2013,Newcastle,Arsenal,0,3,0,1
+E0,2012,19may2013,Chelsea,Everton,3,0,2,1
+E0,2012,19may2013,Man City,Norwich,0,3,2,3
+E0,2012,19may2013,Swansea,Fulham,0,3,0,3
+E0,2012,19may2013,West Ham,Reading,3,0,4,2
+E0,2013,17aug2013,Arsenal,Aston Villa,0,3,1,3
+E0,2013,17aug2013,Swansea,Man United,0,3,1,4
+E0,2013,17aug2013,West Brom,Southampton,0,3,0,1
+E0,2013,17aug2013,West Ham,Cardiff,3,0,2,0
+E0,2013,17aug2013,Norwich,Everton,1,1,2,2
+E0,2013,17aug2013,Sunderland,Fulham,0,3,0,1
+E0,2013,17aug2013,Liverpool,Stoke,3,0,1,0
+E0,2013,18aug2013,Chelsea,Hull,3,0,2,0
+E0,2013,18aug2013,Crystal Palace,Tottenham,0,3,0,1
+E0,2013,19aug2013,Man City,Newcastle,3,0,4,0
+E0,2013,21aug2013,Chelsea,Aston Villa,3,0,2,1
+E0,2013,24aug2013,Newcastle,West Ham,1,1,0,0
+E0,2013,24aug2013,Aston Villa,Liverpool,0,3,0,1
+E0,2013,24aug2013,Fulham,Arsenal,0,3,1,3
+E0,2013,24aug2013,Stoke,Crystal Palace,3,0,2,1
+E0,2013,24aug2013,Everton,West Brom,1,1,0,0
+E0,2013,24aug2013,Southampton,Sunderland,1,1,1,1
+E0,2013,24aug2013,Hull,Norwich,3,0,1,0
+E0,2013,25aug2013,Cardiff,Man City,3,0,3,2
+E0,2013,25aug2013,Tottenham,Swansea,3,0,1,0
+E0,2013,26aug2013,Man United,Chelsea,1,1,0,0
+E0,2013,31aug2013,Norwich,Southampton,3,0,1,0
+E0,2013,31aug2013,Man City,Hull,3,0,2,0
+E0,2013,31aug2013,Newcastle,Fulham,3,0,1,0
+E0,2013,31aug2013,Crystal Palace,Sunderland,3,0,3,1
+E0,2013,31aug2013,West Ham,Stoke,0,3,0,1
+E0,2013,31aug2013,Cardiff,Everton,1,1,0,0
+E0,2013,01sep2013,Arsenal,Tottenham,3,0,1,0
+E0,2013,01sep2013,Liverpool,Man United,3,0,1,0
+E0,2013,01sep2013,West Brom,Swansea,0,3,0,2
+E0,2013,14sep2013,Stoke,Man City,1,1,0,0
+E0,2013,14sep2013,Fulham,West Brom,1,1,1,1
+E0,2013,14sep2013,Tottenham,Norwich,3,0,2,0
+E0,2013,14sep2013,Everton,Chelsea,3,0,1,0
+E0,2013,14sep2013,Man United,Crystal Palace,3,0,2,0
+E0,2013,14sep2013,Sunderland,Arsenal,0,3,1,3
+E0,2013,14sep2013,Hull,Cardiff,1,1,1,1
+E0,2013,14sep2013,Aston Villa,Newcastle,0,3,1,2
+E0,2013,15sep2013,Southampton,West Ham,1,1,0,0
+E0,2013,16sep2013,Swansea,Liverpool,1,1,2,2
+E0,2013,21sep2013,Norwich,Aston Villa,0,3,0,1
+E0,2013,21sep2013,Newcastle,Hull,0,3,2,3
+E0,2013,21sep2013,West Ham,Everton,0,3,2,3
+E0,2013,21sep2013,Liverpool,Southampton,0,3,0,1
+E0,2013,21sep2013,Chelsea,Fulham,3,0,2,0
+E0,2013,21sep2013,West Brom,Sunderland,3,0,3,0
+E0,2013,22sep2013,Man City,Man United,3,0,4,1
+E0,2013,22sep2013,Cardiff,Tottenham,0,3,0,1
+E0,2013,22sep2013,Crystal Palace,Swansea,0,3,0,2
+E0,2013,22sep2013,Arsenal,Stoke,3,0,3,1
+E0,2013,28sep2013,Swansea,Arsenal,0,3,1,2
+E0,2013,28sep2013,Man United,West Brom,0,3,1,2
+E0,2013,28sep2013,Aston Villa,Man City,3,0,3,2
+E0,2013,28sep2013,Tottenham,Chelsea,1,1,1,1
+E0,2013,28sep2013,Hull,West Ham,3,0,1,0
+E0,2013,28sep2013,Southampton,Crystal Palace,3,0,2,0
+E0,2013,28sep2013,Fulham,Cardiff,0,3,1,2
+E0,2013,29sep2013,Sunderland,Liverpool,0,3,1,3
+E0,2013,29sep2013,Stoke,Norwich,0,3,0,1
+E0,2013,30sep2013,Everton,Newcastle,3,0,3,2
+E0,2013,05oct2013,Hull,Aston Villa,1,1,0,0
+E0,2013,05oct2013,Sunderland,Man United,0,3,1,2
+E0,2013,05oct2013,Man City,Everton,3,0,3,1
+E0,2013,05oct2013,Fulham,Stoke,3,0,1,0
+E0,2013,05oct2013,Liverpool,Crystal Palace,3,0,3,1
+E0,2013,05oct2013,Cardiff,Newcastle,0,3,1,2
+E0,2013,06oct2013,Tottenham,West Ham,0,3,0,3
+E0,2013,06oct2013,Norwich,Chelsea,0,3,1,3
+E0,2013,06oct2013,West Brom,Arsenal,1,1,1,1
+E0,2013,06oct2013,Southampton,Swansea,3,0,2,0
+E0,2013,19oct2013,Swansea,Sunderland,3,0,4,0
+E0,2013,19oct2013,Newcastle,Liverpool,1,1,2,2
+E0,2013,19oct2013,Chelsea,Cardiff,3,0,4,1
+E0,2013,19oct2013,Everton,Hull,3,0,2,1
+E0,2013,19oct2013,West Ham,Man City,0,3,1,3
+E0,2013,19oct2013,Man United,Southampton,1,1,1,1
+E0,2013,19oct2013,Stoke,West Brom,1,1,0,0
+E0,2013,19oct2013,Arsenal,Norwich,3,0,4,1
+E0,2013,20oct2013,Aston Villa,Tottenham,0,3,0,2
+E0,2013,21oct2013,Crystal Palace,Fulham,0,3,1,4
+E0,2013,26oct2013,Liverpool,West Brom,3,0,4,1
+E0,2013,26oct2013,Norwich,Cardiff,1,1,0,0
+E0,2013,26oct2013,Man United,Stoke,3,0,3,2
+E0,2013,26oct2013,Southampton,Fulham,3,0,2,0
+E0,2013,26oct2013,Crystal Palace,Arsenal,0,3,0,2
+E0,2013,26oct2013,Aston Villa,Everton,0,3,0,2
+E0,2013,27oct2013,Sunderland,Newcastle,3,0,2,1
+E0,2013,27oct2013,Tottenham,Hull,3,0,1,0
+E0,2013,27oct2013,Chelsea,Man City,3,0,2,1
+E0,2013,27oct2013,Swansea,West Ham,1,1,0,0
+E0,2013,02nov2013,Stoke,Southampton,1,1,1,1
+E0,2013,02nov2013,Hull,Sunderland,3,0,1,0
+E0,2013,02nov2013,West Ham,Aston Villa,1,1,0,0
+E0,2013,02nov2013,Fulham,Man United,0,3,1,3
+E0,2013,02nov2013,Newcastle,Chelsea,3,0,2,0
+E0,2013,02nov2013,West Brom,Crystal Palace,3,0,2,0
+E0,2013,02nov2013,Arsenal,Liverpool,3,0,2,0
+E0,2013,02nov2013,Man City,Norwich,3,0,7,0
+E0,2013,03nov2013,Cardiff,Swansea,3,0,1,0
+E0,2013,03nov2013,Everton,Tottenham,1,1,0,0
+E0,2013,09nov2013,Aston Villa,Cardiff,3,0,2,0
+E0,2013,09nov2013,Chelsea,West Brom,1,1,2,2
+E0,2013,09nov2013,Liverpool,Fulham,3,0,4,0
+E0,2013,09nov2013,Norwich,West Ham,3,0,3,1
+E0,2013,09nov2013,Crystal Palace,Everton,1,1,0,0
+E0,2013,09nov2013,Southampton,Hull,3,0,4,1
+E0,2013,10nov2013,Tottenham,Newcastle,0,3,0,1
+E0,2013,10nov2013,Man United,Arsenal,3,0,1,0
+E0,2013,10nov2013,Swansea,Stoke,1,1,3,3
+E0,2013,10nov2013,Sunderland,Man City,3,0,1,0
+E0,2013,23nov2013,Stoke,Sunderland,3,0,2,0
+E0,2013,23nov2013,Arsenal,Southampton,3,0,2,0
+E0,2013,23nov2013,Hull,Crystal Palace,0,3,0,1
+E0,2013,23nov2013,Everton,Liverpool,1,1,3,3
+E0,2013,23nov2013,Newcastle,Norwich,3,0,2,1
+E0,2013,23nov2013,West Ham,Chelsea,0,3,0,3
+E0,2013,23nov2013,Fulham,Swansea,0,3,1,2
+E0,2013,24nov2013,Cardiff,Man United,1,1,2,2
+E0,2013,24nov2013,Man City,Tottenham,3,0,6,0
+E0,2013,25nov2013,West Brom,Aston Villa,1,1,2,2
+E0,2013,30nov2013,Everton,Stoke,3,0,4,0
+E0,2013,30nov2013,Cardiff,Arsenal,0,3,0,3
+E0,2013,30nov2013,Norwich,Crystal Palace,3,0,1,0
+E0,2013,30nov2013,West Ham,Fulham,3,0,3,0
+E0,2013,30nov2013,Newcastle,West Brom,3,0,2,1
+E0,2013,30nov2013,Aston Villa,Sunderland,1,1,0,0
+E0,2013,01dec2013,Tottenham,Man United,1,1,2,2
+E0,2013,01dec2013,Chelsea,Southampton,3,0,3,1
+E0,2013,01dec2013,Hull,Liverpool,3,0,3,1
+E0,2013,01dec2013,Man City,Swansea,3,0,3,0
+E0,2013,03dec2013,Crystal Palace,West Ham,3,0,1,0
+E0,2013,04dec2013,Sunderland,Chelsea,0,3,3,4
+E0,2013,04dec2013,Southampton,Aston Villa,0,3,2,3
+E0,2013,04dec2013,Arsenal,Hull,3,0,2,0
+E0,2013,04dec2013,Swansea,Newcastle,3,0,3,0
+E0,2013,04dec2013,Man United,Everton,0,3,0,1
+E0,2013,04dec2013,Fulham,Tottenham,0,3,1,2
+E0,2013,04dec2013,Liverpool,Norwich,3,0,5,1
+E0,2013,04dec2013,Stoke,Cardiff,1,1,0,0
+E0,2013,04dec2013,West Brom,Man City,0,3,2,3
+E0,2013,07dec2013,Stoke,Chelsea,3,0,3,2
+E0,2013,07dec2013,West Brom,Norwich,0,3,0,2
+E0,2013,07dec2013,Southampton,Man City,1,1,1,1
+E0,2013,07dec2013,Liverpool,West Ham,3,0,4,1
+E0,2013,07dec2013,Sunderland,Tottenham,0,3,1,2
+E0,2013,07dec2013,Crystal Palace,Cardiff,3,0,2,0
+E0,2013,07dec2013,Man United,Newcastle,0,3,0,1
+E0,2013,08dec2013,Fulham,Aston Villa,3,0,2,0
+E0,2013,08dec2013,Arsenal,Everton,1,1,1,1
+E0,2013,09dec2013,Swansea,Hull,1,1,1,1
+E0,2013,14dec2013,West Ham,Sunderland,1,1,0,0
+E0,2013,14dec2013,Chelsea,Crystal Palace,3,0,2,1
+E0,2013,14dec2013,Newcastle,Southampton,1,1,1,1
+E0,2013,14dec2013,Hull,Stoke,1,1,0,0
+E0,2013,14dec2013,Cardiff,West Brom,3,0,1,0
+E0,2013,14dec2013,Everton,Fulham,3,0,4,1
+E0,2013,14dec2013,Man City,Arsenal,3,0,6,3
+E0,2013,15dec2013,Aston Villa,Man United,0,3,0,3
+E0,2013,15dec2013,Tottenham,Liverpool,0,3,0,5
+E0,2013,15dec2013,Norwich,Swansea,1,1,1,1
+E0,2013,21dec2013,Liverpool,Cardiff,3,0,3,1
+E0,2013,21dec2013,Stoke,Aston Villa,3,0,2,1
+E0,2013,21dec2013,Crystal Palace,Newcastle,0,3,0,3
+E0,2013,21dec2013,West Brom,Hull,1,1,1,1
+E0,2013,21dec2013,Sunderland,Norwich,1,1,0,0
+E0,2013,21dec2013,Fulham,Man City,0,3,2,4
+E0,2013,21dec2013,Man United,West Ham,3,0,3,1
+E0,2013,22dec2013,Swansea,Everton,0,3,1,2
+E0,2013,22dec2013,Southampton,Tottenham,0,3,2,3
+E0,2013,23dec2013,Arsenal,Chelsea,1,1,0,0
+E0,2013,26dec2013,Man City,Liverpool,3,0,2,1
+E0,2013,26dec2013,West Ham,Arsenal,0,3,1,3
+E0,2013,26dec2013,Hull,Man United,0,3,2,3
+E0,2013,26dec2013,Newcastle,Stoke,3,0,5,1
+E0,2013,26dec2013,Norwich,Fulham,0,3,1,2
+E0,2013,26dec2013,Tottenham,West Brom,1,1,1,1
+E0,2013,26dec2013,Cardiff,Southampton,0,3,0,3
+E0,2013,26dec2013,Aston Villa,Crystal Palace,0,3,0,1
+E0,2013,26dec2013,Everton,Sunderland,0,3,0,1
+E0,2013,26dec2013,Chelsea,Swansea,3,0,1,0
+E0,2013,28dec2013,Hull,Fulham,3,0,6,0
+E0,2013,28dec2013,Norwich,Man United,0,3,0,1
+E0,2013,28dec2013,Aston Villa,Swansea,1,1,1,1
+E0,2013,28dec2013,West Ham,West Brom,1,1,3,3
+E0,2013,28dec2013,Cardiff,Sunderland,1,1,2,2
+E0,2013,28dec2013,Man City,Crystal Palace,3,0,1,0
+E0,2013,29dec2013,Tottenham,Stoke,3,0,3,0
+E0,2013,29dec2013,Chelsea,Liverpool,3,0,2,1
+E0,2013,29dec2013,Everton,Southampton,3,0,2,1
+E0,2013,29dec2013,Newcastle,Arsenal,0,3,0,1
+E0,2013,01jan2014,Stoke,Everton,1,1,1,1
+E0,2013,01jan2014,Liverpool,Hull,3,0,2,0
+E0,2013,01jan2014,West Brom,Newcastle,3,0,1,0
+E0,2013,01jan2014,Swansea,Man City,0,3,2,3
+E0,2013,01jan2014,Crystal Palace,Norwich,1,1,1,1
+E0,2013,01jan2014,Man United,Tottenham,0,3,1,2
+E0,2013,01jan2014,Southampton,Chelsea,0,3,0,3
+E0,2013,01jan2014,Arsenal,Cardiff,3,0,2,0
+E0,2013,01jan2014,Fulham,West Ham,3,0,2,1
+E0,2013,01jan2014,Sunderland,Aston Villa,0,3,0,1
+E0,2013,11jan2014,Man United,Swansea,3,0,2,0
+E0,2013,11jan2014,Cardiff,West Ham,0,3,0,2
+E0,2013,11jan2014,Hull,Chelsea,0,3,0,2
+E0,2013,11jan2014,Everton,Norwich,3,0,2,0
+E0,2013,11jan2014,Tottenham,Crystal Palace,3,0,2,0
+E0,2013,11jan2014,Southampton,West Brom,3,0,1,0
+E0,2013,11jan2014,Fulham,Sunderland,0,3,1,4
+E0,2013,12jan2014,Newcastle,Man City,0,3,0,2
+E0,2013,12jan2014,Stoke,Liverpool,0,3,3,5
+E0,2013,13jan2014,Aston Villa,Arsenal,0,3,1,2
+E0,2013,18jan2014,Norwich,Hull,3,0,1,0
+E0,2013,18jan2014,Liverpool,Aston Villa,1,1,2,2
+E0,2013,18jan2014,West Ham,Newcastle,0,3,1,3
+E0,2013,18jan2014,Arsenal,Fulham,3,0,2,0
+E0,2013,18jan2014,Crystal Palace,Stoke,3,0,1,0
+E0,2013,18jan2014,Sunderland,Southampton,1,1,2,2
+E0,2013,18jan2014,Man City,Cardiff,3,0,4,2
+E0,2013,19jan2014,Swansea,Tottenham,0,3,1,3
+E0,2013,19jan2014,Chelsea,Man United,3,0,3,1
+E0,2013,20jan2014,West Brom,Everton,1,1,1,1
+E0,2013,28jan2014,Man United,Cardiff,3,0,2,0
+E0,2013,28jan2014,Liverpool,Everton,3,0,4,0
+E0,2013,28jan2014,Swansea,Fulham,3,0,2,0
+E0,2013,28jan2014,Norwich,Newcastle,1,1,0,0
+E0,2013,28jan2014,Southampton,Arsenal,1,1,2,2
+E0,2013,28jan2014,Crystal Palace,Hull,3,0,1,0
+E0,2013,29jan2014,Aston Villa,West Brom,3,0,4,3
+E0,2013,29jan2014,Sunderland,Stoke,3,0,1,0
+E0,2013,29jan2014,Tottenham,Man City,0,3,1,5
+E0,2013,29jan2014,Chelsea,West Ham,1,1,0,0
+E0,2013,01feb2014,Newcastle,Sunderland,0,3,0,3
+E0,2013,01feb2014,Fulham,Southampton,0,3,0,3
+E0,2013,01feb2014,Hull,Tottenham,1,1,1,1
+E0,2013,01feb2014,West Ham,Swansea,3,0,2,0
+E0,2013,01feb2014,Cardiff,Norwich,3,0,2,1
+E0,2013,01feb2014,Stoke,Man United,3,0,2,1
+E0,2013,01feb2014,Everton,Aston Villa,3,0,2,1
+E0,2013,02feb2014,West Brom,Liverpool,1,1,1,1
+E0,2013,02feb2014,Arsenal,Crystal Palace,3,0,2,0
+E0,2013,03feb2014,Man City,Chelsea,0,3,0,1
+E0,2013,08feb2014,Southampton,Stoke,1,1,2,2
+E0,2013,08feb2014,Aston Villa,West Ham,0,3,0,2
+E0,2013,08feb2014,Norwich,Man City,1,1,0,0
+E0,2013,08feb2014,Crystal Palace,West Brom,3,0,3,1
+E0,2013,08feb2014,Sunderland,Hull,0,3,0,2
+E0,2013,08feb2014,Swansea,Cardiff,3,0,3,0
+E0,2013,08feb2014,Chelsea,Newcastle,3,0,3,0
+E0,2013,08feb2014,Liverpool,Arsenal,3,0,5,1
+E0,2013,09feb2014,Tottenham,Everton,3,0,1,0
+E0,2013,09feb2014,Man United,Fulham,1,1,2,2
+E0,2013,11feb2014,West Brom,Chelsea,1,1,1,1
+E0,2013,11feb2014,Cardiff,Aston Villa,1,1,0,0
+E0,2013,11feb2014,West Ham,Norwich,3,0,2,0
+E0,2013,11feb2014,Hull,Southampton,0,3,0,1
+E0,2013,12feb2014,Arsenal,Man United,1,1,0,0
+E0,2013,12feb2014,Newcastle,Tottenham,0,3,0,4
+E0,2013,12feb2014,Fulham,Liverpool,0,3,2,3
+E0,2013,12feb2014,Stoke,Swansea,1,1,1,1
+E0,2013,22feb2014,Man City,Stoke,3,0,1,0
+E0,2013,22feb2014,West Brom,Fulham,1,1,1,1
+E0,2013,22feb2014,Chelsea,Everton,3,0,1,0
+E0,2013,22feb2014,Crystal Palace,Man United,0,3,0,2
+E0,2013,22feb2014,West Ham,Southampton,3,0,3,1
+E0,2013,22feb2014,Arsenal,Sunderland,3,0,4,1
+E0,2013,22feb2014,Cardiff,Hull,0,3,0,4
+E0,2013,23feb2014,Liverpool,Swansea,3,0,4,3
+E0,2013,23feb2014,Norwich,Tottenham,3,0,1,0
+E0,2013,23feb2014,Newcastle,Aston Villa,3,0,1,0
+E0,2013,01mar2014,Stoke,Arsenal,3,0,1,0
+E0,2013,01mar2014,Southampton,Liverpool,0,3,0,3
+E0,2013,01mar2014,Hull,Newcastle,0,3,1,4
+E0,2013,01mar2014,Fulham,Chelsea,0,3,1,3
+E0,2013,01mar2014,Everton,West Ham,3,0,1,0
+E0,2013,02mar2014,Tottenham,Cardiff,3,0,1,0
+E0,2013,02mar2014,Aston Villa,Norwich,3,0,4,1
+E0,2013,02mar2014,Swansea,Crystal Palace,1,1,1,1
+E0,2013,08mar2014,Chelsea,Tottenham,3,0,4,0
+E0,2013,08mar2014,West Brom,Man United,0,3,0,3
+E0,2013,08mar2014,Norwich,Stoke,1,1,1,1
+E0,2013,08mar2014,Crystal Palace,Southampton,0,3,0,1
+E0,2013,08mar2014,Cardiff,Fulham,3,0,3,1
+E0,2013,15mar2014,Fulham,Newcastle,3,0,1,0
+E0,2013,15mar2014,Southampton,Norwich,3,0,4,2
+E0,2013,15mar2014,Swansea,West Brom,0,3,1,2
+E0,2013,15mar2014,Stoke,West Ham,3,0,3,1
+E0,2013,15mar2014,Everton,Cardiff,3,0,2,1
+E0,2013,15mar2014,Aston Villa,Chelsea,3,0,1,0
+E0,2013,15mar2014,Hull,Man City,0,3,0,2
+E0,2013,15mar2014,Sunderland,Crystal Palace,1,1,0,0
+E0,2013,16mar2014,Tottenham,Arsenal,0,3,0,1
+E0,2013,16mar2014,Man United,Liverpool,0,3,0,3
+E0,2013,22mar2014,Cardiff,Liverpool,0,3,3,6
+E0,2013,22mar2014,Norwich,Sunderland,3,0,2,0
+E0,2013,22mar2014,Chelsea,Arsenal,3,0,6,0
+E0,2013,22mar2014,Newcastle,Crystal Palace,3,0,1,0
+E0,2013,22mar2014,Everton,Swansea,3,0,3,2
+E0,2013,22mar2014,Hull,West Brom,3,0,2,0
+E0,2013,22mar2014,West Ham,Man United,0,3,0,2
+E0,2013,22mar2014,Man City,Fulham,3,0,5,0
+E0,2013,23mar2014,Tottenham,Southampton,3,0,3,2
+E0,2013,23mar2014,Aston Villa,Stoke,0,3,1,4
+E0,2013,25mar2014,Arsenal,Swansea,1,1,2,2
+E0,2013,25mar2014,Man United,Man City,0,3,0,3
+E0,2013,25mar2014,Newcastle,Everton,0,3,0,3
+E0,2013,26mar2014,Liverpool,Sunderland,3,0,2,1
+E0,2013,26mar2014,West Ham,Hull,3,0,2,1
+E0,2013,29mar2014,Swansea,Norwich,3,0,3,0
+E0,2013,29mar2014,Southampton,Newcastle,3,0,4,0
+E0,2013,29mar2014,Crystal Palace,Chelsea,3,0,1,0
+E0,2013,29mar2014,Arsenal,Man City,1,1,1,1
+E0,2013,29mar2014,Stoke,Hull,3,0,1,0
+E0,2013,29mar2014,Man United,Aston Villa,3,0,4,1
+E0,2013,29mar2014,West Brom,Cardiff,1,1,3,3
+E0,2013,30mar2014,Liverpool,Tottenham,3,0,4,0
+E0,2013,30mar2014,Fulham,Everton,0,3,1,3
+E0,2013,31mar2014,Sunderland,West Ham,0,3,1,2
+E0,2013,05apr2014,Newcastle,Man United,0,3,0,4
+E0,2013,05apr2014,Chelsea,Stoke,3,0,3,0
+E0,2013,05apr2014,Cardiff,Crystal Palace,0,3,0,3
+E0,2013,05apr2014,Aston Villa,Fulham,0,3,1,2
+E0,2013,05apr2014,Man City,Southampton,3,0,4,1
+E0,2013,05apr2014,Hull,Swansea,3,0,1,0
+E0,2013,05apr2014,Norwich,West Brom,0,3,0,1
+E0,2013,06apr2014,West Ham,Liverpool,0,3,1,2
+E0,2013,06apr2014,Everton,Arsenal,3,0,3,0
+E0,2013,07apr2014,Tottenham,Sunderland,3,0,5,1
+E0,2013,12apr2014,Sunderland,Everton,0,3,0,1
+E0,2013,12apr2014,West Brom,Tottenham,1,1,3,3
+E0,2013,12apr2014,Southampton,Cardiff,0,3,0,1
+E0,2013,12apr2014,Fulham,Norwich,3,0,1,0
+E0,2013,12apr2014,Crystal Palace,Aston Villa,3,0,1,0
+E0,2013,12apr2014,Stoke,Newcastle,3,0,1,0
+E0,2013,13apr2014,Swansea,Chelsea,0,3,0,1
+E0,2013,13apr2014,Liverpool,Man City,3,0,3,2
+E0,2013,15apr2014,Arsenal,West Ham,3,0,3,1
+E0,2013,16apr2014,Man City,Sunderland,1,1,2,2
+E0,2013,16apr2014,Everton,Crystal Palace,0,3,2,3
+E0,2013,19apr2014,Newcastle,Swansea,0,3,1,2
+E0,2013,19apr2014,Chelsea,Sunderland,0,3,1,2
+E0,2013,19apr2014,West Ham,Crystal Palace,0,3,0,1
+E0,2013,19apr2014,Cardiff,Stoke,1,1,1,1
+E0,2013,19apr2014,Tottenham,Fulham,3,0,3,1
+E0,2013,19apr2014,Aston Villa,Southampton,1,1,0,0
+E0,2013,20apr2014,Everton,Man United,3,0,2,0
+E0,2013,20apr2014,Norwich,Liverpool,0,3,2,3
+E0,2013,20apr2014,Hull,Arsenal,0,3,0,3
+E0,2013,21apr2014,Man City,West Brom,3,0,3,1
+E0,2013,26apr2014,Fulham,Hull,1,1,2,2
+E0,2013,26apr2014,Stoke,Tottenham,0,3,0,1
+E0,2013,26apr2014,West Brom,West Ham,3,0,1,0
+E0,2013,26apr2014,Swansea,Aston Villa,3,0,4,1
+E0,2013,26apr2014,Southampton,Everton,3,0,2,0
+E0,2013,26apr2014,Man United,Norwich,3,0,4,0
+E0,2013,27apr2014,Liverpool,Chelsea,0,3,0,2
+E0,2013,27apr2014,Crystal Palace,Man City,0,3,0,2
+E0,2013,27apr2014,Sunderland,Cardiff,3,0,4,0
+E0,2013,28apr2014,Arsenal,Newcastle,3,0,3,0
+E0,2013,03may2014,Everton,Man City,0,3,2,3
+E0,2013,03may2014,Man United,Sunderland,0,3,0,1
+E0,2013,03may2014,West Ham,Tottenham,3,0,2,0
+E0,2013,03may2014,Newcastle,Cardiff,3,0,3,0
+E0,2013,03may2014,Aston Villa,Hull,3,0,3,1
+E0,2013,03may2014,Stoke,Fulham,3,0,4,1
+E0,2013,03may2014,Swansea,Southampton,0,3,0,1
+E0,2013,04may2014,Chelsea,Norwich,1,1,0,0
+E0,2013,04may2014,Arsenal,West Brom,3,0,1,0
+E0,2013,05may2014,Crystal Palace,Liverpool,1,1,3,3
+E0,2013,06may2014,Man United,Hull,3,0,3,1
+E0,2013,07may2014,Sunderland,West Brom,3,0,2,0
+E0,2013,07may2014,Man City,Aston Villa,3,0,4,0
+E0,2013,11may2014,Tottenham,Aston Villa,3,0,3,0
+E0,2013,11may2014,Fulham,Crystal Palace,1,1,2,2
+E0,2013,11may2014,Sunderland,Swansea,0,3,1,3
+E0,2013,11may2014,Hull,Everton,0,3,0,2
+E0,2013,11may2014,Cardiff,Chelsea,0,3,1,2
+E0,2013,11may2014,Southampton,Man United,1,1,1,1
+E0,2013,11may2014,Norwich,Arsenal,0,3,0,2
+E0,2013,11may2014,Liverpool,Newcastle,3,0,2,1
+E0,2013,11may2014,Man City,West Ham,3,0,2,0
+E0,2013,11may2014,West Brom,Stoke,0,3,1,2
+E0,2014,16aug2014,Arsenal,Crystal Palace,3,0,2,1
+E0,2014,16aug2014,Leicester,Everton,1,1,2,2
+E0,2014,16aug2014,Man United,Swansea,0,3,1,2
+E0,2014,16aug2014,Stoke,Aston Villa,0,3,0,1
+E0,2014,16aug2014,West Brom,Sunderland,1,1,2,2
+E0,2014,16aug2014,West Ham,Tottenham,0,3,0,1
+E0,2014,16aug2014,QPR,Hull,0,3,0,1
+E0,2014,17aug2014,Newcastle,Man City,0,3,0,2
+E0,2014,17aug2014,Liverpool,Southampton,3,0,2,1
+E0,2014,18aug2014,Burnley,Chelsea,0,3,1,3
+E0,2014,23aug2014,Southampton,West Brom,1,1,0,0
+E0,2014,23aug2014,Swansea,Burnley,3,0,1,0
+E0,2014,23aug2014,Everton,Arsenal,1,1,2,2
+E0,2014,23aug2014,Chelsea,Leicester,3,0,2,0
+E0,2014,23aug2014,Aston Villa,Newcastle,1,1,0,0
+E0,2014,23aug2014,Crystal Palace,West Ham,0,3,1,3
+E0,2014,24aug2014,Tottenham,QPR,3,0,4,0
+E0,2014,24aug2014,Sunderland,Man United,1,1,1,1
+E0,2014,24aug2014,Hull,Stoke,1,1,1,1
+E0,2014,25aug2014,Man City,Liverpool,3,0,3,1
+E0,2014,30aug2014,Newcastle,Crystal Palace,1,1,3,3
+E0,2014,30aug2014,Man City,Stoke,0,3,0,1
+E0,2014,30aug2014,Swansea,West Brom,3,0,3,0
+E0,2014,30aug2014,Burnley,Man United,1,1,0,0
+E0,2014,30aug2014,Everton,Chelsea,0,3,3,6
+E0,2014,30aug2014,QPR,Sunderland,3,0,1,0
+E0,2014,30aug2014,West Ham,Southampton,0,3,1,3
+E0,2014,31aug2014,Aston Villa,Hull,3,0,2,1
+E0,2014,31aug2014,Leicester,Arsenal,1,1,1,1
+E0,2014,31aug2014,Tottenham,Liverpool,0,3,0,3
+E0,2014,13sep2014,Liverpool,Aston Villa,0,3,0,1
+E0,2014,13sep2014,Stoke,Leicester,0,3,0,1
+E0,2014,13sep2014,West Brom,Everton,0,3,0,2
+E0,2014,13sep2014,Arsenal,Man City,1,1,2,2
+E0,2014,13sep2014,Crystal Palace,Burnley,1,1,0,0
+E0,2014,13sep2014,Sunderland,Tottenham,1,1,2,2
+E0,2014,13sep2014,Chelsea,Swansea,3,0,4,2
+E0,2014,13sep2014,Southampton,Newcastle,3,0,4,0
+E0,2014,14sep2014,Man United,QPR,3,0,4,0
+E0,2014,15sep2014,Hull,West Ham,1,1,2,2
+E0,2014,20sep2014,Burnley,Sunderland,1,1,0,0
+E0,2014,20sep2014,Newcastle,Hull,1,1,2,2
+E0,2014,20sep2014,West Ham,Liverpool,3,0,3,1
+E0,2014,20sep2014,Aston Villa,Arsenal,0,3,0,3
+E0,2014,20sep2014,QPR,Stoke,1,1,2,2
+E0,2014,20sep2014,Swansea,Southampton,0,3,0,1
+E0,2014,21sep2014,Leicester,Man United,3,0,5,3
+E0,2014,21sep2014,Man City,Chelsea,1,1,1,1
+E0,2014,21sep2014,Everton,Crystal Palace,0,3,2,3
+E0,2014,21sep2014,Tottenham,West Brom,0,3,0,1
+E0,2014,27sep2014,Man United,West Ham,3,0,2,1
+E0,2014,27sep2014,Southampton,QPR,3,0,2,1
+E0,2014,27sep2014,Hull,Man City,0,3,2,4
+E0,2014,27sep2014,Chelsea,Aston Villa,3,0,3,0
+E0,2014,27sep2014,Crystal Palace,Leicester,3,0,2,0
+E0,2014,27sep2014,Liverpool,Everton,1,1,1,1
+E0,2014,27sep2014,Arsenal,Tottenham,1,1,1,1
+E0,2014,27sep2014,Sunderland,Swansea,1,1,0,0
+E0,2014,28sep2014,West Brom,Burnley,3,0,4,0
+E0,2014,29sep2014,Stoke,Newcastle,3,0,1,0
+E0,2014,04oct2014,Aston Villa,Man City,0,3,0,2
+E0,2014,04oct2014,Sunderland,Stoke,3,0,3,1
+E0,2014,04oct2014,Swansea,Newcastle,1,1,2,2
+E0,2014,04oct2014,Leicester,Burnley,1,1,2,2
+E0,2014,04oct2014,Hull,Crystal Palace,3,0,2,0
+E0,2014,04oct2014,Liverpool,West Brom,3,0,2,1
+E0,2014,05oct2014,West Ham,QPR,3,0,2,0
+E0,2014,05oct2014,Tottenham,Southampton,3,0,1,0
+E0,2014,05oct2014,Chelsea,Arsenal,3,0,2,0
+E0,2014,05oct2014,Man United,Everton,3,0,2,1
+E0,2014,18oct2014,Burnley,West Ham,0,3,1,3
+E0,2014,18oct2014,Crystal Palace,Chelsea,0,3,1,2
+E0,2014,18oct2014,Everton,Aston Villa,3,0,3,0
+E0,2014,18oct2014,Southampton,Sunderland,3,0,8,0
+E0,2014,18oct2014,Man City,Tottenham,3,0,4,1
+E0,2014,18oct2014,Newcastle,Leicester,3,0,1,0
+E0,2014,18oct2014,Arsenal,Hull,1,1,2,2
+E0,2014,19oct2014,Stoke,Swansea,3,0,2,1
+E0,2014,19oct2014,QPR,Liverpool,0,3,2,3
+E0,2014,20oct2014,West Brom,Man United,1,1,2,2
+E0,2014,25oct2014,West Brom,Crystal Palace,1,1,2,2
+E0,2014,25oct2014,Liverpool,Hull,1,1,0,0
+E0,2014,25oct2014,Sunderland,Arsenal,0,3,0,2
+E0,2014,25oct2014,West Ham,Man City,3,0,2,1
+E0,2014,25oct2014,Southampton,Stoke,3,0,1,0
+E0,2014,25oct2014,Swansea,Leicester,3,0,2,0
+E0,2014,26oct2014,Tottenham,Newcastle,0,3,1,2
+E0,2014,26oct2014,Man United,Chelsea,1,1,1,1
+E0,2014,26oct2014,Burnley,Everton,0,3,1,3
+E0,2014,27oct2014,QPR,Aston Villa,3,0,2,0
+E0,2014,01nov2014,Chelsea,QPR,3,0,2,1
+E0,2014,01nov2014,Newcastle,Liverpool,3,0,1,0
+E0,2014,01nov2014,Leicester,West Brom,0,3,0,1
+E0,2014,01nov2014,Arsenal,Burnley,3,0,3,0
+E0,2014,01nov2014,Hull,Southampton,0,3,0,1
+E0,2014,01nov2014,Stoke,West Ham,1,1,2,2
+E0,2014,01nov2014,Everton,Swansea,1,1,0,0
+E0,2014,02nov2014,Aston Villa,Tottenham,0,3,1,2
+E0,2014,02nov2014,Man City,Man United,3,0,1,0
+E0,2014,03nov2014,Crystal Palace,Sunderland,0,3,1,3
+E0,2014,08nov2014,QPR,Man City,1,1,2,2
+E0,2014,08nov2014,Man United,Crystal Palace,3,0,1,0
+E0,2014,08nov2014,Burnley,Hull,3,0,1,0
+E0,2014,08nov2014,Liverpool,Chelsea,0,3,1,2
+E0,2014,08nov2014,West Ham,Aston Villa,1,1,0,0
+E0,2014,08nov2014,Southampton,Leicester,3,0,2,0
+E0,2014,09nov2014,Sunderland,Everton,1,1,1,1
+E0,2014,09nov2014,Swansea,Arsenal,3,0,2,1
+E0,2014,09nov2014,Tottenham,Stoke,0,3,1,2
+E0,2014,09nov2014,West Brom,Newcastle,0,3,0,2
+E0,2014,22nov2014,Arsenal,Man United,0,3,1,2
+E0,2014,22nov2014,Everton,West Ham,3,0,2,1
+E0,2014,22nov2014,Newcastle,QPR,3,0,1,0
+E0,2014,22nov2014,Chelsea,West Brom,3,0,2,0
+E0,2014,22nov2014,Stoke,Burnley,0,3,1,2
+E0,2014,22nov2014,Leicester,Sunderland,1,1,0,0
+E0,2014,22nov2014,Man City,Swansea,3,0,2,1
+E0,2014,23nov2014,Crystal Palace,Liverpool,3,0,3,1
+E0,2014,23nov2014,Hull,Tottenham,0,3,1,2
+E0,2014,24nov2014,Aston Villa,Southampton,1,1,1,1
+E0,2014,29nov2014,Burnley,Aston Villa,1,1,1,1
+E0,2014,29nov2014,QPR,Leicester,3,0,3,2
+E0,2014,29nov2014,Man United,Hull,3,0,3,0
+E0,2014,29nov2014,Liverpool,Stoke,3,0,1,0
+E0,2014,29nov2014,West Ham,Newcastle,3,0,1,0
+E0,2014,29nov2014,West Brom,Arsenal,0,3,0,1
+E0,2014,29nov2014,Swansea,Crystal Palace,1,1,1,1
+E0,2014,29nov2014,Sunderland,Chelsea,1,1,0,0
+E0,2014,30nov2014,Southampton,Man City,0,3,0,3
+E0,2014,30nov2014,Tottenham,Everton,3,0,2,1
+E0,2014,02dec2014,Burnley,Newcastle,1,1,1,1
+E0,2014,02dec2014,Man United,Stoke,3,0,2,1
+E0,2014,02dec2014,West Brom,West Ham,0,3,1,2
+E0,2014,02dec2014,Swansea,QPR,3,0,2,0
+E0,2014,02dec2014,Crystal Palace,Aston Villa,0,3,0,1
+E0,2014,02dec2014,Leicester,Liverpool,0,3,1,3
+E0,2014,03dec2014,Arsenal,Southampton,3,0,1,0
+E0,2014,03dec2014,Chelsea,Tottenham,3,0,3,0
+E0,2014,03dec2014,Sunderland,Man City,0,3,1,4
+E0,2014,03dec2014,Everton,Hull,1,1,1,1
+E0,2014,06dec2014,Hull,West Brom,1,1,0,0
+E0,2014,06dec2014,Stoke,Arsenal,3,0,3,2
+E0,2014,06dec2014,Liverpool,Sunderland,1,1,0,0
+E0,2014,06dec2014,Man City,Everton,3,0,1,0
+E0,2014,06dec2014,Tottenham,Crystal Palace,1,1,0,0
+E0,2014,06dec2014,QPR,Burnley,3,0,2,0
+E0,2014,06dec2014,Newcastle,Chelsea,3,0,2,1
+E0,2014,07dec2014,West Ham,Swansea,3,0,3,1
+E0,2014,07dec2014,Aston Villa,Leicester,3,0,2,1
+E0,2014,08dec2014,Southampton,Man United,0,3,1,2
+E0,2014,13dec2014,Sunderland,West Ham,1,1,1,1
+E0,2014,13dec2014,Chelsea,Hull,3,0,2,0
+E0,2014,13dec2014,West Brom,Aston Villa,3,0,1,0
+E0,2014,13dec2014,Leicester,Man City,0,3,0,1
+E0,2014,13dec2014,Burnley,Southampton,3,0,1,0
+E0,2014,13dec2014,Arsenal,Newcastle,3,0,4,1
+E0,2014,13dec2014,Crystal Palace,Stoke,1,1,1,1
+E0,2014,14dec2014,Man United,Liverpool,3,0,3,0
+E0,2014,14dec2014,Swansea,Tottenham,0,3,1,2
+E0,2014,15dec2014,Everton,QPR,3,0,3,1
+E0,2014,20dec2014,Tottenham,Burnley,3,0,2,1
+E0,2014,20dec2014,Southampton,Everton,3,0,3,0
+E0,2014,20dec2014,Aston Villa,Man United,1,1,1,1
+E0,2014,20dec2014,Hull,Swansea,0,3,0,1
+E0,2014,20dec2014,QPR,West Brom,3,0,3,2
+E0,2014,20dec2014,Man City,Crystal Palace,3,0,3,0
+E0,2014,20dec2014,West Ham,Leicester,3,0,2,0
+E0,2014,21dec2014,Liverpool,Arsenal,1,1,2,2
+E0,2014,21dec2014,Newcastle,Sunderland,0,3,0,1
+E0,2014,22dec2014,Stoke,Chelsea,0,3,0,2
+E0,2014,26dec2014,Arsenal,QPR,3,0,2,1
+E0,2014,26dec2014,Everton,Stoke,0,3,0,1
+E0,2014,26dec2014,Burnley,Liverpool,0,3,0,1
+E0,2014,26dec2014,Chelsea,West Ham,3,0,2,0
+E0,2014,26dec2014,Leicester,Tottenham,0,3,1,2
+E0,2014,26dec2014,Man United,Newcastle,3,0,3,1
+E0,2014,26dec2014,West Brom,Man City,0,3,1,3
+E0,2014,26dec2014,Sunderland,Hull,0,3,1,3
+E0,2014,26dec2014,Crystal Palace,Southampton,0,3,1,3
+E0,2014,26dec2014,Swansea,Aston Villa,3,0,1,0
+E0,2014,28dec2014,Hull,Leicester,0,3,0,1
+E0,2014,28dec2014,Man City,Burnley,1,1,2,2
+E0,2014,28dec2014,Aston Villa,Sunderland,1,1,0,0
+E0,2014,28dec2014,West Ham,Arsenal,0,3,1,2
+E0,2014,28dec2014,Southampton,Chelsea,1,1,1,1
+E0,2014,28dec2014,QPR,Crystal Palace,1,1,0,0
+E0,2014,28dec2014,Newcastle,Everton,3,0,3,2
+E0,2014,28dec2014,Stoke,West Brom,3,0,2,0
+E0,2014,28dec2014,Tottenham,Man United,1,1,0,0
+E0,2014,29dec2014,Liverpool,Swansea,3,0,4,1
+E0,2014,01jan2015,Aston Villa,Crystal Palace,1,1,0,0
+E0,2014,01jan2015,QPR,Swansea,1,1,1,1
+E0,2014,01jan2015,Hull,Everton,3,0,2,0
+E0,2014,01jan2015,Southampton,Arsenal,3,0,2,0
+E0,2014,01jan2015,Liverpool,Leicester,1,1,2,2
+E0,2014,01jan2015,Man City,Sunderland,3,0,3,2
+E0,2014,01jan2015,Tottenham,Chelsea,3,0,5,3
+E0,2014,01jan2015,Newcastle,Burnley,1,1,3,3
+E0,2014,01jan2015,Stoke,Man United,1,1,1,1
+E0,2014,01jan2015,West Ham,West Brom,1,1,1,1
+E0,2014,10jan2015,Everton,Man City,1,1,1,1
+E0,2014,10jan2015,West Brom,Hull,3,0,1,0
+E0,2014,10jan2015,Swansea,West Ham,1,1,1,1
+E0,2014,10jan2015,Crystal Palace,Tottenham,3,0,2,1
+E0,2014,10jan2015,Leicester,Aston Villa,3,0,1,0
+E0,2014,10jan2015,Chelsea,Newcastle,3,0,2,0
+E0,2014,10jan2015,Burnley,QPR,3,0,2,1
+E0,2014,10jan2015,Sunderland,Liverpool,0,3,0,1
+E0,2014,11jan2015,Man United,Southampton,0,3,0,1
+E0,2014,11jan2015,Arsenal,Stoke,3,0,3,0
+E0,2014,17jan2015,Tottenham,Sunderland,3,0,2,1
+E0,2014,17jan2015,Leicester,Stoke,0,3,0,1
+E0,2014,17jan2015,Burnley,Crystal Palace,0,3,2,3
+E0,2014,17jan2015,Swansea,Chelsea,0,3,0,5
+E0,2014,17jan2015,Aston Villa,Liverpool,0,3,0,2
+E0,2014,17jan2015,QPR,Man United,0,3,0,2
+E0,2014,17jan2015,Newcastle,Southampton,0,3,1,2
+E0,2014,18jan2015,Man City,Arsenal,0,3,0,2
+E0,2014,18jan2015,West Ham,Hull,3,0,3,0
+E0,2014,19jan2015,Everton,West Brom,1,1,0,0
+E0,2014,31jan2015,Liverpool,West Ham,3,0,2,0
+E0,2014,31jan2015,Hull,Newcastle,0,3,0,3
+E0,2014,31jan2015,Stoke,QPR,3,0,3,1
+E0,2014,31jan2015,West Brom,Tottenham,0,3,0,3
+E0,2014,31jan2015,Chelsea,Man City,1,1,1,1
+E0,2014,31jan2015,Sunderland,Burnley,3,0,2,0
+E0,2014,31jan2015,Crystal Palace,Everton,0,3,0,1
+E0,2014,31jan2015,Man United,Leicester,3,0,3,1
+E0,2014,01feb2015,Southampton,Swansea,0,3,0,1
+E0,2014,01feb2015,Arsenal,Aston Villa,3,0,5,0
+E0,2014,07feb2015,Leicester,Crystal Palace,0,3,0,1
+E0,2014,07feb2015,Everton,Liverpool,1,1,0,0
+E0,2014,07feb2015,Aston Villa,Chelsea,0,3,1,2
+E0,2014,07feb2015,Tottenham,Arsenal,3,0,2,1
+E0,2014,07feb2015,Man City,Hull,1,1,1,1
+E0,2014,07feb2015,Swansea,Sunderland,1,1,1,1
+E0,2014,07feb2015,QPR,Southampton,0,3,0,1
+E0,2014,08feb2015,Newcastle,Stoke,1,1,1,1
+E0,2014,08feb2015,West Ham,Man United,1,1,1,1
+E0,2014,08feb2015,Burnley,West Brom,1,1,2,2
+E0,2014,10feb2015,Liverpool,Tottenham,3,0,3,2
+E0,2014,10feb2015,Arsenal,Leicester,3,0,2,1
+E0,2014,10feb2015,Hull,Aston Villa,3,0,2,0
+E0,2014,10feb2015,Sunderland,QPR,0,3,0,2
+E0,2014,11feb2015,Chelsea,Everton,3,0,1,0
+E0,2014,11feb2015,Man United,Burnley,3,0,3,1
+E0,2014,11feb2015,West Brom,Swansea,3,0,2,0
+E0,2014,11feb2015,Crystal Palace,Newcastle,1,1,1,1
+E0,2014,11feb2015,Southampton,West Ham,1,1,0,0
+E0,2014,11feb2015,Stoke,Man City,0,3,1,4
+E0,2014,21feb2015,Sunderland,West Brom,1,1,0,0
+E0,2014,21feb2015,Crystal Palace,Arsenal,0,3,1,2
+E0,2014,21feb2015,Chelsea,Burnley,1,1,1,1
+E0,2014,21feb2015,Man City,Newcastle,3,0,5,0
+E0,2014,21feb2015,Aston Villa,Stoke,0,3,1,2
+E0,2014,21feb2015,Hull,QPR,3,0,2,1
+E0,2014,21feb2015,Swansea,Man United,3,0,2,1
+E0,2014,22feb2015,Everton,Leicester,1,1,2,2
+E0,2014,22feb2015,Tottenham,West Ham,1,1,2,2
+E0,2014,22feb2015,Southampton,Liverpool,0,3,0,2
+E0,2014,28feb2015,Newcastle,Aston Villa,3,0,1,0
+E0,2014,28feb2015,West Brom,Southampton,3,0,1,0
+E0,2014,28feb2015,Burnley,Swansea,0,3,0,1
+E0,2014,28feb2015,Stoke,Hull,3,0,1,0
+E0,2014,28feb2015,Man United,Sunderland,3,0,2,0
+E0,2014,28feb2015,West Ham,Crystal Palace,0,3,1,3
+E0,2014,01mar2015,Liverpool,Man City,3,0,2,1
+E0,2014,01mar2015,Arsenal,Everton,3,0,2,0
+E0,2014,03mar2015,Aston Villa,West Brom,3,0,2,1
+E0,2014,03mar2015,Hull,Sunderland,1,1,1,1
+E0,2014,03mar2015,Southampton,Crystal Palace,3,0,1,0
+E0,2014,04mar2015,Man City,Leicester,3,0,2,0
+E0,2014,04mar2015,Tottenham,Swansea,3,0,3,2
+E0,2014,04mar2015,Liverpool,Burnley,3,0,2,0
+E0,2014,04mar2015,Newcastle,Man United,0,3,0,1
+E0,2014,04mar2015,West Ham,Chelsea,0,3,0,1
+E0,2014,04mar2015,Stoke,Everton,3,0,2,0
+E0,2014,04mar2015,QPR,Arsenal,0,3,1,2
+E0,2014,07mar2015,QPR,Tottenham,0,3,1,2
+E0,2014,14mar2015,West Brom,Stoke,3,0,1,0
+E0,2014,14mar2015,Leicester,Hull,1,1,0,0
+E0,2014,14mar2015,Sunderland,Aston Villa,0,3,0,4
+E0,2014,14mar2015,Arsenal,West Ham,3,0,3,0
+E0,2014,14mar2015,Burnley,Man City,3,0,1,0
+E0,2014,14mar2015,Crystal Palace,QPR,3,0,3,1
+E0,2014,15mar2015,Everton,Newcastle,3,0,3,0
+E0,2014,15mar2015,Man United,Tottenham,3,0,3,0
+E0,2014,15mar2015,Chelsea,Southampton,1,1,1,1
+E0,2014,16mar2015,Swansea,Liverpool,0,3,0,1
+E0,2014,21mar2015,Aston Villa,Swansea,0,3,0,1
+E0,2014,21mar2015,Tottenham,Leicester,3,0,4,3
+E0,2014,21mar2015,West Ham,Sunderland,3,0,1,0
+E0,2014,21mar2015,Man City,West Brom,3,0,3,0
+E0,2014,21mar2015,Southampton,Burnley,3,0,2,0
+E0,2014,21mar2015,Newcastle,Arsenal,0,3,1,2
+E0,2014,21mar2015,Stoke,Crystal Palace,0,3,1,2
+E0,2014,22mar2015,QPR,Everton,0,3,1,2
+E0,2014,22mar2015,Hull,Chelsea,0,3,2,3
+E0,2014,22mar2015,Liverpool,Man United,0,3,1,2
+E0,2014,04apr2015,Man United,Aston Villa,3,0,3,1
+E0,2014,04apr2015,Everton,Southampton,3,0,1,0
+E0,2014,04apr2015,Arsenal,Liverpool,3,0,4,1
+E0,2014,04apr2015,Chelsea,Stoke,3,0,2,1
+E0,2014,04apr2015,West Brom,QPR,0,3,1,4
+E0,2014,04apr2015,Swansea,Hull,3,0,3,1
+E0,2014,04apr2015,Leicester,West Ham,3,0,2,1
+E0,2014,05apr2015,Burnley,Tottenham,1,1,0,0
+E0,2014,05apr2015,Sunderland,Newcastle,3,0,1,0
+E0,2014,06apr2015,Crystal Palace,Man City,3,0,2,1
+E0,2014,07apr2015,Aston Villa,QPR,1,1,3,3
+E0,2014,11apr2015,Swansea,Everton,1,1,1,1
+E0,2014,11apr2015,Sunderland,Crystal Palace,0,3,1,4
+E0,2014,11apr2015,West Ham,Stoke,1,1,1,1
+E0,2014,11apr2015,Burnley,Arsenal,0,3,0,1
+E0,2014,11apr2015,Southampton,Hull,3,0,2,0
+E0,2014,11apr2015,West Brom,Leicester,0,3,2,3
+E0,2014,11apr2015,Tottenham,Aston Villa,0,3,0,1
+E0,2014,12apr2015,Man United,Man City,3,0,4,2
+E0,2014,12apr2015,QPR,Chelsea,0,3,0,1
+E0,2014,13apr2015,Liverpool,Newcastle,3,0,2,0
+E0,2014,18apr2015,Leicester,Swansea,3,0,2,0
+E0,2014,18apr2015,Everton,Burnley,3,0,1,0
+E0,2014,18apr2015,Crystal Palace,West Brom,0,3,0,2
+E0,2014,18apr2015,Stoke,Southampton,3,0,2,1
+E0,2014,18apr2015,Chelsea,Man United,3,0,1,0
+E0,2014,19apr2015,Newcastle,Tottenham,0,3,1,3
+E0,2014,19apr2015,Man City,West Ham,3,0,2,0
+E0,2014,25apr2015,West Brom,Liverpool,1,1,0,0
+E0,2014,25apr2015,Man City,Aston Villa,3,0,3,2
+E0,2014,25apr2015,QPR,West Ham,1,1,0,0
+E0,2014,25apr2015,Southampton,Tottenham,1,1,2,2
+E0,2014,25apr2015,Crystal Palace,Hull,0,3,0,2
+E0,2014,25apr2015,Burnley,Leicester,0,3,0,1
+E0,2014,25apr2015,Newcastle,Swansea,0,3,2,3
+E0,2014,25apr2015,Stoke,Sunderland,1,1,1,1
+E0,2014,26apr2015,Everton,Man United,3,0,3,0
+E0,2014,26apr2015,Arsenal,Chelsea,1,1,0,0
+E0,2014,28apr2015,Hull,Liverpool,3,0,1,0
+E0,2014,29apr2015,Leicester,Chelsea,0,3,1,3
+E0,2014,02may2015,West Ham,Burnley,3,0,1,0
+E0,2014,02may2015,Sunderland,Southampton,3,0,2,1
+E0,2014,02may2015,Liverpool,QPR,3,0,2,1
+E0,2014,02may2015,Swansea,Stoke,3,0,2,0
+E0,2014,02may2015,Leicester,Newcastle,3,0,3,0
+E0,2014,02may2015,Man United,West Brom,0,3,0,1
+E0,2014,02may2015,Aston Villa,Everton,3,0,3,2
+E0,2014,03may2015,Tottenham,Man City,0,3,0,1
+E0,2014,03may2015,Chelsea,Crystal Palace,3,0,1,0
+E0,2014,04may2015,Hull,Arsenal,0,3,1,3
+E0,2014,09may2015,Hull,Burnley,0,3,0,1
+E0,2014,09may2015,Aston Villa,West Ham,3,0,1,0
+E0,2014,09may2015,Crystal Palace,Man United,0,3,1,2
+E0,2014,09may2015,Leicester,Southampton,3,0,2,0
+E0,2014,09may2015,Stoke,Tottenham,3,0,3,0
+E0,2014,09may2015,Everton,Sunderland,0,3,0,2
+E0,2014,09may2015,Newcastle,West Brom,1,1,1,1
+E0,2014,10may2015,Man City,QPR,3,0,6,0
+E0,2014,10may2015,Chelsea,Liverpool,1,1,1,1
+E0,2014,11may2015,Arsenal,Swansea,0,3,0,1
+E0,2014,16may2015,Sunderland,Leicester,1,1,0,0
+E0,2014,16may2015,West Ham,Everton,0,3,1,2
+E0,2014,16may2015,Southampton,Aston Villa,3,0,6,1
+E0,2014,16may2015,Burnley,Stoke,1,1,0,0
+E0,2014,16may2015,Liverpool,Crystal Palace,0,3,1,3
+E0,2014,16may2015,Tottenham,Hull,3,0,2,0
+E0,2014,16may2015,QPR,Newcastle,3,0,2,1
+E0,2014,17may2015,Swansea,Man City,0,3,2,4
+E0,2014,17may2015,Man United,Arsenal,1,1,1,1
+E0,2014,18may2015,West Brom,Chelsea,3,0,3,0
+E0,2014,20may2015,Arsenal,Sunderland,1,1,0,0
+E0,2014,24may2015,Everton,Tottenham,0,3,0,1
+E0,2014,24may2015,Chelsea,Sunderland,3,0,3,1
+E0,2014,24may2015,Arsenal,West Brom,3,0,4,1
+E0,2014,24may2015,Aston Villa,Burnley,0,3,0,1
+E0,2014,24may2015,Leicester,QPR,3,0,5,1
+E0,2014,24may2015,Man City,Southampton,3,0,2,0
+E0,2014,24may2015,Newcastle,West Ham,3,0,2,0
+E0,2014,24may2015,Hull,Man United,1,1,0,0
+E0,2014,24may2015,Crystal Palace,Swansea,3,0,1,0
+E0,2014,24may2015,Stoke,Liverpool,3,0,6,1
+E0,2015,08aug2015,Everton,Watford,1,1,2,2
+E0,2015,08aug2015,Norwich,Crystal Palace,0,3,1,3
+E0,2015,08aug2015,Man United,Tottenham,3,0,1,0
+E0,2015,08aug2015,Bournemouth,Aston Villa,0,3,0,1
+E0,2015,08aug2015,Leicester,Sunderland,3,0,4,2
+E0,2015,08aug2015,Chelsea,Swansea,1,1,2,2
+E0,2015,09aug2015,Newcastle,Southampton,1,1,2,2
+E0,2015,09aug2015,Arsenal,West Ham,0,3,0,2
+E0,2015,09aug2015,Stoke,Liverpool,0,3,0,1
+E0,2015,10aug2015,West Brom,Man City,0,3,0,3
+E0,2015,14aug2015,Aston Villa,Man United,0,3,0,1
+E0,2015,15aug2015,Watford,West Brom,1,1,0,0
+E0,2015,15aug2015,West Ham,Leicester,0,3,1,2
+E0,2015,15aug2015,Tottenham,Stoke,1,1,2,2
+E0,2015,15aug2015,Southampton,Everton,0,3,0,3
+E0,2015,15aug2015,Sunderland,Norwich,0,3,1,3
+E0,2015,15aug2015,Swansea,Newcastle,3,0,2,0
+E0,2015,16aug2015,Crystal Palace,Arsenal,0,3,1,2
+E0,2015,16aug2015,Man City,Chelsea,3,0,3,0
+E0,2015,17aug2015,Liverpool,Bournemouth,3,0,1,0
+E0,2015,22aug2015,Leicester,Tottenham,1,1,1,1
+E0,2015,22aug2015,Crystal Palace,Aston Villa,3,0,2,1
+E0,2015,22aug2015,Norwich,Stoke,1,1,1,1
+E0,2015,22aug2015,West Ham,Bournemouth,0,3,3,4
+E0,2015,22aug2015,Man United,Newcastle,1,1,0,0
+E0,2015,22aug2015,Sunderland,Swansea,1,1,1,1
+E0,2015,23aug2015,West Brom,Chelsea,0,3,2,3
+E0,2015,23aug2015,Watford,Southampton,1,1,0,0
+E0,2015,23aug2015,Everton,Man City,0,3,0,2
+E0,2015,24aug2015,Arsenal,Liverpool,1,1,0,0
+E0,2015,29aug2015,Newcastle,Arsenal,0,3,0,1
+E0,2015,29aug2015,Man City,Watford,3,0,2,0
+E0,2015,29aug2015,Liverpool,West Ham,0,3,0,3
+E0,2015,29aug2015,Stoke,West Brom,0,3,0,1
+E0,2015,29aug2015,Chelsea,Crystal Palace,0,3,1,2
+E0,2015,29aug2015,Tottenham,Everton,1,1,0,0
+E0,2015,29aug2015,Aston Villa,Sunderland,1,1,2,2
+E0,2015,29aug2015,Bournemouth,Leicester,1,1,1,1
+E0,2015,30aug2015,Swansea,Man United,3,0,2,1
+E0,2015,30aug2015,Southampton,Norwich,3,0,3,0
+E0,2015,12sep2015,Watford,Swansea,3,0,1,0
+E0,2015,12sep2015,Everton,Chelsea,3,0,3,1
+E0,2015,12sep2015,West Brom,Southampton,1,1,0,0
+E0,2015,12sep2015,Crystal Palace,Man City,0,3,0,1
+E0,2015,12sep2015,Man United,Liverpool,3,0,3,1
+E0,2015,12sep2015,Arsenal,Stoke,3,0,2,0
+E0,2015,12sep2015,Norwich,Bournemouth,3,0,3,1
+E0,2015,13sep2015,Sunderland,Tottenham,0,3,0,1
+E0,2015,13sep2015,Leicester,Aston Villa,3,0,3,2
+E0,2015,14sep2015,West Ham,Newcastle,3,0,2,0
+E0,2015,19sep2015,Bournemouth,Sunderland,3,0,2,0
+E0,2015,19sep2015,Stoke,Leicester,1,1,2,2
+E0,2015,19sep2015,Swansea,Everton,1,1,0,0
+E0,2015,19sep2015,Chelsea,Arsenal,3,0,2,0
+E0,2015,19sep2015,Man City,West Ham,0,3,1,2
+E0,2015,19sep2015,Newcastle,Watford,0,3,1,2
+E0,2015,19sep2015,Aston Villa,West Brom,0,3,0,1
+E0,2015,20sep2015,Tottenham,Crystal Palace,3,0,1,0
+E0,2015,20sep2015,Liverpool,Norwich,1,1,1,1
+E0,2015,20sep2015,Southampton,Man United,0,3,2,3
+E0,2015,26sep2015,Stoke,Bournemouth,3,0,2,1
+E0,2015,26sep2015,West Ham,Norwich,1,1,2,2
+E0,2015,26sep2015,Tottenham,Man City,3,0,4,1
+E0,2015,26sep2015,Man United,Sunderland,3,0,3,0
+E0,2015,26sep2015,Southampton,Swansea,3,0,3,1
+E0,2015,26sep2015,Leicester,Arsenal,0,3,2,5
+E0,2015,26sep2015,Liverpool,Aston Villa,3,0,3,2
+E0,2015,26sep2015,Newcastle,Chelsea,1,1,2,2
+E0,2015,27sep2015,Watford,Crystal Palace,0,3,0,1
+E0,2015,28sep2015,West Brom,Everton,0,3,2,3
+E0,2015,03oct2015,Norwich,Leicester,0,3,1,2
+E0,2015,03oct2015,Sunderland,West Ham,1,1,2,2
+E0,2015,03oct2015,Crystal Palace,West Brom,3,0,2,0
+E0,2015,03oct2015,Man City,Newcastle,3,0,6,1
+E0,2015,03oct2015,Bournemouth,Watford,1,1,1,1
+E0,2015,03oct2015,Chelsea,Southampton,0,3,1,3
+E0,2015,03oct2015,Aston Villa,Stoke,0,3,0,1
+E0,2015,04oct2015,Everton,Liverpool,1,1,1,1
+E0,2015,04oct2015,Arsenal,Man United,3,0,3,0
+E0,2015,04oct2015,Swansea,Tottenham,1,1,2,2
+E0,2015,17oct2015,Everton,Man United,0,3,0,3
+E0,2015,17oct2015,West Brom,Sunderland,3,0,1,0
+E0,2015,17oct2015,Tottenham,Liverpool,1,1,0,0
+E0,2015,17oct2015,Watford,Arsenal,0,3,0,3
+E0,2015,17oct2015,Man City,Bournemouth,3,0,5,1
+E0,2015,17oct2015,Crystal Palace,West Ham,0,3,1,3
+E0,2015,17oct2015,Chelsea,Aston Villa,3,0,2,0
+E0,2015,17oct2015,Southampton,Leicester,1,1,2,2
+E0,2015,18oct2015,Newcastle,Norwich,3,0,6,2
+E0,2015,19oct2015,Swansea,Stoke,0,3,0,1
+E0,2015,24oct2015,Aston Villa,Swansea,0,3,1,2
+E0,2015,24oct2015,West Ham,Chelsea,3,0,2,1
+E0,2015,24oct2015,Arsenal,Everton,3,0,2,1
+E0,2015,24oct2015,Leicester,Crystal Palace,3,0,1,0
+E0,2015,24oct2015,Norwich,West Brom,0,3,0,1
+E0,2015,24oct2015,Stoke,Watford,0,3,0,2
+E0,2015,25oct2015,Liverpool,Southampton,1,1,1,1
+E0,2015,25oct2015,Sunderland,Newcastle,3,0,3,0
+E0,2015,25oct2015,Man United,Man City,1,1,0,0
+E0,2015,25oct2015,Bournemouth,Tottenham,0,3,1,5
+E0,2015,31oct2015,Chelsea,Liverpool,0,3,1,3
+E0,2015,31oct2015,West Brom,Leicester,0,3,2,3
+E0,2015,31oct2015,Swansea,Arsenal,0,3,0,3
+E0,2015,31oct2015,Man City,Norwich,3,0,2,1
+E0,2015,31oct2015,Newcastle,Stoke,1,1,0,0
+E0,2015,31oct2015,Crystal Palace,Man United,1,1,0,0
+E0,2015,31oct2015,Watford,West Ham,3,0,2,0
+E0,2015,01nov2015,Everton,Sunderland,3,0,6,2
+E0,2015,01nov2015,Southampton,Bournemouth,3,0,2,0
+E0,2015,02nov2015,Tottenham,Aston Villa,3,0,3,1
+E0,2015,07nov2015,Man United,West Brom,3,0,2,0
+E0,2015,07nov2015,Bournemouth,Newcastle,0,3,0,1
+E0,2015,07nov2015,Norwich,Swansea,3,0,1,0
+E0,2015,07nov2015,Sunderland,Southampton,0,3,0,1
+E0,2015,07nov2015,Stoke,Chelsea,3,0,1,0
+E0,2015,07nov2015,Leicester,Watford,3,0,2,1
+E0,2015,07nov2015,West Ham,Everton,1,1,1,1
+E0,2015,08nov2015,Liverpool,Crystal Palace,0,3,1,2
+E0,2015,08nov2015,Aston Villa,Man City,1,1,0,0
+E0,2015,08nov2015,Arsenal,Tottenham,1,1,1,1
+E0,2015,21nov2015,Watford,Man United,0,3,1,2
+E0,2015,21nov2015,Southampton,Stoke,0,3,0,1
+E0,2015,21nov2015,West Brom,Arsenal,3,0,2,1
+E0,2015,21nov2015,Swansea,Bournemouth,1,1,2,2
+E0,2015,21nov2015,Newcastle,Leicester,0,3,0,3
+E0,2015,21nov2015,Everton,Aston Villa,3,0,4,0
+E0,2015,21nov2015,Man City,Liverpool,0,3,1,4
+E0,2015,21nov2015,Chelsea,Norwich,3,0,1,0
+E0,2015,22nov2015,Tottenham,West Ham,3,0,4,1
+E0,2015,23nov2015,Crystal Palace,Sunderland,0,3,0,1
+E0,2015,28nov2015,Aston Villa,Watford,0,3,2,3
+E0,2015,28nov2015,Leicester,Man United,1,1,1,1
+E0,2015,28nov2015,Sunderland,Stoke,3,0,2,0
+E0,2015,28nov2015,Man City,Southampton,3,0,3,1
+E0,2015,28nov2015,Bournemouth,Everton,1,1,3,3
+E0,2015,28nov2015,Crystal Palace,Newcastle,3,0,5,1
+E0,2015,29nov2015,Liverpool,Swansea,3,0,1,0
+E0,2015,29nov2015,West Ham,West Brom,1,1,1,1
+E0,2015,29nov2015,Norwich,Arsenal,1,1,1,1
+E0,2015,29nov2015,Tottenham,Chelsea,1,1,0,0
+E0,2015,05dec2015,Stoke,Man City,3,0,2,0
+E0,2015,05dec2015,West Brom,Tottenham,1,1,1,1
+E0,2015,05dec2015,Arsenal,Sunderland,3,0,3,1
+E0,2015,05dec2015,Southampton,Aston Villa,1,1,1,1
+E0,2015,05dec2015,Chelsea,Bournemouth,0,3,0,1
+E0,2015,05dec2015,Watford,Norwich,3,0,2,0
+E0,2015,05dec2015,Swansea,Leicester,0,3,0,3
+E0,2015,05dec2015,Man United,West Ham,1,1,0,0
+E0,2015,06dec2015,Newcastle,Liverpool,3,0,2,0
+E0,2015,07dec2015,Everton,Crystal Palace,1,1,1,1
+E0,2015,12dec2015,Sunderland,Watford,0,3,0,1
+E0,2015,12dec2015,Crystal Palace,Southampton,3,0,1,0
+E0,2015,12dec2015,Bournemouth,Man United,3,0,2,1
+E0,2015,12dec2015,Norwich,Everton,1,1,1,1
+E0,2015,12dec2015,West Ham,Stoke,1,1,0,0
+E0,2015,12dec2015,Man City,Swansea,3,0,2,1
+E0,2015,13dec2015,Aston Villa,Arsenal,0,3,0,2
+E0,2015,13dec2015,Liverpool,West Brom,1,1,2,2
+E0,2015,13dec2015,Tottenham,Newcastle,0,3,1,2
+E0,2015,14dec2015,Leicester,Chelsea,3,0,2,1
+E0,2015,19dec2015,Newcastle,Aston Villa,1,1,1,1
+E0,2015,19dec2015,Southampton,Tottenham,0,3,0,2
+E0,2015,19dec2015,Man United,Norwich,0,3,1,2
+E0,2015,19dec2015,West Brom,Bournemouth,0,3,1,2
+E0,2015,19dec2015,Everton,Leicester,0,3,2,3
+E0,2015,19dec2015,Chelsea,Sunderland,3,0,3,1
+E0,2015,19dec2015,Stoke,Crystal Palace,0,3,1,2
+E0,2015,20dec2015,Swansea,West Ham,1,1,0,0
+E0,2015,20dec2015,Watford,Liverpool,3,0,3,0
+E0,2015,21dec2015,Arsenal,Man City,3,0,2,1
+E0,2015,26dec2015,Man City,Sunderland,3,0,4,1
+E0,2015,26dec2015,Aston Villa,West Ham,1,1,1,1
+E0,2015,26dec2015,Southampton,Arsenal,3,0,4,0
+E0,2015,26dec2015,Chelsea,Watford,1,1,2,2
+E0,2015,26dec2015,Liverpool,Leicester,3,0,1,0
+E0,2015,26dec2015,Swansea,West Brom,3,0,1,0
+E0,2015,26dec2015,Newcastle,Everton,0,3,0,1
+E0,2015,26dec2015,Stoke,Man United,3,0,2,0
+E0,2015,26dec2015,Tottenham,Norwich,3,0,3,0
+E0,2015,26dec2015,Bournemouth,Crystal Palace,1,1,0,0
+E0,2015,28dec2015,West Brom,Newcastle,3,0,1,0
+E0,2015,28dec2015,Man United,Chelsea,1,1,0,0
+E0,2015,28dec2015,Crystal Palace,Swansea,1,1,0,0
+E0,2015,28dec2015,Watford,Tottenham,0,3,1,2
+E0,2015,28dec2015,West Ham,Southampton,3,0,2,1
+E0,2015,28dec2015,Arsenal,Bournemouth,3,0,2,0
+E0,2015,28dec2015,Norwich,Aston Villa,3,0,2,0
+E0,2015,28dec2015,Everton,Stoke,0,3,3,4
+E0,2015,29dec2015,Leicester,Man City,1,1,0,0
+E0,2015,30dec2015,Sunderland,Liverpool,0,3,0,1
+E0,2015,02jan2016,West Ham,Liverpool,3,0,2,0
+E0,2015,02jan2016,Leicester,Bournemouth,1,1,0,0
+E0,2015,02jan2016,Arsenal,Newcastle,3,0,1,0
+E0,2015,02jan2016,Sunderland,Aston Villa,3,0,3,1
+E0,2015,02jan2016,Man United,Swansea,3,0,2,1
+E0,2015,02jan2016,Watford,Man City,0,3,1,2
+E0,2015,02jan2016,Norwich,Southampton,3,0,1,0
+E0,2015,02jan2016,West Brom,Stoke,3,0,2,1
+E0,2015,03jan2016,Everton,Tottenham,1,1,1,1
+E0,2015,03jan2016,Crystal Palace,Chelsea,0,3,0,3
+E0,2015,12jan2016,Aston Villa,Crystal Palace,3,0,1,0
+E0,2015,12jan2016,Newcastle,Man United,1,1,3,3
+E0,2015,12jan2016,Bournemouth,West Ham,0,3,1,3
+E0,2015,13jan2016,Man City,Everton,1,1,0,0
+E0,2015,13jan2016,Chelsea,West Brom,1,1,2,2
+E0,2015,13jan2016,Swansea,Sunderland,0,3,2,4
+E0,2015,13jan2016,Liverpool,Arsenal,1,1,3,3
+E0,2015,13jan2016,Southampton,Watford,3,0,2,0
+E0,2015,13jan2016,Tottenham,Leicester,0,3,0,1
+E0,2015,13jan2016,Stoke,Norwich,3,0,3,1
+E0,2015,16jan2016,Bournemouth,Norwich,3,0,3,0
+E0,2015,16jan2016,Chelsea,Everton,1,1,3,3
+E0,2015,16jan2016,Aston Villa,Leicester,1,1,1,1
+E0,2015,16jan2016,Newcastle,West Ham,3,0,2,1
+E0,2015,16jan2016,Southampton,West Brom,3,0,3,0
+E0,2015,16jan2016,Tottenham,Sunderland,3,0,4,1
+E0,2015,16jan2016,Man City,Crystal Palace,3,0,4,0
+E0,2015,17jan2016,Liverpool,Man United,0,3,0,1
+E0,2015,17jan2016,Stoke,Arsenal,1,1,0,0
+E0,2015,18jan2016,Swansea,Watford,3,0,1,0
+E0,2015,23jan2016,Norwich,Liverpool,0,3,4,5
+E0,2015,23jan2016,West Ham,Man City,1,1,2,2
+E0,2015,23jan2016,West Brom,Aston Villa,1,1,0,0
+E0,2015,23jan2016,Leicester,Stoke,3,0,3,0
+E0,2015,23jan2016,Crystal Palace,Tottenham,0,3,1,3
+E0,2015,23jan2016,Sunderland,Bournemouth,1,1,1,1
+E0,2015,23jan2016,Man United,Southampton,0,3,0,1
+E0,2015,23jan2016,Watford,Newcastle,3,0,2,1
+E0,2015,24jan2016,Arsenal,Chelsea,0,3,0,1
+E0,2015,24jan2016,Everton,Swansea,0,3,1,2
+E0,2015,02feb2016,West Brom,Swansea,1,1,1,1
+E0,2015,02feb2016,Crystal Palace,Bournemouth,0,3,1,2
+E0,2015,02feb2016,Leicester,Liverpool,3,0,2,0
+E0,2015,02feb2016,Man United,Stoke,3,0,3,0
+E0,2015,02feb2016,Sunderland,Man City,0,3,0,1
+E0,2015,02feb2016,Arsenal,Southampton,1,1,0,0
+E0,2015,02feb2016,West Ham,Aston Villa,3,0,2,0
+E0,2015,02feb2016,Norwich,Tottenham,0,3,0,3
+E0,2015,03feb2016,Watford,Chelsea,1,1,0,0
+E0,2015,03feb2016,Everton,Newcastle,3,0,3,0
+E0,2015,06feb2016,Tottenham,Watford,3,0,1,0
+E0,2015,06feb2016,Southampton,West Ham,3,0,1,0
+E0,2015,06feb2016,Swansea,Crystal Palace,1,1,1,1
+E0,2015,06feb2016,Newcastle,West Brom,3,0,1,0
+E0,2015,06feb2016,Stoke,Everton,0,3,0,3
+E0,2015,06feb2016,Aston Villa,Norwich,3,0,2,0
+E0,2015,06feb2016,Liverpool,Sunderland,1,1,2,2
+E0,2015,06feb2016,Man City,Leicester,0,3,1,3
+E0,2015,07feb2016,Bournemouth,Arsenal,0,3,0,2
+E0,2015,07feb2016,Chelsea,Man United,1,1,1,1
+E0,2015,13feb2016,Crystal Palace,Watford,0,3,1,2
+E0,2015,13feb2016,Bournemouth,Stoke,0,3,1,3
+E0,2015,13feb2016,Norwich,West Ham,1,1,2,2
+E0,2015,13feb2016,Swansea,Southampton,0,3,0,1
+E0,2015,13feb2016,Chelsea,Newcastle,3,0,5,1
+E0,2015,13feb2016,Everton,West Brom,0,3,0,1
+E0,2015,13feb2016,Sunderland,Man United,3,0,2,1
+E0,2015,14feb2016,Man City,Tottenham,0,3,1,2
+E0,2015,14feb2016,Arsenal,Leicester,3,0,2,1
+E0,2015,14feb2016,Aston Villa,Liverpool,0,3,0,6
+E0,2015,27feb2016,West Ham,Sunderland,3,0,1,0
+E0,2015,27feb2016,Southampton,Chelsea,0,3,1,2
+E0,2015,27feb2016,Watford,Bournemouth,1,1,0,0
+E0,2015,27feb2016,Leicester,Norwich,3,0,1,0
+E0,2015,27feb2016,West Brom,Crystal Palace,3,0,3,2
+E0,2015,27feb2016,Stoke,Aston Villa,3,0,2,1
+E0,2015,28feb2016,Tottenham,Swansea,3,0,2,1
+E0,2015,28feb2016,Man United,Arsenal,3,0,3,2
+E0,2015,01mar2016,Norwich,Chelsea,0,3,1,2
+E0,2015,01mar2016,Aston Villa,Everton,0,3,1,3
+E0,2015,01mar2016,Sunderland,Crystal Palace,1,1,2,2
+E0,2015,01mar2016,Leicester,West Brom,1,1,2,2
+E0,2015,01mar2016,Bournemouth,Southampton,3,0,2,0
+E0,2015,02mar2016,Man United,Watford,3,0,1,0
+E0,2015,02mar2016,Liverpool,Man City,3,0,3,0
+E0,2015,02mar2016,Arsenal,Swansea,0,3,1,2
+E0,2015,02mar2016,West Ham,Tottenham,3,0,1,0
+E0,2015,02mar2016,Stoke,Newcastle,3,0,1,0
+E0,2015,05mar2016,Swansea,Norwich,3,0,1,0
+E0,2015,05mar2016,Everton,West Ham,0,3,2,3
+E0,2015,05mar2016,Tottenham,Arsenal,1,1,2,2
+E0,2015,05mar2016,Southampton,Sunderland,1,1,1,1
+E0,2015,05mar2016,Newcastle,Bournemouth,0,3,1,3
+E0,2015,05mar2016,Chelsea,Stoke,1,1,1,1
+E0,2015,05mar2016,Man City,Aston Villa,3,0,4,0
+E0,2015,05mar2016,Watford,Leicester,0,3,0,1
+E0,2015,06mar2016,Crystal Palace,Liverpool,0,3,1,2
+E0,2015,06mar2016,West Brom,Man United,3,0,1,0
+E0,2015,12mar2016,Stoke,Southampton,0,3,1,2
+E0,2015,12mar2016,Norwich,Man City,1,1,0,0
+E0,2015,12mar2016,Bournemouth,Swansea,3,0,3,2
+E0,2015,13mar2016,Aston Villa,Tottenham,0,3,0,2
+E0,2015,14mar2016,Leicester,Newcastle,3,0,1,0
+E0,2015,19mar2016,Chelsea,West Ham,1,1,2,2
+E0,2015,19mar2016,Watford,Stoke,0,3,1,2
+E0,2015,19mar2016,Everton,Arsenal,0,3,0,2
+E0,2015,19mar2016,West Brom,Norwich,0,3,0,1
+E0,2015,19mar2016,Swansea,Aston Villa,3,0,1,0
+E0,2015,19mar2016,Crystal Palace,Leicester,0,3,0,1
+E0,2015,20mar2016,Man City,Man United,0,3,0,1
+E0,2015,20mar2016,Newcastle,Sunderland,1,1,1,1
+E0,2015,20mar2016,Tottenham,Bournemouth,3,0,3,0
+E0,2015,20mar2016,Southampton,Liverpool,3,0,3,2
+E0,2015,02apr2016,Norwich,Newcastle,3,0,3,2
+E0,2015,02apr2016,Stoke,Swansea,1,1,2,2
+E0,2015,02apr2016,West Ham,Crystal Palace,1,1,2,2
+E0,2015,02apr2016,Aston Villa,Chelsea,0,3,0,4
+E0,2015,02apr2016,Sunderland,West Brom,1,1,0,0
+E0,2015,02apr2016,Bournemouth,Man City,0,3,0,4
+E0,2015,02apr2016,Liverpool,Tottenham,1,1,1,1
+E0,2015,02apr2016,Arsenal,Watford,3,0,4,0
+E0,2015,03apr2016,Man United,Everton,3,0,1,0
+E0,2015,03apr2016,Leicester,Southampton,3,0,1,0
+E0,2015,09apr2016,Southampton,Newcastle,3,0,3,1
+E0,2015,09apr2016,Aston Villa,Bournemouth,0,3,1,2
+E0,2015,09apr2016,Man City,West Brom,3,0,2,1
+E0,2015,09apr2016,Crystal Palace,Norwich,3,0,1,0
+E0,2015,09apr2016,Watford,Everton,1,1,1,1
+E0,2015,09apr2016,Swansea,Chelsea,3,0,1,0
+E0,2015,09apr2016,West Ham,Arsenal,1,1,3,3
+E0,2015,10apr2016,Sunderland,Leicester,0,3,0,2
+E0,2015,10apr2016,Tottenham,Man United,3,0,3,0
+E0,2015,10apr2016,Liverpool,Stoke,3,0,4,1
+E0,2015,13apr2016,Crystal Palace,Everton,1,1,0,0
+E0,2015,16apr2016,Man United,Aston Villa,3,0,1,0
+E0,2015,16apr2016,Everton,Southampton,1,1,1,1
+E0,2015,16apr2016,Chelsea,Man City,0,3,0,3
+E0,2015,16apr2016,Norwich,Sunderland,0,3,0,3
+E0,2015,16apr2016,West Brom,Watford,0,3,0,1
+E0,2015,16apr2016,Newcastle,Swansea,3,0,3,0
+E0,2015,17apr2016,Arsenal,Crystal Palace,1,1,1,1
+E0,2015,17apr2016,Leicester,West Ham,1,1,2,2
+E0,2015,17apr2016,Bournemouth,Liverpool,0,3,1,2
+E0,2015,18apr2016,Stoke,Tottenham,0,3,0,4
+E0,2015,19apr2016,Newcastle,Man City,1,1,1,1
+E0,2015,20apr2016,Liverpool,Everton,3,0,4,0
+E0,2015,20apr2016,Man United,Crystal Palace,3,0,2,0
+E0,2015,20apr2016,West Ham,Watford,3,0,3,1
+E0,2015,21apr2016,Arsenal,West Brom,3,0,2,0
+E0,2015,23apr2016,Man City,Stoke,3,0,4,0
+E0,2015,23apr2016,Liverpool,Newcastle,1,1,2,2
+E0,2015,23apr2016,Bournemouth,Chelsea,0,3,1,4
+E0,2015,23apr2016,Aston Villa,Southampton,0,3,2,4
+E0,2015,24apr2016,Leicester,Swansea,3,0,4,0
+E0,2015,24apr2016,Sunderland,Arsenal,1,1,0,0
+E0,2015,25apr2016,Tottenham,West Brom,1,1,1,1
+E0,2015,30apr2016,Stoke,Sunderland,1,1,1,1
+E0,2015,30apr2016,Newcastle,Crystal Palace,3,0,1,0
+E0,2015,30apr2016,West Brom,West Ham,0,3,0,3
+E0,2015,30apr2016,Arsenal,Norwich,3,0,1,0
+E0,2015,30apr2016,Everton,Bournemouth,3,0,2,1
+E0,2015,30apr2016,Watford,Aston Villa,3,0,3,2
+E0,2015,01may2016,Southampton,Man City,3,0,4,2
+E0,2015,01may2016,Swansea,Liverpool,3,0,3,1
+E0,2015,01may2016,Man United,Leicester,1,1,1,1
+E0,2015,02may2016,Chelsea,Tottenham,1,1,2,2
+E0,2015,07may2016,Leicester,Everton,3,0,3,1
+E0,2015,07may2016,Aston Villa,Newcastle,1,1,0,0
+E0,2015,07may2016,Crystal Palace,Stoke,3,0,2,1
+E0,2015,07may2016,West Ham,Swansea,0,3,1,4
+E0,2015,07may2016,Bournemouth,West Brom,1,1,1,1
+E0,2015,07may2016,Sunderland,Chelsea,3,0,3,2
+E0,2015,07may2016,Norwich,Man United,0,3,0,1
+E0,2015,08may2016,Man City,Arsenal,1,1,2,2
+E0,2015,08may2016,Liverpool,Watford,3,0,2,0
+E0,2015,08may2016,Tottenham,Southampton,0,3,1,2
+E0,2015,10may2016,West Ham,Man United,3,0,3,2
+E0,2015,11may2016,Norwich,Watford,3,0,4,2
+E0,2015,11may2016,Sunderland,Everton,3,0,3,0
+E0,2015,11may2016,Liverpool,Chelsea,1,1,1,1
+E0,2015,15may2016,Watford,Sunderland,1,1,2,2
+E0,2015,15may2016,Southampton,Crystal Palace,3,0,4,1
+E0,2015,15may2016,Stoke,West Ham,3,0,2,1
+E0,2015,15may2016,Newcastle,Tottenham,3,0,5,1
+E0,2015,15may2016,West Brom,Liverpool,1,1,1,1
+E0,2015,15may2016,Everton,Norwich,3,0,3,0
+E0,2015,15may2016,Swansea,Man City,1,1,1,1
+E0,2015,15may2016,Arsenal,Aston Villa,3,0,4,0
+E0,2015,15may2016,Chelsea,Leicester,1,1,1,1
+E0,2015,17may2016,Man United,Bournemouth,3,0,3,1
+E0,2016,13aug2016,Middlesbrough,Stoke,1,1,1,1
+E0,2016,13aug2016,Burnley,Swansea,0,3,0,1
+E0,2016,13aug2016,Everton,Tottenham,1,1,1,1
+E0,2016,13aug2016,Crystal Palace,West Brom,0,3,0,1
+E0,2016,13aug2016,Man City,Sunderland,3,0,2,1
+E0,2016,13aug2016,Hull,Leicester,3,0,2,1
+E0,2016,13aug2016,Southampton,Watford,1,1,1,1
+E0,2016,14aug2016,Bournemouth,Man United,0,3,1,3
+E0,2016,14aug2016,Arsenal,Liverpool,0,3,3,4
+E0,2016,15aug2016,Chelsea,West Ham,3,0,2,1
+E0,2016,19aug2016,Man United,Southampton,3,0,2,0
+E0,2016,20aug2016,Burnley,Liverpool,3,0,2,0
+E0,2016,20aug2016,Watford,Chelsea,0,3,1,2
+E0,2016,20aug2016,Tottenham,Crystal Palace,3,0,1,0
+E0,2016,20aug2016,West Brom,Everton,0,3,1,2
+E0,2016,20aug2016,Leicester,Arsenal,1,1,0,0
+E0,2016,20aug2016,Swansea,Hull,0,3,0,2
+E0,2016,20aug2016,Stoke,Man City,0,3,1,4
+E0,2016,21aug2016,Sunderland,Middlesbrough,0,3,1,2
+E0,2016,21aug2016,West Ham,Bournemouth,3,0,1,0
+E0,2016,27aug2016,Hull,Man United,0,3,0,1
+E0,2016,27aug2016,Everton,Stoke,3,0,1,0
+E0,2016,27aug2016,Southampton,Sunderland,1,1,1,1
+E0,2016,27aug2016,Leicester,Swansea,3,0,2,1
+E0,2016,27aug2016,Crystal Palace,Bournemouth,1,1,1,1
+E0,2016,27aug2016,Chelsea,Burnley,3,0,3,0
+E0,2016,27aug2016,Tottenham,Liverpool,1,1,1,1
+E0,2016,27aug2016,Watford,Arsenal,0,3,1,3
+E0,2016,28aug2016,West Brom,Middlesbrough,1,1,0,0
+E0,2016,28aug2016,Man City,West Ham,3,0,3,1
+E0,2016,10sep2016,Burnley,Hull,1,1,1,1
+E0,2016,10sep2016,West Ham,Watford,0,3,2,4
+E0,2016,10sep2016,Middlesbrough,Crystal Palace,0,3,1,2
+E0,2016,10sep2016,Arsenal,Southampton,3,0,2,1
+E0,2016,10sep2016,Bournemouth,West Brom,3,0,1,0
+E0,2016,10sep2016,Stoke,Tottenham,0,3,0,4
+E0,2016,10sep2016,Liverpool,Leicester,3,0,4,1
+E0,2016,10sep2016,Man United,Man City,0,3,1,2
+E0,2016,11sep2016,Swansea,Chelsea,1,1,2,2
+E0,2016,12sep2016,Sunderland,Everton,0,3,0,3
+E0,2016,16sep2016,Chelsea,Liverpool,0,3,1,2
+E0,2016,17sep2016,West Brom,West Ham,3,0,4,2
+E0,2016,17sep2016,Leicester,Burnley,3,0,3,0
+E0,2016,17sep2016,Everton,Middlesbrough,3,0,3,1
+E0,2016,17sep2016,Hull,Arsenal,0,3,1,4
+E0,2016,17sep2016,Man City,Bournemouth,3,0,4,0
+E0,2016,18sep2016,Watford,Man United,3,0,3,1
+E0,2016,18sep2016,Crystal Palace,Stoke,3,0,4,1
+E0,2016,18sep2016,Southampton,Swansea,3,0,1,0
+E0,2016,18sep2016,Tottenham,Sunderland,3,0,1,0
+E0,2016,24sep2016,Middlesbrough,Tottenham,0,3,1,2
+E0,2016,24sep2016,Arsenal,Chelsea,3,0,3,0
+E0,2016,24sep2016,Sunderland,Crystal Palace,0,3,2,3
+E0,2016,24sep2016,Stoke,West Brom,1,1,1,1
+E0,2016,24sep2016,Swansea,Man City,0,3,1,3
+E0,2016,24sep2016,Man United,Leicester,3,0,4,1
+E0,2016,24sep2016,Bournemouth,Everton,3,0,1,0
+E0,2016,24sep2016,Liverpool,Hull,3,0,5,1
+E0,2016,25sep2016,West Ham,Southampton,0,3,0,3
+E0,2016,26sep2016,Burnley,Watford,3,0,2,0
+E0,2016,30sep2016,Everton,Crystal Palace,1,1,1,1
+E0,2016,01oct2016,Swansea,Liverpool,0,3,1,2
+E0,2016,01oct2016,Watford,Bournemouth,1,1,2,2
+E0,2016,01oct2016,Sunderland,West Brom,1,1,1,1
+E0,2016,01oct2016,Hull,Chelsea,0,3,0,2
+E0,2016,01oct2016,West Ham,Middlesbrough,1,1,1,1
+E0,2016,02oct2016,Burnley,Arsenal,0,3,0,1
+E0,2016,02oct2016,Man United,Stoke,1,1,1,1
+E0,2016,02oct2016,Tottenham,Man City,3,0,2,0
+E0,2016,02oct2016,Leicester,Southampton,1,1,0,0
+E0,2016,15oct2016,Arsenal,Swansea,3,0,3,2
+E0,2016,15oct2016,Chelsea,Leicester,3,0,3,0
+E0,2016,15oct2016,Man City,Everton,1,1,1,1
+E0,2016,15oct2016,Crystal Palace,West Ham,0,3,0,1
+E0,2016,15oct2016,Bournemouth,Hull,3,0,6,1
+E0,2016,15oct2016,Stoke,Sunderland,3,0,2,0
+E0,2016,15oct2016,West Brom,Tottenham,1,1,1,1
+E0,2016,16oct2016,Middlesbrough,Watford,0,3,0,1
+E0,2016,16oct2016,Southampton,Burnley,3,0,3,1
+E0,2016,17oct2016,Liverpool,Man United,1,1,0,0
+E0,2016,22oct2016,Swansea,Watford,1,1,0,0
+E0,2016,22oct2016,Leicester,Crystal Palace,3,0,3,1
+E0,2016,22oct2016,Hull,Stoke,0,3,0,2
+E0,2016,22oct2016,Burnley,Everton,3,0,2,1
+E0,2016,22oct2016,Arsenal,Middlesbrough,1,1,0,0
+E0,2016,22oct2016,Liverpool,West Brom,3,0,2,1
+E0,2016,22oct2016,West Ham,Sunderland,3,0,1,0
+E0,2016,22oct2016,Bournemouth,Tottenham,1,1,0,0
+E0,2016,23oct2016,Man City,Southampton,1,1,1,1
+E0,2016,23oct2016,Chelsea,Man United,3,0,4,0
+E0,2016,29oct2016,Man United,Burnley,1,1,0,0
+E0,2016,29oct2016,West Brom,Man City,0,3,0,4
+E0,2016,29oct2016,Middlesbrough,Bournemouth,3,0,2,0
+E0,2016,29oct2016,Tottenham,Leicester,1,1,1,1
+E0,2016,29oct2016,Watford,Hull,3,0,1,0
+E0,2016,29oct2016,Crystal Palace,Liverpool,0,3,2,4
+E0,2016,29oct2016,Sunderland,Arsenal,0,3,1,4
+E0,2016,30oct2016,Everton,West Ham,3,0,2,0
+E0,2016,30oct2016,Southampton,Chelsea,0,3,0,2
+E0,2016,31oct2016,Stoke,Swansea,3,0,3,1
+E0,2016,05nov2016,West Ham,Stoke,1,1,1,1
+E0,2016,05nov2016,Chelsea,Everton,3,0,5,0
+E0,2016,05nov2016,Man City,Middlesbrough,1,1,1,1
+E0,2016,05nov2016,Bournemouth,Sunderland,0,3,1,2
+E0,2016,05nov2016,Burnley,Crystal Palace,3,0,3,2
+E0,2016,06nov2016,Leicester,West Brom,0,3,1,2
+E0,2016,06nov2016,Hull,Southampton,3,0,2,1
+E0,2016,06nov2016,Swansea,Man United,0,3,1,3
+E0,2016,06nov2016,Liverpool,Watford,3,0,6,1
+E0,2016,06nov2016,Arsenal,Tottenham,1,1,1,1
+E0,2016,19nov2016,Man United,Arsenal,1,1,1,1
+E0,2016,19nov2016,Southampton,Liverpool,1,1,0,0
+E0,2016,19nov2016,Tottenham,West Ham,3,0,3,2
+E0,2016,19nov2016,Sunderland,Hull,3,0,3,0
+E0,2016,19nov2016,Watford,Leicester,3,0,2,1
+E0,2016,19nov2016,Everton,Swansea,1,1,1,1
+E0,2016,19nov2016,Stoke,Bournemouth,0,3,0,1
+E0,2016,19nov2016,Crystal Palace,Man City,0,3,1,2
+E0,2016,20nov2016,Middlesbrough,Chelsea,0,3,0,1
+E0,2016,21nov2016,West Brom,Burnley,3,0,4,0
+E0,2016,26nov2016,Liverpool,Sunderland,3,0,2,0
+E0,2016,26nov2016,Swansea,Crystal Palace,3,0,5,4
+E0,2016,26nov2016,Leicester,Middlesbrough,1,1,2,2
+E0,2016,26nov2016,Hull,West Brom,1,1,1,1
+E0,2016,26nov2016,Burnley,Man City,0,3,1,2
+E0,2016,26nov2016,Chelsea,Tottenham,3,0,2,1
+E0,2016,27nov2016,Southampton,Everton,3,0,1,0
+E0,2016,27nov2016,Arsenal,Bournemouth,3,0,3,1
+E0,2016,27nov2016,Watford,Stoke,0,3,0,1
+E0,2016,27nov2016,Man United,West Ham,1,1,1,1
+E0,2016,03dec2016,Tottenham,Swansea,3,0,5,0
+E0,2016,03dec2016,West Ham,Arsenal,0,3,1,5
+E0,2016,03dec2016,Sunderland,Leicester,3,0,2,1
+E0,2016,03dec2016,West Brom,Watford,3,0,3,1
+E0,2016,03dec2016,Crystal Palace,Southampton,3,0,3,0
+E0,2016,03dec2016,Stoke,Burnley,3,0,2,0
+E0,2016,03dec2016,Man City,Chelsea,0,3,1,3
+E0,2016,04dec2016,Bournemouth,Liverpool,3,0,4,3
+E0,2016,04dec2016,Everton,Man United,1,1,1,1
+E0,2016,05dec2016,Middlesbrough,Hull,3,0,1,0
+E0,2016,10dec2016,Leicester,Man City,3,0,4,2
+E0,2016,10dec2016,Hull,Crystal Palace,1,1,3,3
+E0,2016,10dec2016,Burnley,Bournemouth,3,0,3,2
+E0,2016,10dec2016,Swansea,Sunderland,3,0,3,0
+E0,2016,10dec2016,Watford,Everton,3,0,3,2
+E0,2016,10dec2016,Arsenal,Stoke,3,0,3,1
+E0,2016,11dec2016,Man United,Tottenham,3,0,1,0
+E0,2016,11dec2016,Southampton,Middlesbrough,3,0,1,0
+E0,2016,11dec2016,Chelsea,West Brom,3,0,1,0
+E0,2016,11dec2016,Liverpool,West Ham,1,1,2,2
+E0,2016,13dec2016,Bournemouth,Leicester,3,0,1,0
+E0,2016,13dec2016,Everton,Arsenal,3,0,2,1
+E0,2016,14dec2016,Stoke,Southampton,1,1,0,0
+E0,2016,14dec2016,Man City,Watford,3,0,2,0
+E0,2016,14dec2016,Sunderland,Chelsea,0,3,0,1
+E0,2016,14dec2016,West Brom,Swansea,3,0,3,1
+E0,2016,14dec2016,Crystal Palace,Man United,0,3,1,2
+E0,2016,14dec2016,West Ham,Burnley,3,0,1,0
+E0,2016,14dec2016,Tottenham,Hull,3,0,3,0
+E0,2016,14dec2016,Middlesbrough,Liverpool,0,3,0,3
+E0,2016,17dec2016,Middlesbrough,Swansea,3,0,3,0
+E0,2016,17dec2016,Sunderland,Watford,3,0,1,0
+E0,2016,17dec2016,Stoke,Leicester,1,1,2,2
+E0,2016,17dec2016,West Ham,Hull,3,0,1,0
+E0,2016,17dec2016,Crystal Palace,Chelsea,0,3,0,1
+E0,2016,17dec2016,West Brom,Man United,0,3,0,2
+E0,2016,18dec2016,Tottenham,Burnley,3,0,2,1
+E0,2016,18dec2016,Bournemouth,Southampton,0,3,1,3
+E0,2016,18dec2016,Man City,Arsenal,3,0,2,1
+E0,2016,19dec2016,Everton,Liverpool,0,3,0,1
+E0,2016,26dec2016,Leicester,Everton,0,3,0,2
+E0,2016,26dec2016,Hull,Man City,0,3,0,3
+E0,2016,26dec2016,Man United,Sunderland,3,0,3,1
+E0,2016,26dec2016,Burnley,Middlesbrough,3,0,1,0
+E0,2016,26dec2016,Swansea,West Ham,0,3,1,4
+E0,2016,26dec2016,Watford,Crystal Palace,1,1,1,1
+E0,2016,26dec2016,Arsenal,West Brom,3,0,1,0
+E0,2016,26dec2016,Chelsea,Bournemouth,3,0,3,0
+E0,2016,27dec2016,Liverpool,Stoke,3,0,4,1
+E0,2016,28dec2016,Southampton,Tottenham,0,3,1,4
+E0,2016,30dec2016,Hull,Everton,1,1,2,2
+E0,2016,31dec2016,Chelsea,Stoke,3,0,4,2
+E0,2016,31dec2016,Liverpool,Man City,3,0,1,0
+E0,2016,31dec2016,Burnley,Sunderland,3,0,4,1
+E0,2016,31dec2016,Man United,Middlesbrough,3,0,2,1
+E0,2016,31dec2016,Swansea,Bournemouth,0,3,0,3
+E0,2016,31dec2016,Leicester,West Ham,3,0,1,0
+E0,2016,31dec2016,Southampton,West Brom,0,3,1,2
+E0,2016,01jan2017,Watford,Tottenham,0,3,1,4
+E0,2016,01jan2017,Arsenal,Crystal Palace,3,0,2,0
+E0,2016,02jan2017,West Ham,Man United,0,3,0,2
+E0,2016,02jan2017,Man City,Burnley,3,0,2,1
+E0,2016,02jan2017,Everton,Southampton,3,0,3,0
+E0,2016,02jan2017,Middlesbrough,Leicester,1,1,0,0
+E0,2016,02jan2017,West Brom,Hull,3,0,3,1
+E0,2016,02jan2017,Sunderland,Liverpool,1,1,2,2
+E0,2016,03jan2017,Crystal Palace,Swansea,0,3,1,2
+E0,2016,03jan2017,Stoke,Watford,3,0,2,0
+E0,2016,03jan2017,Bournemouth,Arsenal,1,1,3,3
+E0,2016,04jan2017,Tottenham,Chelsea,3,0,2,0
+E0,2016,14jan2017,Burnley,Southampton,3,0,1,0
+E0,2016,14jan2017,Leicester,Chelsea,0,3,0,3
+E0,2016,14jan2017,West Ham,Crystal Palace,3,0,3,0
+E0,2016,14jan2017,Hull,Bournemouth,3,0,3,1
+E0,2016,14jan2017,Sunderland,Stoke,0,3,1,3
+E0,2016,14jan2017,Watford,Middlesbrough,1,1,0,0
+E0,2016,14jan2017,Swansea,Arsenal,0,3,0,4
+E0,2016,14jan2017,Tottenham,West Brom,3,0,4,0
+E0,2016,15jan2017,Man United,Liverpool,1,1,1,1
+E0,2016,15jan2017,Everton,Man City,3,0,4,0
+E0,2016,21jan2017,Stoke,Man United,1,1,1,1
+E0,2016,21jan2017,Liverpool,Swansea,0,3,2,3
+E0,2016,21jan2017,Middlesbrough,West Ham,0,3,1,3
+E0,2016,21jan2017,Man City,Tottenham,1,1,2,2
+E0,2016,21jan2017,Crystal Palace,Everton,0,3,0,1
+E0,2016,21jan2017,Bournemouth,Watford,1,1,2,2
+E0,2016,21jan2017,West Brom,Sunderland,3,0,2,0
+E0,2016,22jan2017,Chelsea,Hull,3,0,2,0
+E0,2016,22jan2017,Southampton,Leicester,3,0,3,0
+E0,2016,22jan2017,Arsenal,Burnley,3,0,2,1
+E0,2016,31jan2017,Swansea,Southampton,3,0,2,1
+E0,2016,31jan2017,Middlesbrough,West Brom,1,1,1,1
+E0,2016,31jan2017,Burnley,Leicester,3,0,1,0
+E0,2016,31jan2017,Liverpool,Chelsea,1,1,1,1
+E0,2016,31jan2017,Sunderland,Tottenham,1,1,0,0
+E0,2016,31jan2017,Bournemouth,Crystal Palace,0,3,0,2
+E0,2016,31jan2017,Arsenal,Watford,0,3,1,2
+E0,2016,01feb2017,Stoke,Everton,1,1,1,1
+E0,2016,01feb2017,Man United,Hull,1,1,0,0
+E0,2016,01feb2017,West Ham,Man City,0,3,0,4
+E0,2016,04feb2017,Tottenham,Middlesbrough,3,0,1,0
+E0,2016,04feb2017,Everton,Bournemouth,3,0,6,3
+E0,2016,04feb2017,West Brom,Stoke,3,0,1,0
+E0,2016,04feb2017,Watford,Burnley,3,0,2,1
+E0,2016,04feb2017,Crystal Palace,Sunderland,0,3,0,4
+E0,2016,04feb2017,Hull,Liverpool,3,0,2,0
+E0,2016,04feb2017,Southampton,West Ham,0,3,1,3
+E0,2016,04feb2017,Chelsea,Arsenal,3,0,3,1
+E0,2016,05feb2017,Man City,Swansea,3,0,2,1
+E0,2016,05feb2017,Leicester,Man United,0,3,0,3
+E0,2016,11feb2017,Liverpool,Tottenham,3,0,2,0
+E0,2016,11feb2017,Arsenal,Hull,3,0,2,0
+E0,2016,11feb2017,Man United,Watford,3,0,2,0
+E0,2016,11feb2017,Middlesbrough,Everton,1,1,0,0
+E0,2016,11feb2017,West Ham,West Brom,1,1,2,2
+E0,2016,11feb2017,Sunderland,Southampton,0,3,0,4
+E0,2016,11feb2017,Stoke,Crystal Palace,3,0,1,0
+E0,2016,12feb2017,Burnley,Chelsea,1,1,1,1
+E0,2016,12feb2017,Swansea,Leicester,3,0,2,0
+E0,2016,13feb2017,Bournemouth,Man City,0,3,0,2
+E0,2016,25feb2017,Chelsea,Swansea,3,0,3,1
+E0,2016,25feb2017,Watford,West Ham,1,1,1,1
+E0,2016,25feb2017,Hull,Burnley,1,1,1,1
+E0,2016,25feb2017,Crystal Palace,Middlesbrough,3,0,1,0
+E0,2016,25feb2017,West Brom,Bournemouth,3,0,2,1
+E0,2016,25feb2017,Everton,Sunderland,3,0,2,0
+E0,2016,26feb2017,Tottenham,Stoke,3,0,4,0
+E0,2016,27feb2017,Leicester,Liverpool,3,0,3,1
+E0,2016,04mar2017,West Brom,Crystal Palace,0,3,0,2
+E0,2016,04mar2017,Stoke,Middlesbrough,3,0,2,0
+E0,2016,04mar2017,Man United,Bournemouth,1,1,1,1
+E0,2016,04mar2017,Leicester,Hull,3,0,3,1
+E0,2016,04mar2017,Swansea,Burnley,3,0,3,2
+E0,2016,04mar2017,Liverpool,Arsenal,3,0,3,1
+E0,2016,04mar2017,Watford,Southampton,0,3,3,4
+E0,2016,05mar2017,Sunderland,Man City,0,3,0,2
+E0,2016,05mar2017,Tottenham,Everton,3,0,3,2
+E0,2016,06mar2017,West Ham,Chelsea,0,3,1,2
+E0,2016,08mar2017,Man City,Stoke,1,1,0,0
+E0,2016,11mar2017,Bournemouth,West Ham,3,0,3,2
+E0,2016,11mar2017,Everton,West Brom,3,0,3,0
+E0,2016,11mar2017,Hull,Swansea,3,0,2,1
+E0,2016,12mar2017,Liverpool,Burnley,3,0,2,1
+E0,2016,18mar2017,Crystal Palace,Watford,3,0,1,0
+E0,2016,18mar2017,West Brom,Arsenal,3,0,3,1
+E0,2016,18mar2017,West Ham,Leicester,0,3,2,3
+E0,2016,18mar2017,Everton,Hull,3,0,4,0
+E0,2016,18mar2017,Bournemouth,Swansea,3,0,2,0
+E0,2016,18mar2017,Sunderland,Burnley,1,1,0,0
+E0,2016,18mar2017,Stoke,Chelsea,0,3,1,2
+E0,2016,19mar2017,Tottenham,Southampton,3,0,2,1
+E0,2016,19mar2017,Middlesbrough,Man United,0,3,1,3
+E0,2016,19mar2017,Man City,Liverpool,1,1,1,1
+E0,2016,01apr2017,Southampton,Bournemouth,1,1,0,0
+E0,2016,01apr2017,Burnley,Tottenham,0,3,0,2
+E0,2016,01apr2017,Watford,Sunderland,3,0,1,0
+E0,2016,01apr2017,Leicester,Stoke,3,0,2,0
+E0,2016,01apr2017,Liverpool,Everton,3,0,3,1
+E0,2016,01apr2017,Hull,West Ham,3,0,2,1
+E0,2016,01apr2017,Man United,West Brom,1,1,0,0
+E0,2016,01apr2017,Chelsea,Crystal Palace,0,3,1,2
+E0,2016,02apr2017,Swansea,Middlesbrough,1,1,0,0
+E0,2016,02apr2017,Arsenal,Man City,1,1,2,2
+E0,2016,04apr2017,Watford,West Brom,3,0,2,0
+E0,2016,04apr2017,Leicester,Sunderland,3,0,2,0
+E0,2016,04apr2017,Burnley,Stoke,3,0,1,0
+E0,2016,04apr2017,Man United,Everton,1,1,1,1
+E0,2016,05apr2017,Southampton,Crystal Palace,3,0,3,1
+E0,2016,05apr2017,Arsenal,West Ham,3,0,3,0
+E0,2016,05apr2017,Swansea,Tottenham,0,3,1,3
+E0,2016,05apr2017,Hull,Middlesbrough,3,0,4,2
+E0,2016,05apr2017,Liverpool,Bournemouth,1,1,2,2
+E0,2016,05apr2017,Chelsea,Man City,3,0,2,1
+E0,2016,08apr2017,Middlesbrough,Burnley,1,1,0,0
+E0,2016,08apr2017,West Ham,Swansea,3,0,1,0
+E0,2016,08apr2017,Stoke,Liverpool,0,3,1,2
+E0,2016,08apr2017,West Brom,Southampton,0,3,0,1
+E0,2016,08apr2017,Man City,Hull,3,0,3,1
+E0,2016,08apr2017,Bournemouth,Chelsea,0,3,1,3
+E0,2016,08apr2017,Tottenham,Watford,3,0,4,0
+E0,2016,09apr2017,Sunderland,Man United,0,3,0,3
+E0,2016,09apr2017,Everton,Leicester,3,0,4,2
+E0,2016,10apr2017,Crystal Palace,Arsenal,3,0,3,0
+E0,2016,15apr2017,Southampton,Man City,0,3,0,3
+E0,2016,15apr2017,Stoke,Hull,3,0,3,1
+E0,2016,15apr2017,Sunderland,West Ham,1,1,2,2
+E0,2016,15apr2017,Crystal Palace,Leicester,1,1,2,2
+E0,2016,15apr2017,Watford,Swansea,3,0,1,0
+E0,2016,15apr2017,Tottenham,Bournemouth,3,0,4,0
+E0,2016,15apr2017,Everton,Burnley,3,0,3,1
+E0,2016,16apr2017,West Brom,Liverpool,0,3,0,1
+E0,2016,16apr2017,Man United,Chelsea,3,0,2,0
+E0,2016,17apr2017,Middlesbrough,Arsenal,0,3,1,2
+E0,2016,22apr2017,Bournemouth,Middlesbrough,3,0,4,0
+E0,2016,22apr2017,West Ham,Everton,1,1,0,0
+E0,2016,22apr2017,Hull,Watford,3,0,2,0
+E0,2016,22apr2017,Swansea,Stoke,3,0,2,0
+E0,2016,23apr2017,Liverpool,Crystal Palace,0,3,1,2
+E0,2016,23apr2017,Burnley,Man United,0,3,0,2
+E0,2016,25apr2017,Chelsea,Southampton,3,0,4,2
+E0,2016,26apr2017,Crystal Palace,Tottenham,0,3,0,1
+E0,2016,26apr2017,Middlesbrough,Sunderland,3,0,1,0
+E0,2016,26apr2017,Arsenal,Leicester,3,0,1,0
+E0,2016,27apr2017,Man City,Man United,1,1,0,0
+E0,2016,29apr2017,Stoke,West Ham,1,1,0,0
+E0,2016,29apr2017,Sunderland,Bournemouth,0,3,0,1
+E0,2016,29apr2017,Crystal Palace,Burnley,0,3,0,2
+E0,2016,29apr2017,Southampton,Hull,1,1,0,0
+E0,2016,29apr2017,West Brom,Leicester,0,3,0,1
+E0,2016,30apr2017,Tottenham,Arsenal,3,0,2,0
+E0,2016,30apr2017,Everton,Chelsea,0,3,0,3
+E0,2016,30apr2017,Man United,Swansea,1,1,1,1
+E0,2016,30apr2017,Middlesbrough,Man City,1,1,2,2
+E0,2016,01may2017,Watford,Liverpool,0,3,0,1
+E0,2016,05may2017,West Ham,Tottenham,3,0,1,0
+E0,2016,06may2017,Man City,Crystal Palace,3,0,5,0
+E0,2016,06may2017,Leicester,Watford,3,0,3,0
+E0,2016,06may2017,Hull,Sunderland,0,3,0,2
+E0,2016,06may2017,Swansea,Everton,3,0,1,0
+E0,2016,06may2017,Bournemouth,Stoke,1,1,2,2
+E0,2016,06may2017,Burnley,West Brom,1,1,2,2
+E0,2016,07may2017,Arsenal,Man United,3,0,2,0
+E0,2016,07may2017,Liverpool,Southampton,1,1,0,0
+E0,2016,08may2017,Chelsea,Middlesbrough,3,0,3,0
+E0,2016,10may2017,Southampton,Arsenal,0,3,0,2
+E0,2016,12may2017,Everton,Watford,3,0,1,0
+E0,2016,12may2017,West Brom,Chelsea,0,3,0,1
+E0,2016,13may2017,Stoke,Arsenal,0,3,1,4
+E0,2016,13may2017,Middlesbrough,Southampton,0,3,1,2
+E0,2016,13may2017,Bournemouth,Burnley,3,0,2,1
+E0,2016,13may2017,Sunderland,Swansea,0,3,0,2
+E0,2016,13may2017,Man City,Leicester,3,0,2,1
+E0,2016,14may2017,West Ham,Liverpool,0,3,0,4
+E0,2016,14may2017,Crystal Palace,Hull,3,0,4,0
+E0,2016,14may2017,Tottenham,Man United,3,0,2,1
+E0,2016,15may2017,Chelsea,Watford,3,0,4,3
+E0,2016,16may2017,Arsenal,Sunderland,3,0,2,0
+E0,2016,16may2017,Man City,West Brom,3,0,3,1
+E0,2016,17may2017,Southampton,Man United,1,1,0,0
+E0,2016,18may2017,Leicester,Tottenham,0,3,1,6
+E0,2016,21may2017,Liverpool,Middlesbrough,3,0,3,0
+E0,2016,21may2017,Southampton,Stoke,0,3,0,1
+E0,2016,21may2017,Man United,Crystal Palace,3,0,2,0
+E0,2016,21may2017,Burnley,West Ham,0,3,1,2
+E0,2016,21may2017,Hull,Tottenham,0,3,1,7
+E0,2016,21may2017,Swansea,West Brom,3,0,2,1
+E0,2016,21may2017,Chelsea,Sunderland,3,0,5,1
+E0,2016,21may2017,Arsenal,Everton,3,0,3,1
+E0,2016,21may2017,Watford,Man City,0,3,0,5
+E0,2016,21may2017,Leicester,Bournemouth,1,1,1,1
+E0,2017,11aug2017,Arsenal,Leicester,3,0,4,3
+E0,2017,12aug2017,Watford,Liverpool,1,1,3,3
+E0,2017,12aug2017,Brighton,Man City,0,3,0,2
+E0,2017,12aug2017,Crystal Palace,Huddersfield,0,3,0,3
+E0,2017,12aug2017,Southampton,Swansea,1,1,0,0
+E0,2017,12aug2017,Everton,Stoke,3,0,1,0
+E0,2017,12aug2017,Chelsea,Burnley,0,3,2,3
+E0,2017,12aug2017,West Brom,Bournemouth,3,0,1,0
+E0,2017,13aug2017,Man United,West Ham,3,0,4,0
+E0,2017,13aug2017,Newcastle,Tottenham,0,3,0,2
+E0,2017,19aug2017,Southampton,West Ham,3,0,3,2
+E0,2017,19aug2017,Liverpool,Crystal Palace,3,0,1,0
+E0,2017,19aug2017,Stoke,Arsenal,3,0,1,0
+E0,2017,19aug2017,Burnley,West Brom,0,3,0,1
+E0,2017,19aug2017,Swansea,Man United,0,3,0,4
+E0,2017,19aug2017,Leicester,Brighton,3,0,2,0
+E0,2017,19aug2017,Bournemouth,Watford,0,3,0,2
+E0,2017,20aug2017,Huddersfield,Newcastle,3,0,1,0
+E0,2017,20aug2017,Tottenham,Chelsea,0,3,1,2
+E0,2017,21aug2017,Man City,Everton,1,1,1,1
+E0,2017,26aug2017,Newcastle,West Ham,3,0,3,0
+E0,2017,26aug2017,Watford,Brighton,1,1,0,0
+E0,2017,26aug2017,Bournemouth,Man City,0,3,1,2
+E0,2017,26aug2017,Huddersfield,Southampton,1,1,0,0
+E0,2017,26aug2017,Crystal Palace,Swansea,0,3,0,2
+E0,2017,26aug2017,Man United,Leicester,3,0,2,0
+E0,2017,27aug2017,Liverpool,Arsenal,3,0,4,0
+E0,2017,27aug2017,Chelsea,Everton,3,0,2,0
+E0,2017,27aug2017,Tottenham,Burnley,1,1,1,1
+E0,2017,27aug2017,West Brom,Stoke,1,1,1,1
+E0,2017,09sep2017,Man City,Liverpool,3,0,5,0
+E0,2017,09sep2017,Brighton,West Brom,3,0,3,1
+E0,2017,09sep2017,Arsenal,Bournemouth,3,0,3,0
+E0,2017,09sep2017,Leicester,Chelsea,0,3,1,2
+E0,2017,09sep2017,Everton,Tottenham,0,3,0,3
+E0,2017,09sep2017,Stoke,Man United,1,1,2,2
+E0,2017,09sep2017,Southampton,Watford,0,3,0,2
+E0,2017,10sep2017,Swansea,Newcastle,0,3,0,1
+E0,2017,10sep2017,Burnley,Crystal Palace,3,0,1,0
+E0,2017,11sep2017,West Ham,Huddersfield,3,0,2,0
+E0,2017,15sep2017,Bournemouth,Brighton,3,0,2,1
+E0,2017,16sep2017,Watford,Man City,0,3,0,6
+E0,2017,16sep2017,Liverpool,Burnley,1,1,1,1
+E0,2017,16sep2017,Huddersfield,Leicester,1,1,1,1
+E0,2017,16sep2017,West Brom,West Ham,1,1,0,0
+E0,2017,16sep2017,Newcastle,Stoke,3,0,2,1
+E0,2017,16sep2017,Tottenham,Swansea,1,1,0,0
+E0,2017,16sep2017,Crystal Palace,Southampton,0,3,0,1
+E0,2017,17sep2017,Chelsea,Arsenal,1,1,0,0
+E0,2017,17sep2017,Man United,Everton,3,0,4,0
+E0,2017,23sep2017,Southampton,Man United,0,3,0,1
+E0,2017,23sep2017,Everton,Bournemouth,3,0,2,1
+E0,2017,23sep2017,Stoke,Chelsea,0,3,0,4
+E0,2017,23sep2017,Swansea,Watford,0,3,1,2
+E0,2017,23sep2017,Leicester,Liverpool,0,3,2,3
+E0,2017,23sep2017,Burnley,Huddersfield,1,1,0,0
+E0,2017,23sep2017,West Ham,Tottenham,0,3,2,3
+E0,2017,23sep2017,Man City,Crystal Palace,3,0,5,0
+E0,2017,24sep2017,Brighton,Newcastle,3,0,1,0
+E0,2017,25sep2017,Arsenal,West Brom,3,0,2,0
+E0,2017,30sep2017,West Ham,Swansea,3,0,1,0
+E0,2017,30sep2017,Huddersfield,Tottenham,0,3,0,4
+E0,2017,30sep2017,Chelsea,Man City,0,3,0,1
+E0,2017,30sep2017,West Brom,Watford,1,1,2,2
+E0,2017,30sep2017,Bournemouth,Leicester,1,1,0,0
+E0,2017,30sep2017,Man United,Crystal Palace,3,0,4,0
+E0,2017,30sep2017,Stoke,Southampton,3,0,2,1
+E0,2017,01oct2017,Everton,Burnley,0,3,0,1
+E0,2017,01oct2017,Arsenal,Brighton,3,0,2,0
+E0,2017,01oct2017,Newcastle,Liverpool,1,1,1,1
+E0,2017,14oct2017,Burnley,West Ham,1,1,1,1
+E0,2017,14oct2017,Man City,Stoke,3,0,7,2
+E0,2017,14oct2017,Swansea,Huddersfield,3,0,2,0
+E0,2017,14oct2017,Watford,Arsenal,3,0,2,1
+E0,2017,14oct2017,Liverpool,Man United,1,1,0,0
+E0,2017,14oct2017,Tottenham,Bournemouth,3,0,1,0
+E0,2017,14oct2017,Crystal Palace,Chelsea,3,0,2,1
+E0,2017,15oct2017,Brighton,Everton,1,1,1,1
+E0,2017,15oct2017,Southampton,Newcastle,1,1,2,2
+E0,2017,16oct2017,Leicester,West Brom,1,1,1,1
+E0,2017,20oct2017,West Ham,Brighton,0,3,0,3
+E0,2017,21oct2017,Southampton,West Brom,3,0,1,0
+E0,2017,21oct2017,Newcastle,Crystal Palace,3,0,1,0
+E0,2017,21oct2017,Swansea,Leicester,0,3,1,2
+E0,2017,21oct2017,Man City,Burnley,3,0,3,0
+E0,2017,21oct2017,Chelsea,Watford,3,0,4,2
+E0,2017,21oct2017,Stoke,Bournemouth,0,3,1,2
+E0,2017,21oct2017,Huddersfield,Man United,3,0,2,1
+E0,2017,22oct2017,Everton,Arsenal,0,3,2,5
+E0,2017,22oct2017,Tottenham,Liverpool,3,0,4,1
+E0,2017,28oct2017,Crystal Palace,West Ham,1,1,2,2
+E0,2017,28oct2017,Bournemouth,Chelsea,0,3,0,1
+E0,2017,28oct2017,Man United,Tottenham,3,0,1,0
+E0,2017,28oct2017,Watford,Stoke,0,3,0,1
+E0,2017,28oct2017,Liverpool,Huddersfield,3,0,3,0
+E0,2017,28oct2017,Arsenal,Swansea,3,0,2,1
+E0,2017,28oct2017,West Brom,Man City,0,3,2,3
+E0,2017,29oct2017,Leicester,Everton,3,0,2,0
+E0,2017,29oct2017,Brighton,Southampton,1,1,1,1
+E0,2017,30oct2017,Burnley,Newcastle,3,0,1,0
+E0,2017,04nov2017,West Ham,Liverpool,0,3,1,4
+E0,2017,04nov2017,Swansea,Brighton,0,3,0,1
+E0,2017,04nov2017,Huddersfield,West Brom,3,0,1,0
+E0,2017,04nov2017,Stoke,Leicester,1,1,2,2
+E0,2017,04nov2017,Newcastle,Bournemouth,0,3,0,1
+E0,2017,04nov2017,Southampton,Burnley,0,3,0,1
+E0,2017,05nov2017,Chelsea,Man United,3,0,1,0
+E0,2017,05nov2017,Tottenham,Crystal Palace,3,0,1,0
+E0,2017,05nov2017,Man City,Arsenal,3,0,3,1
+E0,2017,05nov2017,Everton,Watford,3,0,3,2
+E0,2017,18nov2017,Arsenal,Tottenham,3,0,2,0
+E0,2017,18nov2017,Liverpool,Southampton,3,0,3,0
+E0,2017,18nov2017,Leicester,Man City,0,3,0,2
+E0,2017,18nov2017,West Brom,Chelsea,0,3,0,4
+E0,2017,18nov2017,Crystal Palace,Everton,1,1,2,2
+E0,2017,18nov2017,Burnley,Swansea,3,0,2,0
+E0,2017,18nov2017,Man United,Newcastle,3,0,4,1
+E0,2017,18nov2017,Bournemouth,Huddersfield,3,0,4,0
+E0,2017,19nov2017,Watford,West Ham,3,0,2,0
+E0,2017,20nov2017,Brighton,Stoke,1,1,2,2
+E0,2017,24nov2017,West Ham,Leicester,1,1,1,1
+E0,2017,25nov2017,Liverpool,Chelsea,1,1,1,1
+E0,2017,25nov2017,Swansea,Bournemouth,1,1,0,0
+E0,2017,25nov2017,Newcastle,Watford,0,3,0,3
+E0,2017,25nov2017,Tottenham,West Brom,1,1,1,1
+E0,2017,25nov2017,Crystal Palace,Stoke,3,0,2,1
+E0,2017,25nov2017,Man United,Brighton,3,0,1,0
+E0,2017,26nov2017,Southampton,Everton,3,0,4,1
+E0,2017,26nov2017,Huddersfield,Man City,0,3,1,2
+E0,2017,26nov2017,Burnley,Arsenal,0,3,0,1
+E0,2017,28nov2017,West Brom,Newcastle,1,1,2,2
+E0,2017,28nov2017,Brighton,Crystal Palace,1,1,0,0
+E0,2017,28nov2017,Leicester,Tottenham,3,0,2,1
+E0,2017,28nov2017,Watford,Man United,0,3,2,4
+E0,2017,29nov2017,Stoke,Liverpool,0,3,0,3
+E0,2017,29nov2017,Everton,West Ham,3,0,4,0
+E0,2017,29nov2017,Arsenal,Huddersfield,3,0,5,0
+E0,2017,29nov2017,Chelsea,Swansea,3,0,1,0
+E0,2017,29nov2017,Man City,Southampton,3,0,2,1
+E0,2017,29nov2017,Bournemouth,Burnley,0,3,1,2
+E0,2017,02dec2017,Everton,Huddersfield,3,0,2,0
+E0,2017,02dec2017,Arsenal,Man United,0,3,1,3
+E0,2017,02dec2017,Watford,Tottenham,1,1,1,1
+E0,2017,02dec2017,Stoke,Swansea,3,0,2,1
+E0,2017,02dec2017,Chelsea,Newcastle,3,0,3,1
+E0,2017,02dec2017,Leicester,Burnley,3,0,1,0
+E0,2017,02dec2017,West Brom,Crystal Palace,1,1,0,0
+E0,2017,02dec2017,Brighton,Liverpool,0,3,1,5
+E0,2017,03dec2017,Man City,West Ham,3,0,2,1
+E0,2017,03dec2017,Bournemouth,Southampton,1,1,1,1
+E0,2017,09dec2017,Swansea,West Brom,3,0,1,0
+E0,2017,09dec2017,Burnley,Watford,3,0,1,0
+E0,2017,09dec2017,Crystal Palace,Bournemouth,1,1,2,2
+E0,2017,09dec2017,West Ham,Chelsea,3,0,1,0
+E0,2017,09dec2017,Huddersfield,Brighton,3,0,2,0
+E0,2017,09dec2017,Newcastle,Leicester,0,3,2,3
+E0,2017,09dec2017,Tottenham,Stoke,3,0,5,1
+E0,2017,10dec2017,Man United,Man City,0,3,1,2
+E0,2017,10dec2017,Liverpool,Everton,1,1,1,1
+E0,2017,10dec2017,Southampton,Arsenal,1,1,1,1
+E0,2017,12dec2017,Huddersfield,Chelsea,0,3,1,3
+E0,2017,12dec2017,Crystal Palace,Watford,3,0,2,1
+E0,2017,12dec2017,Burnley,Stoke,3,0,1,0
+E0,2017,13dec2017,Newcastle,Everton,0,3,0,1
+E0,2017,13dec2017,Man United,Bournemouth,3,0,1,0
+E0,2017,13dec2017,West Ham,Arsenal,1,1,0,0
+E0,2017,13dec2017,Swansea,Man City,0,3,0,4
+E0,2017,13dec2017,Southampton,Leicester,0,3,1,4
+E0,2017,13dec2017,Liverpool,West Brom,1,1,0,0
+E0,2017,13dec2017,Tottenham,Brighton,3,0,2,0
+E0,2017,16dec2017,Watford,Huddersfield,0,3,1,4
+E0,2017,16dec2017,Leicester,Crystal Palace,0,3,0,3
+E0,2017,16dec2017,Brighton,Burnley,1,1,0,0
+E0,2017,16dec2017,Arsenal,Newcastle,3,0,1,0
+E0,2017,16dec2017,Stoke,West Ham,0,3,0,3
+E0,2017,16dec2017,Man City,Tottenham,3,0,4,1
+E0,2017,16dec2017,Chelsea,Southampton,3,0,1,0
+E0,2017,17dec2017,Bournemouth,Liverpool,0,3,0,4
+E0,2017,17dec2017,West Brom,Man United,0,3,1,2
+E0,2017,18dec2017,Everton,Swansea,3,0,3,1
+E0,2017,22dec2017,Arsenal,Liverpool,1,1,3,3
+E0,2017,23dec2017,Swansea,Crystal Palace,1,1,1,1
+E0,2017,23dec2017,Brighton,Watford,3,0,1,0
+E0,2017,23dec2017,Man City,Bournemouth,3,0,4,0
+E0,2017,23dec2017,West Ham,Newcastle,0,3,2,3
+E0,2017,23dec2017,Everton,Chelsea,1,1,0,0
+E0,2017,23dec2017,Burnley,Tottenham,0,3,0,3
+E0,2017,23dec2017,Leicester,Man United,1,1,2,2
+E0,2017,23dec2017,Stoke,West Brom,3,0,3,1
+E0,2017,23dec2017,Southampton,Huddersfield,1,1,1,1
+E0,2017,26dec2017,Watford,Leicester,3,0,2,1
+E0,2017,26dec2017,Man United,Burnley,1,1,2,2
+E0,2017,26dec2017,Bournemouth,West Ham,1,1,3,3
+E0,2017,26dec2017,Chelsea,Brighton,3,0,2,0
+E0,2017,26dec2017,Liverpool,Swansea,3,0,5,0
+E0,2017,26dec2017,West Brom,Everton,1,1,0,0
+E0,2017,26dec2017,Huddersfield,Stoke,1,1,1,1
+E0,2017,26dec2017,Tottenham,Southampton,3,0,5,2
+E0,2017,27dec2017,Newcastle,Man City,0,3,0,1
+E0,2017,28dec2017,Crystal Palace,Arsenal,0,3,2,3
+E0,2017,30dec2017,Chelsea,Stoke,3,0,5,0
+E0,2017,30dec2017,Liverpool,Leicester,3,0,2,1
+E0,2017,30dec2017,Watford,Swansea,0,3,1,2
+E0,2017,30dec2017,Huddersfield,Burnley,1,1,0,0
+E0,2017,30dec2017,Bournemouth,Everton,3,0,2,1
+E0,2017,30dec2017,Man United,Southampton,1,1,0,0
+E0,2017,30dec2017,Newcastle,Brighton,1,1,0,0
+E0,2017,31dec2017,West Brom,Arsenal,1,1,1,1
+E0,2017,31dec2017,Crystal Palace,Man City,1,1,0,0
+E0,2017,01jan2018,Burnley,Liverpool,0,3,1,2
+E0,2017,01jan2018,Stoke,Newcastle,0,3,0,1
+E0,2017,01jan2018,Leicester,Huddersfield,3,0,3,0
+E0,2017,01jan2018,Everton,Man United,0,3,0,2
+E0,2017,01jan2018,Brighton,Bournemouth,1,1,2,2
+E0,2017,02jan2018,Southampton,Crystal Palace,0,3,1,2
+E0,2017,02jan2018,Swansea,Tottenham,0,3,0,2
+E0,2017,02jan2018,West Ham,West Brom,3,0,2,1
+E0,2017,02jan2018,Man City,Watford,3,0,3,1
+E0,2017,03jan2018,Arsenal,Chelsea,1,1,2,2
+E0,2017,04jan2018,Tottenham,West Ham,1,1,1,1
+E0,2017,13jan2018,Tottenham,Everton,3,0,4,0
+E0,2017,13jan2018,Huddersfield,West Ham,0,3,1,4
+E0,2017,13jan2018,Chelsea,Leicester,1,1,0,0
+E0,2017,13jan2018,West Brom,Brighton,3,0,2,0
+E0,2017,13jan2018,Newcastle,Swansea,1,1,1,1
+E0,2017,13jan2018,Crystal Palace,Burnley,3,0,1,0
+E0,2017,13jan2018,Watford,Southampton,1,1,2,2
+E0,2017,14jan2018,Liverpool,Man City,3,0,4,3
+E0,2017,14jan2018,Bournemouth,Arsenal,3,0,2,1
+E0,2017,15jan2018,Man United,Stoke,3,0,3,0
+E0,2017,20jan2018,Burnley,Man United,0,3,0,1
+E0,2017,20jan2018,Stoke,Huddersfield,3,0,2,0
+E0,2017,20jan2018,Man City,Newcastle,3,0,3,1
+E0,2017,20jan2018,Arsenal,Crystal Palace,3,0,4,1
+E0,2017,20jan2018,Brighton,Chelsea,0,3,0,4
+E0,2017,20jan2018,Everton,West Brom,1,1,1,1
+E0,2017,20jan2018,West Ham,Bournemouth,1,1,1,1
+E0,2017,20jan2018,Leicester,Watford,3,0,2,0
+E0,2017,21jan2018,Southampton,Tottenham,1,1,1,1
+E0,2017,22jan2018,Swansea,Liverpool,3,0,1,0
+E0,2017,30jan2018,West Ham,Crystal Palace,1,1,1,1
+E0,2017,30jan2018,Swansea,Arsenal,3,0,3,1
+E0,2017,30jan2018,Huddersfield,Liverpool,0,3,0,3
+E0,2017,31jan2018,Stoke,Watford,1,1,0,0
+E0,2017,31jan2018,Man City,West Brom,3,0,3,0
+E0,2017,31jan2018,Southampton,Brighton,1,1,1,1
+E0,2017,31jan2018,Tottenham,Man United,3,0,2,0
+E0,2017,31jan2018,Everton,Leicester,3,0,2,1
+E0,2017,31jan2018,Newcastle,Burnley,1,1,1,1
+E0,2017,31jan2018,Chelsea,Bournemouth,0,3,0,3
+E0,2017,03feb2018,Burnley,Man City,1,1,1,1
+E0,2017,03feb2018,Man United,Huddersfield,3,0,2,0
+E0,2017,03feb2018,West Brom,Southampton,0,3,2,3
+E0,2017,03feb2018,Bournemouth,Stoke,3,0,2,1
+E0,2017,03feb2018,Leicester,Swansea,1,1,1,1
+E0,2017,03feb2018,Arsenal,Everton,3,0,5,1
+E0,2017,03feb2018,Brighton,West Ham,3,0,3,1
+E0,2017,04feb2018,Liverpool,Tottenham,1,1,2,2
+E0,2017,04feb2018,Crystal Palace,Newcastle,1,1,1,1
+E0,2017,05feb2018,Watford,Chelsea,3,0,4,1
+E0,2017,10feb2018,Tottenham,Arsenal,3,0,1,0
+E0,2017,10feb2018,Stoke,Brighton,1,1,1,1
+E0,2017,10feb2018,Swansea,Burnley,3,0,1,0
+E0,2017,10feb2018,Man City,Leicester,3,0,5,1
+E0,2017,10feb2018,Everton,Crystal Palace,3,0,3,1
+E0,2017,10feb2018,West Ham,Watford,3,0,2,0
+E0,2017,11feb2018,Southampton,Liverpool,0,3,0,2
+E0,2017,11feb2018,Newcastle,Man United,3,0,1,0
+E0,2017,11feb2018,Huddersfield,Bournemouth,3,0,4,1
+E0,2017,12feb2018,Chelsea,West Brom,3,0,3,0
+E0,2017,24feb2018,Bournemouth,Newcastle,1,1,2,2
+E0,2017,24feb2018,Liverpool,West Ham,3,0,4,1
+E0,2017,24feb2018,West Brom,Huddersfield,0,3,1,2
+E0,2017,24feb2018,Watford,Everton,3,0,1,0
+E0,2017,24feb2018,Brighton,Swansea,3,0,4,1
+E0,2017,24feb2018,Leicester,Stoke,1,1,1,1
+E0,2017,24feb2018,Burnley,Southampton,1,1,1,1
+E0,2017,25feb2018,Crystal Palace,Tottenham,0,3,0,1
+E0,2017,25feb2018,Man United,Chelsea,3,0,2,1
+E0,2017,01mar2018,Arsenal,Man City,0,3,0,3
+E0,2017,03mar2018,Watford,West Brom,3,0,1,0
+E0,2017,03mar2018,Burnley,Everton,3,0,2,1
+E0,2017,03mar2018,Southampton,Stoke,1,1,0,0
+E0,2017,03mar2018,Tottenham,Huddersfield,3,0,2,0
+E0,2017,03mar2018,Leicester,Bournemouth,1,1,1,1
+E0,2017,03mar2018,Liverpool,Newcastle,3,0,2,0
+E0,2017,03mar2018,Swansea,West Ham,3,0,4,1
+E0,2017,04mar2018,Man City,Chelsea,3,0,1,0
+E0,2017,04mar2018,Brighton,Arsenal,3,0,2,1
+E0,2017,05mar2018,Crystal Palace,Man United,0,3,2,3
+E0,2017,10mar2018,Huddersfield,Swansea,1,1,0,0
+E0,2017,10mar2018,West Brom,Leicester,0,3,1,4
+E0,2017,10mar2018,West Ham,Burnley,0,3,0,3
+E0,2017,10mar2018,Everton,Brighton,3,0,2,0
+E0,2017,10mar2018,Chelsea,Crystal Palace,3,0,2,1
+E0,2017,10mar2018,Man United,Liverpool,3,0,2,1
+E0,2017,10mar2018,Newcastle,Southampton,3,0,3,0
+E0,2017,11mar2018,Bournemouth,Tottenham,0,3,1,4
+E0,2017,11mar2018,Arsenal,Watford,3,0,3,0
+E0,2017,12mar2018,Stoke,Man City,0,3,0,2
+E0,2017,17mar2018,Stoke,Everton,0,3,1,2
+E0,2017,17mar2018,Bournemouth,West Brom,3,0,2,1
+E0,2017,17mar2018,Liverpool,Watford,3,0,5,0
+E0,2017,17mar2018,Huddersfield,Crystal Palace,0,3,0,2
+E0,2017,31mar2018,West Brom,Burnley,0,3,1,2
+E0,2017,31mar2018,Everton,Man City,0,3,1,3
+E0,2017,31mar2018,Crystal Palace,Liverpool,0,3,1,2
+E0,2017,31mar2018,Man United,Swansea,3,0,2,0
+E0,2017,31mar2018,West Ham,Southampton,3,0,3,0
+E0,2017,31mar2018,Watford,Bournemouth,1,1,2,2
+E0,2017,31mar2018,Newcastle,Huddersfield,3,0,1,0
+E0,2017,31mar2018,Brighton,Leicester,0,3,0,2
+E0,2017,01apr2018,Arsenal,Stoke,3,0,3,0
+E0,2017,01apr2018,Chelsea,Tottenham,0,3,1,3
+E0,2017,07apr2018,Man City,Man United,0,3,2,3
+E0,2017,07apr2018,Stoke,Tottenham,0,3,1,2
+E0,2017,07apr2018,Leicester,Newcastle,0,3,1,2
+E0,2017,07apr2018,Brighton,Huddersfield,1,1,1,1
+E0,2017,07apr2018,Watford,Burnley,0,3,1,2
+E0,2017,07apr2018,West Brom,Swansea,1,1,1,1
+E0,2017,07apr2018,Bournemouth,Crystal Palace,1,1,2,2
+E0,2017,07apr2018,Everton,Liverpool,1,1,0,0
+E0,2017,08apr2018,Chelsea,West Ham,1,1,1,1
+E0,2017,08apr2018,Arsenal,Southampton,3,0,3,2
+E0,2017,14apr2018,Liverpool,Bournemouth,3,0,3,0
+E0,2017,14apr2018,Huddersfield,Watford,3,0,1,0
+E0,2017,14apr2018,Southampton,Chelsea,0,3,2,3
+E0,2017,14apr2018,Burnley,Leicester,3,0,2,1
+E0,2017,14apr2018,Tottenham,Man City,0,3,1,3
+E0,2017,14apr2018,Crystal Palace,Brighton,3,0,3,2
+E0,2017,14apr2018,Swansea,Everton,1,1,1,1
+E0,2017,15apr2018,Man United,West Brom,0,3,0,1
+E0,2017,15apr2018,Newcastle,Arsenal,3,0,2,1
+E0,2017,16apr2018,West Ham,Stoke,1,1,1,1
+E0,2017,17apr2018,Brighton,Tottenham,1,1,1,1
+E0,2017,18apr2018,Bournemouth,Man United,0,3,0,2
+E0,2017,19apr2018,Burnley,Chelsea,0,3,1,2
+E0,2017,19apr2018,Leicester,Southampton,1,1,0,0
+E0,2017,21apr2018,Watford,Crystal Palace,1,1,0,0
+E0,2017,21apr2018,West Brom,Liverpool,1,1,2,2
+E0,2017,22apr2018,Stoke,Burnley,1,1,1,1
+E0,2017,22apr2018,Arsenal,West Ham,3,0,4,1
+E0,2017,22apr2018,Man City,Swansea,3,0,5,0
+E0,2017,23apr2018,Everton,Newcastle,3,0,1,0
+E0,2017,28apr2018,Liverpool,Stoke,1,1,0,0
+E0,2017,28apr2018,Burnley,Brighton,1,1,0,0
+E0,2017,28apr2018,Swansea,Chelsea,0,3,0,1
+E0,2017,28apr2018,Newcastle,West Brom,0,3,0,1
+E0,2017,28apr2018,Huddersfield,Everton,0,3,0,2
+E0,2017,28apr2018,Crystal Palace,Leicester,3,0,5,0
+E0,2017,28apr2018,Southampton,Bournemouth,3,0,2,1
+E0,2017,29apr2018,Man United,Arsenal,3,0,2,1
+E0,2017,29apr2018,West Ham,Man City,0,3,1,4
+E0,2017,30apr2018,Tottenham,Watford,3,0,2,0
+E0,2017,04may2018,Brighton,Man United,3,0,1,0
+E0,2017,05may2018,West Brom,Tottenham,3,0,1,0
+E0,2017,05may2018,Stoke,Crystal Palace,0,3,1,2
+E0,2017,05may2018,Watford,Newcastle,3,0,2,1
+E0,2017,05may2018,Bournemouth,Swansea,3,0,1,0
+E0,2017,05may2018,Everton,Southampton,1,1,1,1
+E0,2017,05may2018,Leicester,West Ham,0,3,0,2
+E0,2017,06may2018,Chelsea,Liverpool,3,0,1,0
+E0,2017,06may2018,Man City,Huddersfield,1,1,0,0
+E0,2017,06may2018,Arsenal,Burnley,3,0,5,0
+E0,2017,08may2018,Swansea,Southampton,0,3,0,1
+E0,2017,09may2018,Man City,Brighton,3,0,3,1
+E0,2017,09may2018,Tottenham,Newcastle,3,0,1,0
+E0,2017,09may2018,Chelsea,Huddersfield,1,1,1,1
+E0,2017,09may2018,Leicester,Arsenal,3,0,3,1
+E0,2017,10may2018,West Ham,Man United,1,1,0,0
+E0,2017,13may2018,Newcastle,Chelsea,3,0,3,0
+E0,2017,13may2018,Southampton,Man City,0,3,0,1
+E0,2017,13may2018,Tottenham,Leicester,3,0,5,4
+E0,2017,13may2018,Crystal Palace,West Brom,3,0,2,0
+E0,2017,13may2018,West Ham,Everton,3,0,3,1
+E0,2017,13may2018,Huddersfield,Arsenal,0,3,0,1
+E0,2017,13may2018,Man United,Watford,3,0,1,0
+E0,2017,13may2018,Swansea,Stoke,0,3,1,2
+E0,2017,13may2018,Burnley,Bournemouth,0,3,1,2
+E0,2017,13may2018,Liverpool,Brighton,3,0,4,0
+E0,2018,10aug2018,Man United,Leicester,3,0,2,1
+E0,2018,11aug2018,Wolves,Everton,1,1,2,2
+E0,2018,11aug2018,Huddersfield,Chelsea,0,3,0,3
+E0,2018,11aug2018,Fulham,Crystal Palace,0,3,0,2
+E0,2018,11aug2018,Newcastle,Tottenham,0,3,1,2
+E0,2018,11aug2018,Bournemouth,Cardiff,3,0,2,0
+E0,2018,11aug2018,Watford,Brighton,3,0,2,0
+E0,2018,12aug2018,Liverpool,West Ham,3,0,4,0
+E0,2018,12aug2018,Southampton,Burnley,1,1,0,0
+E0,2018,12aug2018,Arsenal,Man City,0,3,0,2
+E0,2018,18aug2018,West Ham,Bournemouth,0,3,1,2
+E0,2018,18aug2018,Chelsea,Arsenal,3,0,3,2
+E0,2018,18aug2018,Cardiff,Newcastle,1,1,0,0
+E0,2018,18aug2018,Everton,Southampton,3,0,2,1
+E0,2018,18aug2018,Tottenham,Fulham,3,0,3,1
+E0,2018,18aug2018,Leicester,Wolves,3,0,2,0
+E0,2018,19aug2018,Man City,Huddersfield,3,0,6,1
+E0,2018,19aug2018,Burnley,Watford,0,3,1,3
+E0,2018,19aug2018,Brighton,Man United,3,0,3,2
+E0,2018,20aug2018,Crystal Palace,Liverpool,0,3,0,2
+E0,2018,25aug2018,Arsenal,West Ham,3,0,3,1
+E0,2018,25aug2018,Wolves,Man City,1,1,1,1
+E0,2018,25aug2018,Liverpool,Brighton,3,0,1,0
+E0,2018,25aug2018,Bournemouth,Everton,1,1,2,2
+E0,2018,25aug2018,Southampton,Leicester,0,3,1,2
+E0,2018,25aug2018,Huddersfield,Cardiff,1,1,0,0
+E0,2018,26aug2018,Watford,Crystal Palace,3,0,2,1
+E0,2018,26aug2018,Newcastle,Chelsea,0,3,1,2
+E0,2018,26aug2018,Fulham,Burnley,3,0,4,2
+E0,2018,27aug2018,Man United,Tottenham,0,3,0,3
+E0,2018,01sep2018,West Ham,Wolves,0,3,0,1
+E0,2018,01sep2018,Brighton,Fulham,1,1,2,2
+E0,2018,01sep2018,Everton,Huddersfield,1,1,1,1
+E0,2018,01sep2018,Leicester,Liverpool,0,3,1,2
+E0,2018,01sep2018,Chelsea,Bournemouth,3,0,2,0
+E0,2018,01sep2018,Crystal Palace,Southampton,0,3,0,2
+E0,2018,01sep2018,Man City,Newcastle,3,0,2,1
+E0,2018,02sep2018,Cardiff,Arsenal,0,3,2,3
+E0,2018,02sep2018,Watford,Tottenham,3,0,2,1
+E0,2018,02sep2018,Burnley,Man United,0,3,0,2
+E0,2018,15sep2018,Chelsea,Cardiff,3,0,4,1
+E0,2018,15sep2018,Huddersfield,Crystal Palace,0,3,0,1
+E0,2018,15sep2018,Tottenham,Liverpool,0,3,1,2
+E0,2018,15sep2018,Bournemouth,Leicester,3,0,4,2
+E0,2018,15sep2018,Newcastle,Arsenal,0,3,1,2
+E0,2018,15sep2018,Man City,Fulham,3,0,3,0
+E0,2018,15sep2018,Watford,Man United,0,3,1,2
+E0,2018,16sep2018,Everton,West Ham,0,3,1,3
+E0,2018,16sep2018,Wolves,Burnley,3,0,1,0
+E0,2018,17sep2018,Southampton,Brighton,1,1,2,2
+E0,2018,22sep2018,Burnley,Bournemouth,3,0,4,0
+E0,2018,22sep2018,Brighton,Tottenham,0,3,1,2
+E0,2018,22sep2018,Leicester,Huddersfield,3,0,3,1
+E0,2018,22sep2018,Crystal Palace,Newcastle,1,1,0,0
+E0,2018,22sep2018,Man United,Wolves,1,1,1,1
+E0,2018,22sep2018,Fulham,Watford,1,1,1,1
+E0,2018,22sep2018,Cardiff,Man City,0,3,0,5
+E0,2018,22sep2018,Liverpool,Southampton,3,0,3,0
+E0,2018,23sep2018,West Ham,Chelsea,1,1,0,0
+E0,2018,23sep2018,Arsenal,Everton,3,0,2,0
+E0,2018,29sep2018,Chelsea,Liverpool,1,1,1,1
+E0,2018,29sep2018,Huddersfield,Tottenham,0,3,0,2
+E0,2018,29sep2018,Wolves,Southampton,3,0,2,0
+E0,2018,29sep2018,Arsenal,Watford,3,0,2,0
+E0,2018,29sep2018,Everton,Fulham,3,0,3,0
+E0,2018,29sep2018,West Ham,Man United,3,0,3,1
+E0,2018,29sep2018,Man City,Brighton,3,0,2,0
+E0,2018,29sep2018,Newcastle,Leicester,0,3,0,2
+E0,2018,30sep2018,Cardiff,Burnley,0,3,1,2
+E0,2018,01oct2018,Bournemouth,Crystal Palace,3,0,2,1
+E0,2018,05oct2018,Brighton,West Ham,3,0,1,0
+E0,2018,06oct2018,Burnley,Huddersfield,1,1,1,1
+E0,2018,06oct2018,Leicester,Everton,0,3,1,2
+E0,2018,06oct2018,Man United,Newcastle,3,0,3,2
+E0,2018,06oct2018,Crystal Palace,Wolves,0,3,0,1
+E0,2018,06oct2018,Tottenham,Cardiff,3,0,1,0
+E0,2018,06oct2018,Watford,Bournemouth,0,3,0,4
+E0,2018,07oct2018,Liverpool,Man City,1,1,0,0
+E0,2018,07oct2018,Fulham,Arsenal,0,3,1,5
+E0,2018,07oct2018,Southampton,Chelsea,0,3,0,3
+E0,2018,20oct2018,Wolves,Watford,0,3,0,2
+E0,2018,20oct2018,Bournemouth,Southampton,1,1,0,0
+E0,2018,20oct2018,Chelsea,Man United,1,1,2,2
+E0,2018,20oct2018,Newcastle,Brighton,0,3,0,1
+E0,2018,20oct2018,Man City,Burnley,3,0,5,0
+E0,2018,20oct2018,West Ham,Tottenham,0,3,0,1
+E0,2018,20oct2018,Cardiff,Fulham,3,0,4,2
+E0,2018,20oct2018,Huddersfield,Liverpool,0,3,0,1
+E0,2018,21oct2018,Everton,Crystal Palace,3,0,2,0
+E0,2018,22oct2018,Arsenal,Leicester,3,0,3,1
+E0,2018,27oct2018,Watford,Huddersfield,3,0,3,0
+E0,2018,27oct2018,Brighton,Wolves,3,0,1,0
+E0,2018,27oct2018,Southampton,Newcastle,1,1,0,0
+E0,2018,27oct2018,Fulham,Bournemouth,0,3,0,3
+E0,2018,27oct2018,Liverpool,Cardiff,3,0,4,1
+E0,2018,27oct2018,Leicester,West Ham,1,1,1,1
+E0,2018,28oct2018,Man United,Everton,3,0,2,1
+E0,2018,28oct2018,Crystal Palace,Arsenal,1,1,2,2
+E0,2018,28oct2018,Burnley,Chelsea,0,3,0,4
+E0,2018,29oct2018,Tottenham,Man City,0,3,0,1
+E0,2018,03nov2018,Bournemouth,Man United,0,3,1,2
+E0,2018,03nov2018,Cardiff,Leicester,0,3,0,1
+E0,2018,03nov2018,West Ham,Burnley,3,0,4,2
+E0,2018,03nov2018,Newcastle,Watford,3,0,1,0
+E0,2018,03nov2018,Wolves,Tottenham,0,3,2,3
+E0,2018,03nov2018,Everton,Brighton,3,0,3,1
+E0,2018,03nov2018,Arsenal,Liverpool,1,1,1,1
+E0,2018,04nov2018,Chelsea,Crystal Palace,3,0,3,1
+E0,2018,04nov2018,Man City,Southampton,3,0,6,1
+E0,2018,05nov2018,Huddersfield,Fulham,3,0,1,0
+E0,2018,10nov2018,Leicester,Burnley,1,1,0,0
+E0,2018,10nov2018,Newcastle,Bournemouth,3,0,2,1
+E0,2018,10nov2018,Cardiff,Brighton,3,0,2,1
+E0,2018,10nov2018,Crystal Palace,Tottenham,0,3,0,1
+E0,2018,10nov2018,Huddersfield,West Ham,1,1,1,1
+E0,2018,10nov2018,Southampton,Watford,1,1,1,1
+E0,2018,11nov2018,Chelsea,Everton,1,1,0,0
+E0,2018,11nov2018,Arsenal,Wolves,1,1,1,1
+E0,2018,11nov2018,Liverpool,Fulham,3,0,2,0
+E0,2018,11nov2018,Man City,Man United,3,0,3,1
+E0,2018,24nov2018,Man United,Crystal Palace,1,1,0,0
+E0,2018,24nov2018,West Ham,Man City,0,3,0,4
+E0,2018,24nov2018,Everton,Cardiff,3,0,1,0
+E0,2018,24nov2018,Brighton,Leicester,1,1,1,1
+E0,2018,24nov2018,Tottenham,Chelsea,3,0,3,1
+E0,2018,24nov2018,Watford,Liverpool,0,3,0,3
+E0,2018,24nov2018,Fulham,Southampton,3,0,3,2
+E0,2018,25nov2018,Bournemouth,Arsenal,0,3,1,2
+E0,2018,25nov2018,Wolves,Huddersfield,0,3,0,2
+E0,2018,26nov2018,Burnley,Newcastle,0,3,1,2
+E0,2018,30nov2018,Cardiff,Wolves,3,0,2,1
+E0,2018,01dec2018,Huddersfield,Brighton,0,3,1,2
+E0,2018,01dec2018,Man City,Bournemouth,3,0,3,1
+E0,2018,01dec2018,Newcastle,West Ham,0,3,0,3
+E0,2018,01dec2018,Southampton,Man United,1,1,2,2
+E0,2018,01dec2018,Crystal Palace,Burnley,3,0,2,0
+E0,2018,01dec2018,Leicester,Watford,3,0,2,0
+E0,2018,02dec2018,Chelsea,Fulham,3,0,2,0
+E0,2018,02dec2018,Liverpool,Everton,3,0,1,0
+E0,2018,02dec2018,Arsenal,Tottenham,3,0,4,2
+E0,2018,04dec2018,Bournemouth,Huddersfield,3,0,2,1
+E0,2018,04dec2018,Brighton,Crystal Palace,3,0,3,1
+E0,2018,04dec2018,Watford,Man City,0,3,1,2
+E0,2018,04dec2018,West Ham,Cardiff,3,0,3,1
+E0,2018,05dec2018,Man United,Arsenal,1,1,2,2
+E0,2018,05dec2018,Wolves,Chelsea,3,0,2,1
+E0,2018,05dec2018,Fulham,Leicester,1,1,1,1
+E0,2018,05dec2018,Everton,Newcastle,1,1,1,1
+E0,2018,05dec2018,Burnley,Liverpool,0,3,1,3
+E0,2018,05dec2018,Tottenham,Southampton,3,0,3,1
+E0,2018,08dec2018,Arsenal,Huddersfield,3,0,1,0
+E0,2018,08dec2018,Cardiff,Southampton,3,0,1,0
+E0,2018,08dec2018,Bournemouth,Liverpool,0,3,0,4
+E0,2018,08dec2018,Man United,Fulham,3,0,4,1
+E0,2018,08dec2018,Leicester,Tottenham,0,3,0,2
+E0,2018,08dec2018,Chelsea,Man City,3,0,2,0
+E0,2018,08dec2018,Burnley,Brighton,3,0,1,0
+E0,2018,08dec2018,West Ham,Crystal Palace,3,0,3,2
+E0,2018,09dec2018,Newcastle,Wolves,0,3,1,2
+E0,2018,10dec2018,Everton,Watford,1,1,2,2
+E0,2018,15dec2018,Tottenham,Burnley,3,0,1,0
+E0,2018,15dec2018,Huddersfield,Newcastle,0,3,0,1
+E0,2018,15dec2018,Wolves,Bournemouth,3,0,2,0
+E0,2018,15dec2018,Watford,Cardiff,3,0,3,2
+E0,2018,15dec2018,Crystal Palace,Leicester,3,0,1,0
+E0,2018,15dec2018,Man City,Everton,3,0,3,1
+E0,2018,15dec2018,Fulham,West Ham,0,3,0,2
+E0,2018,16dec2018,Liverpool,Man United,3,0,3,1
+E0,2018,16dec2018,Southampton,Arsenal,3,0,3,2
+E0,2018,16dec2018,Brighton,Chelsea,0,3,1,2
+E0,2018,21dec2018,Wolves,Liverpool,0,3,0,2
+E0,2018,22dec2018,Cardiff,Man United,0,3,1,5
+E0,2018,22dec2018,Newcastle,Fulham,1,1,0,0
+E0,2018,22dec2018,Man City,Crystal Palace,0,3,2,3
+E0,2018,22dec2018,Huddersfield,Southampton,0,3,1,3
+E0,2018,22dec2018,Bournemouth,Brighton,3,0,2,0
+E0,2018,22dec2018,Chelsea,Leicester,0,3,0,1
+E0,2018,22dec2018,West Ham,Watford,0,3,0,2
+E0,2018,22dec2018,Arsenal,Burnley,3,0,3,1
+E0,2018,23dec2018,Everton,Tottenham,0,3,2,6
+E0,2018,26dec2018,Brighton,Arsenal,1,1,1,1
+E0,2018,26dec2018,Leicester,Man City,3,0,2,1
+E0,2018,26dec2018,Watford,Chelsea,0,3,1,2
+E0,2018,26dec2018,Man United,Huddersfield,3,0,3,1
+E0,2018,26dec2018,Crystal Palace,Cardiff,1,1,0,0
+E0,2018,26dec2018,Tottenham,Bournemouth,3,0,5,0
+E0,2018,26dec2018,Fulham,Wolves,1,1,1,1
+E0,2018,26dec2018,Liverpool,Newcastle,3,0,4,0
+E0,2018,26dec2018,Burnley,Everton,0,3,1,5
+E0,2018,27dec2018,Southampton,West Ham,0,3,1,2
+E0,2018,29dec2018,Fulham,Huddersfield,3,0,1,0
+E0,2018,29dec2018,Liverpool,Arsenal,3,0,5,1
+E0,2018,29dec2018,Watford,Newcastle,1,1,1,1
+E0,2018,29dec2018,Brighton,Everton,3,0,1,0
+E0,2018,29dec2018,Leicester,Cardiff,0,3,0,1
+E0,2018,29dec2018,Tottenham,Wolves,0,3,1,3
+E0,2018,30dec2018,Man United,Bournemouth,3,0,4,1
+E0,2018,30dec2018,Crystal Palace,Chelsea,0,3,0,1
+E0,2018,30dec2018,Burnley,West Ham,3,0,2,0
+E0,2018,30dec2018,Southampton,Man City,0,3,1,3
+E0,2018,01jan2019,Arsenal,Fulham,3,0,4,1
+E0,2018,01jan2019,Everton,Leicester,0,3,0,1
+E0,2018,01jan2019,Cardiff,Tottenham,0,3,0,3
+E0,2018,02jan2019,Wolves,Crystal Palace,0,3,0,2
+E0,2018,02jan2019,Chelsea,Southampton,1,1,0,0
+E0,2018,02jan2019,Huddersfield,Burnley,0,3,1,2
+E0,2018,02jan2019,Newcastle,Man United,0,3,0,2
+E0,2018,02jan2019,Bournemouth,Watford,1,1,3,3
+E0,2018,02jan2019,West Ham,Brighton,1,1,2,2
+E0,2018,03jan2019,Man City,Liverpool,3,0,2,1
+E0,2018,12jan2019,Brighton,Liverpool,0,3,0,1
+E0,2018,12jan2019,Burnley,Fulham,3,0,2,1
+E0,2018,12jan2019,Crystal Palace,Watford,0,3,1,2
+E0,2018,12jan2019,Cardiff,Huddersfield,1,1,0,0
+E0,2018,12jan2019,Leicester,Southampton,0,3,1,2
+E0,2018,12jan2019,Chelsea,Newcastle,3,0,2,1
+E0,2018,12jan2019,West Ham,Arsenal,3,0,1,0
+E0,2018,13jan2019,Everton,Bournemouth,3,0,2,0
+E0,2018,13jan2019,Tottenham,Man United,0,3,0,1
+E0,2018,14jan2019,Man City,Wolves,3,0,3,0
+E0,2018,19jan2019,Wolves,Leicester,3,0,4,3
+E0,2018,19jan2019,Liverpool,Crystal Palace,3,0,4,3
+E0,2018,19jan2019,Man United,Brighton,3,0,2,1
+E0,2018,19jan2019,Arsenal,Chelsea,3,0,2,0
+E0,2018,19jan2019,Newcastle,Cardiff,3,0,3,0
+E0,2018,19jan2019,Watford,Burnley,1,1,0,0
+E0,2018,19jan2019,Southampton,Everton,3,0,2,1
+E0,2018,19jan2019,Bournemouth,West Ham,3,0,2,0
+E0,2018,20jan2019,Huddersfield,Man City,0,3,0,3
+E0,2018,20jan2019,Fulham,Tottenham,0,3,1,2
+E0,2018,29jan2019,Wolves,West Ham,3,0,3,0
+E0,2018,29jan2019,Newcastle,Man City,3,0,2,1
+E0,2018,29jan2019,Huddersfield,Everton,0,3,0,1
+E0,2018,29jan2019,Man United,Burnley,1,1,2,2
+E0,2018,29jan2019,Fulham,Brighton,3,0,4,2
+E0,2018,29jan2019,Arsenal,Cardiff,3,0,2,1
+E0,2018,30jan2019,Liverpool,Leicester,1,1,1,1
+E0,2018,30jan2019,Southampton,Crystal Palace,1,1,1,1
+E0,2018,30jan2019,Tottenham,Watford,3,0,2,1
+E0,2018,30jan2019,Bournemouth,Chelsea,3,0,4,0
+E0,2018,02feb2019,Everton,Wolves,0,3,1,3
+E0,2018,02feb2019,Burnley,Southampton,1,1,1,1
+E0,2018,02feb2019,Tottenham,Newcastle,3,0,1,0
+E0,2018,02feb2019,Crystal Palace,Fulham,3,0,2,0
+E0,2018,02feb2019,Brighton,Watford,1,1,0,0
+E0,2018,02feb2019,Chelsea,Huddersfield,3,0,5,0
+E0,2018,02feb2019,Cardiff,Bournemouth,3,0,2,0
+E0,2018,03feb2019,Leicester,Man United,0,3,0,1
+E0,2018,03feb2019,Man City,Arsenal,3,0,3,1
+E0,2018,04feb2019,West Ham,Liverpool,1,1,1,1
+E0,2018,06feb2019,Everton,Man City,0,3,0,2
+E0,2018,09feb2019,Crystal Palace,West Ham,1,1,1,1
+E0,2018,09feb2019,Huddersfield,Arsenal,0,3,1,2
+E0,2018,09feb2019,Watford,Everton,3,0,1,0
+E0,2018,09feb2019,Brighton,Burnley,0,3,1,3
+E0,2018,09feb2019,Liverpool,Bournemouth,3,0,3,0
+E0,2018,09feb2019,Southampton,Cardiff,0,3,1,2
+E0,2018,09feb2019,Fulham,Man United,0,3,0,3
+E0,2018,10feb2019,Man City,Chelsea,3,0,6,0
+E0,2018,10feb2019,Tottenham,Leicester,3,0,3,1
+E0,2018,11feb2019,Wolves,Newcastle,1,1,1,1
+E0,2018,22feb2019,West Ham,Fulham,3,0,3,1
+E0,2018,22feb2019,Cardiff,Watford,0,3,1,5
+E0,2018,23feb2019,Newcastle,Huddersfield,3,0,2,0
+E0,2018,23feb2019,Leicester,Crystal Palace,0,3,1,4
+E0,2018,23feb2019,Burnley,Tottenham,3,0,2,1
+E0,2018,23feb2019,Bournemouth,Wolves,1,1,1,1
+E0,2018,24feb2019,Man United,Liverpool,1,1,0,0
+E0,2018,24feb2019,Arsenal,Southampton,3,0,2,0
+E0,2018,26feb2019,Newcastle,Burnley,3,0,2,0
+E0,2018,26feb2019,Leicester,Brighton,3,0,2,1
+E0,2018,26feb2019,Cardiff,Everton,0,3,0,3
+E0,2018,26feb2019,Huddersfield,Wolves,3,0,1,0
+E0,2018,27feb2019,Southampton,Fulham,3,0,2,0
+E0,2018,27feb2019,Man City,West Ham,3,0,1,0
+E0,2018,27feb2019,Liverpool,Watford,3,0,5,0
+E0,2018,27feb2019,Crystal Palace,Man United,0,3,1,3
+E0,2018,27feb2019,Arsenal,Bournemouth,3,0,5,1
+E0,2018,27feb2019,Chelsea,Tottenham,3,0,2,0
+E0,2018,02mar2019,Tottenham,Arsenal,1,1,1,1
+E0,2018,02mar2019,Man United,Southampton,3,0,3,2
+E0,2018,02mar2019,West Ham,Newcastle,3,0,2,0
+E0,2018,02mar2019,Bournemouth,Man City,0,3,0,1
+E0,2018,02mar2019,Burnley,Crystal Palace,0,3,1,3
+E0,2018,02mar2019,Brighton,Huddersfield,3,0,1,0
+E0,2018,02mar2019,Wolves,Cardiff,3,0,2,0
+E0,2018,03mar2019,Watford,Leicester,3,0,2,1
+E0,2018,03mar2019,Fulham,Chelsea,0,3,1,2
+E0,2018,03mar2019,Everton,Liverpool,1,1,0,0
+E0,2018,09mar2019,Crystal Palace,Brighton,0,3,1,2
+E0,2018,09mar2019,Leicester,Fulham,3,0,3,1
+E0,2018,09mar2019,Newcastle,Everton,3,0,3,2
+E0,2018,09mar2019,Southampton,Tottenham,3,0,2,1
+E0,2018,09mar2019,Cardiff,West Ham,3,0,2,0
+E0,2018,09mar2019,Huddersfield,Bournemouth,0,3,0,2
+E0,2018,09mar2019,Man City,Watford,3,0,3,1
+E0,2018,10mar2019,Arsenal,Man United,3,0,2,0
+E0,2018,10mar2019,Chelsea,Wolves,1,1,1,1
+E0,2018,10mar2019,Liverpool,Burnley,3,0,4,2
+E0,2018,16mar2019,West Ham,Huddersfield,3,0,4,3
+E0,2018,16mar2019,Bournemouth,Newcastle,1,1,2,2
+E0,2018,16mar2019,Burnley,Leicester,0,3,1,2
+E0,2018,17mar2019,Everton,Chelsea,3,0,2,0
+E0,2018,17mar2019,Fulham,Liverpool,0,3,1,2
+E0,2018,30mar2019,Burnley,Wolves,3,0,2,0
+E0,2018,30mar2019,West Ham,Everton,0,3,0,2
+E0,2018,30mar2019,Leicester,Bournemouth,3,0,2,0
+E0,2018,30mar2019,Man United,Watford,3,0,2,1
+E0,2018,30mar2019,Fulham,Man City,0,3,0,2
+E0,2018,30mar2019,Crystal Palace,Huddersfield,3,0,2,0
+E0,2018,30mar2019,Brighton,Southampton,0,3,0,1
+E0,2018,31mar2019,Cardiff,Chelsea,0,3,1,2
+E0,2018,31mar2019,Liverpool,Tottenham,3,0,2,1
+E0,2018,01apr2019,Arsenal,Newcastle,3,0,2,0
+E0,2018,02apr2019,Watford,Fulham,3,0,4,1
+E0,2018,02apr2019,Wolves,Man United,3,0,2,1
+E0,2018,03apr2019,Tottenham,Crystal Palace,3,0,2,0
+E0,2018,03apr2019,Chelsea,Brighton,3,0,3,0
+E0,2018,03apr2019,Man City,Cardiff,3,0,2,0
+E0,2018,05apr2019,Southampton,Liverpool,0,3,1,3
+E0,2018,06apr2019,Huddersfield,Leicester,0,3,1,4
+E0,2018,06apr2019,Bournemouth,Burnley,0,3,1,3
+E0,2018,06apr2019,Newcastle,Crystal Palace,0,3,0,1
+E0,2018,07apr2019,Everton,Arsenal,3,0,1,0
+E0,2018,08apr2019,Chelsea,West Ham,3,0,2,0
+E0,2018,12apr2019,Leicester,Newcastle,0,3,0,1
+E0,2018,13apr2019,Southampton,Wolves,3,0,3,1
+E0,2018,13apr2019,Tottenham,Huddersfield,3,0,4,0
+E0,2018,13apr2019,Man United,West Ham,3,0,2,1
+E0,2018,13apr2019,Burnley,Cardiff,3,0,2,0
+E0,2018,13apr2019,Brighton,Bournemouth,0,3,0,5
+E0,2018,13apr2019,Fulham,Everton,3,0,2,0
+E0,2018,14apr2019,Crystal Palace,Man City,0,3,1,3
+E0,2018,14apr2019,Liverpool,Chelsea,3,0,2,0
+E0,2018,15apr2019,Watford,Arsenal,0,3,0,1
+E0,2018,16apr2019,Brighton,Cardiff,0,3,0,2
+E0,2018,20apr2019,Newcastle,Southampton,3,0,3,1
+E0,2018,20apr2019,West Ham,Leicester,1,1,2,2
+E0,2018,20apr2019,Huddersfield,Watford,0,3,1,2
+E0,2018,20apr2019,Wolves,Brighton,1,1,0,0
+E0,2018,20apr2019,Bournemouth,Fulham,0,3,0,1
+E0,2018,20apr2019,Man City,Tottenham,3,0,1,0
+E0,2018,21apr2019,Arsenal,Crystal Palace,0,3,2,3
+E0,2018,21apr2019,Cardiff,Liverpool,0,3,0,2
+E0,2018,21apr2019,Everton,Man United,3,0,4,0
+E0,2018,22apr2019,Chelsea,Burnley,1,1,2,2
+E0,2018,23apr2019,Tottenham,Brighton,3,0,1,0
+E0,2018,23apr2019,Watford,Southampton,1,1,1,1
+E0,2018,24apr2019,Wolves,Arsenal,3,0,3,1
+E0,2018,24apr2019,Man United,Man City,0,3,0,2
+E0,2018,26apr2019,Liverpool,Huddersfield,3,0,5,0
+E0,2018,27apr2019,Crystal Palace,Everton,1,1,0,0
+E0,2018,27apr2019,Southampton,Bournemouth,1,1,3,3
+E0,2018,27apr2019,Fulham,Cardiff,3,0,1,0
+E0,2018,27apr2019,Brighton,Newcastle,1,1,1,1
+E0,2018,27apr2019,Watford,Wolves,0,3,1,2
+E0,2018,27apr2019,Tottenham,West Ham,0,3,0,1
+E0,2018,28apr2019,Man United,Chelsea,1,1,1,1
+E0,2018,28apr2019,Burnley,Man City,0,3,0,1
+E0,2018,28apr2019,Leicester,Arsenal,3,0,3,0
+E0,2018,03may2019,Everton,Burnley,3,0,2,0
+E0,2018,04may2019,Newcastle,Liverpool,0,3,2,3
+E0,2018,04may2019,Cardiff,Crystal Palace,0,3,2,3
+E0,2018,04may2019,Bournemouth,Tottenham,3,0,1,0
+E0,2018,04may2019,Wolves,Fulham,3,0,1,0
+E0,2018,04may2019,West Ham,Southampton,3,0,3,0
+E0,2018,05may2019,Chelsea,Watford,3,0,3,0
+E0,2018,05may2019,Arsenal,Brighton,1,1,1,1
+E0,2018,05may2019,Huddersfield,Man United,1,1,1,1
+E0,2018,06may2019,Man City,Leicester,3,0,1,0
+E0,2018,12may2019,Leicester,Chelsea,1,1,0,0
+E0,2018,12may2019,Fulham,Newcastle,0,3,0,4
+E0,2018,12may2019,Crystal Palace,Bournemouth,3,0,5,3
+E0,2018,12may2019,Brighton,Man City,0,3,1,4
+E0,2018,12may2019,Man United,Cardiff,0,3,0,2
+E0,2018,12may2019,Burnley,Arsenal,0,3,1,3
+E0,2018,12may2019,Tottenham,Everton,1,1,2,2
+E0,2018,12may2019,Liverpool,Wolves,3,0,2,0
+E0,2018,12may2019,Southampton,Huddersfield,1,1,1,1
+E0,2018,12may2019,Watford,West Ham,0,3,1,4

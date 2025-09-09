@@ -1,0 +1,396 @@
+manager_id,manager_name,club,caretaker,date_from,date_until,nat,league,flag_inoffice
+George Graham,George Graham,Arsenal,0,14may1986,21feb1995,Scotland,EPL,0
+Stewart Houston,Stewart Houston,Arsenal,1,22feb1995,08jun1995,Scotland,EPL,0
+Bruce Rioch,Bruce Rioch,Arsenal,0,08jun1995,12aug1996,Scotland,EPL,0
+Stewart Houston,Stewart Houston,Arsenal,1,12aug1996,13sep1996,Scotland,EPL,0
+Pat Rice,Pat Rice,Arsenal,1,13sep1996,30sep1996,Northern Ireland,EPL,0
+Arsène Wenger,Arsène Wenger,Arsenal,0,01oct1996,13may2018,France,EPL,0
+Unai Emery,Unai Emery,Arsenal,0,23may2018,01jul2019,Spain,EPL,1
+Ron Atkinson,Ron Atkinson,Aston Villa,0,07jun1991,10nov1994,England,EPL,0
+Brian Little,Brian Little,Aston Villa,0,25nov1994,24feb1998,England,EPL,0
+John Gregory,John Gregory,Aston Villa,0,25feb1998,24jan2002,England,EPL,0
+John Deehan,John Deehan,Aston Villa,1,24jan2002,05feb2002,England,EPL,0
+Stuart Gray,Stuart Gray,Aston Villa,1,24jan2002,05feb2002,England,EPL,0
+Graham Taylor,Graham Taylor,Aston Villa,0,05feb2002,14may2003,England,EPL,0
+David O'Leary,David O'Leary,Aston Villa,0,20may2003,19jul2006,Republic of Ireland,EPL,0
+Martin O'Neill,Martin O'Neill,Aston Villa,0,05aug2006,09aug2010,Northern Ireland,EPL,0
+Kevin MacDonald,Kevin MacDonald,Aston Villa,1,09aug2010,08sep2010,Scotland,EPL,0
+Gérard Houllier,Gérard Houllier,Aston Villa,0,08sep2010,01jun2011,France,EPL,0
+Gary McAllister,Gary McAllister,Aston Villa,1,23apr2011,22may2011,Scotland,EPL,0
+Alex McLeish,Alex McLeish,Aston Villa,0,17jun2011,14may2012,Scotland,EPL,0
+Paul Lambert,Paul Lambert,Aston Villa,0,02jun2012,11feb2015,Scotland,EPL,0
+Scott Marshall,Scott Marshall,Aston Villa,1,11feb2015,14feb2015,Scotland,EPL,0
+Tim Sherwood,Tim Sherwood,Aston Villa,0,14feb2015,25oct2015,England,EPL,0
+Kevin MacDonald,Kevin MacDonald,Aston Villa,1,25oct2015,02nov2015,Scotland,EPL,0
+Rémi Garde,Rémi Garde,Aston Villa,0,02nov2015,29mar2016,France,EPL,0
+Eric Black,Eric Black,Aston Villa,1,29mar2016,02jun2016,Scotland,EPL,0
+Dean Smith,Dean Smith,Aston Villa,0,10oct2018,01jul2019,England,EPL,1
+Danny Wilson,Danny Wilson,Barnsley,0,02jun1994,07jul1998,Northern Ireland,EPL,0
+Steve Bruce,Steve Bruce,Birmingham City,0,12dec2001,23nov2007,England,EPL,0
+Eric Black,Eric Black,Birmingham City,1,23nov2007,27nov2007,Scotland,EPL,0
+Alex McLeish,Alex McLeish,Birmingham City,0,28nov2007,12jun2011,Scotland,EPL,0
+Kenny Dalglish,Kenny Dalglish,Blackburn Rovers,0,12oct1991,21jun1995,Scotland,EPL,0
+Ray Harford,Ray Harford,Blackburn Rovers,0,25jun1995,25oct1996,England,EPL,0
+Tony Parkes,Tony Parkes,Blackburn Rovers,0,25oct1996,01jun1997,England,EPL,0
+Roy Hodgson,Roy Hodgson,Blackburn Rovers,0,01jun1997,21nov1998,England,EPL,0
+Brian Kidd,Brian Kidd,Blackburn Rovers,0,04dec1998,03nov1999,England,EPL,0
+Graeme Souness,Graeme Souness,Blackburn Rovers,0,14mar2000,06sep2004,Scotland,EPL,0
+Mark Hughes,Mark Hughes,Blackburn Rovers,0,15sep2004,03jun2008,Wales,EPL,0
+Paul Ince,Paul Ince,Blackburn Rovers,0,22jun2008,16dec2008,England,EPL,0
+Sam Allardyce,Sam Allardyce,Blackburn Rovers,0,17dec2008,13dec2010,England,EPL,0
+Steve Kean,Steve Kean,Blackburn Rovers,0,13dec2010,28sep2012,Scotland,EPL,0
+Ian Holloway,Ian Holloway,Blackpool,0,21may2009,03nov2012,England,EPL,0
+Roy McFarland,Roy McFarland,Bolton Wanderers,0,20jun1995,02jan1996,England,EPL,0
+Colin Todd,Colin Todd,Bolton Wanderers,0,02jan1996,22sep1999,England,EPL,0
+Sam Allardyce,Sam Allardyce,Bolton Wanderers,0,19oct1999,29apr2007,England,EPL,0
+Sammy Lee,Sammy Lee,Bolton Wanderers,0,30apr2007,07oct2007,England,EPL,0
+Archie Knox,Archie Knox,Bolton Wanderers,1,17oct2007,25oct2007,Scotland,EPL,0
+Gary Megson,Gary Megson,Bolton Wanderers,0,25oct2007,30dec2009,England,EPL,0
+Owen Coyle,Owen Coyle,Bolton Wanderers,0,08jan2010,09oct2012,Republic of Ireland,EPL,0
+Eddie Howe,Eddie Howe,Bournemouth,0,12oct2012,01jul2019,England,EPL,1
+Paul Jewell,Paul Jewell,Bradford City,0,06jan1998,18jun2000,England,EPL,0
+Chris Hutchings,Chris Hutchings,Bradford City,0,18jun2000,06nov2000,England,EPL,0
+Stuart McCall,Stuart McCall,Bradford City,1,06nov2000,20nov2000,Scotland,EPL,0
+Jim Jefferies,Jim Jefferies,Bradford City,0,20nov2000,24dec2001,Scotland,EPL,0
+Chris Hughton,Chris Hughton,Brighton & Hove Albion,0,31dec2014,13may2019,Republic of Ireland,EPL,0
+Graham Potter,Graham Potter,Brighton & Hove Albion,0,20may2019,01jul2019,England,EPL,1
+Owen Coyle,Owen Coyle,Burnley,0,27nov2007,05jan2010,Republic of Ireland,EPL,0
+Brian Laws,Brian Laws,Burnley,0,13jan2010,29dec2010,England,EPL,0
+Sean Dyche,Sean Dyche,Burnley,0,30oct2012,01jul2019,England,EPL,1
+Malky Mackay,Malky Mackay,Cardiff City,0,17jun2011,27dec2013,Scotland,EPL,0
+David Kerslake,David Kerslake,Cardiff City,1,27dec2013,02jan2014,England,EPL,0
+Ole Gunnar Solskjær,Ole Gunnar Solskjær,Cardiff City,0,02jan2014,18sep2014,Norway,EPL,0
+Neil Warnock,Neil Warnock,Cardiff City,0,05oct2016,01jul2019,England,EPL,1
+Alan Curbishley,Alan Curbishley,Charlton Athletic,0,24jul1991,08may2006,England,EPL,0
+Iain Dowie,Iain Dowie,Charlton Athletic,0,30may2006,13nov2006,Northern Ireland,EPL,0
+Les Reed,Les Reed,Charlton Athletic,0,14nov2006,24dec2006,England,EPL,0
+Alan Pardew,Alan Pardew,Charlton Athletic,0,24dec2006,22nov2008,England,EPL,0
+Ian Porterfield,Ian Porterfield,Chelsea,0,11jun1991,15feb1993,Scotland,EPL,0
+David Webb,David Webb,Chelsea,1,15feb1993,11may1993,England,EPL,0
+Glenn Hoddle,Glenn Hoddle,Chelsea,0,04jun1993,10may1996,England,EPL,0
+Ruud Gullit,Ruud Gullit,Chelsea,0,10may1996,12feb1998,Netherlands,EPL,0
+Gianluca Vialli,Gianluca Vialli,Chelsea,0,12feb1998,12sep2000,Italy,EPL,0
+Graham Rix,Graham Rix,Chelsea,1,13sep2000,17sep2000,England,EPL,0
+Ray Wilkins,Ray Wilkins,Chelsea,1,13sep2000,17sep2000,England,EPL,0
+Claudio Ranieri,Claudio Ranieri,Chelsea,0,18sep2000,31may2004,Italy,EPL,0
+José Mourinho,José Mourinho,Chelsea,0,02jun2004,20sep2007,Portugal,EPL,0
+Avram Grant,Avram Grant,Chelsea,0,20sep2007,24may2008,Israel,EPL,0
+Luiz Felipe Scolari,Luiz Felipe Scolari,Chelsea,0,01jul2008,09feb2009,Brazil,EPL,0
+Ray Wilkins,Ray Wilkins,Chelsea,1,09feb2009,16feb2009,England,EPL,0
+Guus Hiddink,Guus Hiddink,Chelsea,1,16feb2009,31may2009,Netherlands,EPL,0
+Carlo Ancelotti,Carlo Ancelotti,Chelsea,0,01jul2009,22may2011,Italy,EPL,0
+André Villas-Boas,André Villas-Boas,Chelsea,0,22jun2011,04mar2012,Portugal,EPL,0
+Roberto Di Matteo,Roberto Di Matteo,Chelsea,0,04mar2012,21nov2012,Italy,EPL,0
+Rafael Benítez,Rafael Benítez,Chelsea,1,21nov2012,27may2013,Spain,EPL,0
+José Mourinho,José Mourinho,Chelsea,0,03jun2013,17dec2015,Portugal,EPL,0
+Guus Hiddink,Guus Hiddink,Chelsea,1,19dec2015,15may2016,Netherlands,EPL,0
+Antonio Conte,Antonio Conte,Chelsea,0,03jul2016,13jul2018,Italy,EPL,0
+Maurizio Sarri,Maurizio Sarri,Chelsea,0,14jul2018,16jun2019,Italy,EPL,0
+Bobby Gould,Bobby Gould,Coventry City,0,24jun1992,23oct1993,England,EPL,0
+Phil Neal,Phil Neal,Coventry City,0,23oct1993,14feb1995,England,EPL,0
+Ron Atkinson,Ron Atkinson,Coventry City,0,15feb1995,05nov1996,England,EPL,0
+Gordon Strachan,Gordon Strachan,Coventry City,0,05nov1996,10sep2001,Scotland,EPL,0
+Steve Coppell,Steve Coppell,Crystal Palace,0,03jun1984,17may1993,England,EPL,0
+Alan Smith,Alan Smith,Crystal Palace,0,03jun1993,15may1995,England,EPL,0
+Steve Coppell,Steve Coppell,Crystal Palace,0,27feb1997,13mar1998,England,EPL,0
+Attilio Lombardo,Attilio Lombardo,Crystal Palace,1,13mar1998,29apr1998,Italy,EPL,0
+Tomas Brolin,Tomas Brolin,Crystal Palace,1,13mar1998,29apr1998,Sweden,EPL,0
+Ron Noades,Ron Noades,Crystal Palace,1,29apr1998,10may1998,England,EPL,0
+Ray Lewington,Ray Lewington,Crystal Palace,1,29apr1998,10may1998,England,EPL,0
+Iain Dowie,Iain Dowie,Crystal Palace,0,22dec2003,22may2006,Northern Ireland,EPL,0
+Ian Holloway,Ian Holloway,Crystal Palace,0,03nov2012,23oct2013,England,EPL,0
+Keith Millen,Keith Millen,Crystal Palace,1,23oct2013,23nov2013,England,EPL,0
+Tony Pulis,Tony Pulis,Crystal Palace,0,23nov2013,14aug2014,Wales,EPL,0
+Keith Millen,Keith Millen,Crystal Palace,1,14aug2014,27aug2014,England,EPL,0
+Neil Warnock,Neil Warnock,Crystal Palace,0,27aug2014,27dec2014,England,EPL,0
+Keith Millen,Keith Millen,Crystal Palace,1,27dec2014,02jan2015,England,EPL,0
+Alan Pardew,Alan Pardew,Crystal Palace,0,02jan2015,22dec2016,England,EPL,0
+Sam Allardyce,Sam Allardyce,Crystal Palace,0,23dec2016,23may2017,England,EPL,0
+Frank de Boer,Frank de Boer,Crystal Palace,0,26jun2017,11sep2017,Netherlands,EPL,0
+Roy Hodgson,Roy Hodgson,Crystal Palace,0,12sep2017,01jul2019,England,EPL,1
+Jim Smith,Jim Smith,Derby County,0,15jun1995,07oct2001,England,EPL,0
+Colin Todd,Colin Todd,Derby County,0,08oct2001,14jan2002,England,EPL,0
+Billy McEwan,Billy McEwan,Derby County,1,14jan2002,30jan2002,Scotland,EPL,0
+John Gregory,John Gregory,Derby County,0,30jan2002,21mar2003,England,EPL,0
+Billy Davies,Billy Davies,Derby County,0,02jun2006,26nov2007,Scotland,EPL,0
+Paul Jewell,Paul Jewell,Derby County,0,28nov2007,29dec2008,England,EPL,0
+Howard Kendall,Howard Kendall,Everton,0,05nov1990,04dec1993,England,EPL,0
+Jimmy Gabriel,Jimmy Gabriel,Everton,1,04dec1993,07jan1994,Scotland,EPL,0
+Mike Walker,Mike Walker,Everton,0,07jan1994,08nov1994,Wales,EPL,0
+Joe Royle,Joe Royle,Everton,0,10nov1994,27mar1997,England,EPL,0
+Dave Watson,Dave Watson,Everton,1,01apr1997,31may1997,England,EPL,0
+Howard Kendall,Howard Kendall,Everton,0,27jun1997,25jun1998,England,EPL,0
+Walter Smith,Walter Smith,Everton,0,01jul1998,13mar2002,Scotland,EPL,0
+David Moyes,David Moyes,Everton,0,15mar2002,01jun2013,Scotland,EPL,0
+Roberto Martínez,Roberto Martínez,Everton,0,05jun2013,12may2016,Spain,EPL,0
+David Unsworth,David Unsworth,Everton,1,12may2016,14jun2016,England,EPL,0
+Ronald Koeman,Ronald Koeman,Everton,0,14jun2016,23oct2017,Netherlands,EPL,0
+David Unsworth,David Unsworth,Everton,1,23oct2017,30nov2017,England,EPL,0
+Sam Allardyce,Sam Allardyce,Everton,0,30nov2017,16may2018,England,EPL,0
+Marco Silva,Marco Silva,Everton,0,31may2018,01jul2019,Portugal,EPL,1
+Jean Tigana,Jean Tigana,Fulham,0,01jul2000,17apr2003,France,EPL,0
+Chris Coleman,Chris Coleman,Fulham,0,17apr2003,11apr2007,Wales,EPL,0
+Lawrie Sanchez,Lawrie Sanchez,Fulham,0,11apr2007,21dec2007,Northern Ireland,EPL,0
+Ray Lewington,Ray Lewington,Fulham,1,21dec2007,30dec2007,England,EPL,0
+Roy Hodgson,Roy Hodgson,Fulham,0,30dec2007,30jun2010,England,EPL,0
+Ray Lewington,Ray Lewington,Fulham,1,01jul2010,29jul2010,England,EPL,0
+Mark Hughes,Mark Hughes,Fulham,0,29jul2010,01jun2011,Wales,EPL,0
+Martin Jol,Martin Jol,Fulham,0,07jun2011,01dec2013,Netherlands,EPL,0
+René Meulensteen,René Meulensteen,Fulham,0,01dec2013,14feb2014,Netherlands,EPL,0
+Felix Magath,Felix Magath,Fulham,0,14feb2014,18sep2014,Germany,EPL,0
+Slaviša Jokanović,Slaviša Jokanović,Fulham,0,27dec2015,14nov2018,Serbia,EPL,0
+Claudio Ranieri,Claudio Ranieri,Fulham,0,14nov2018,28feb2019,Italy,EPL,0
+Scott Parker,Scott Parker,Fulham,0,28feb2019,01jul2019,England,EPL,1
+David Wagner,David Wagner,Huddersfield Town,0,09nov2015,14jan2019,United States,EPL,0
+Mark Hudson,Mark Hudson,Huddersfield Town,1,14jan2019,21jan2019,England,EPL,0
+Jan Siewert,Jan Siewert,Huddersfield Town,0,21jan2019,01jul2019,Germany,EPL,1
+Phil Brown,Phil Brown,Hull City,0,04dec2006,15mar2010,England,EPL,0
+Iain Dowie,Iain Dowie,Hull City,0,17mar2010,09may2010,Northern Ireland,EPL,0
+Steve Bruce,Steve Bruce,Hull City,0,08jun2012,22jul2016,England,EPL,0
+Mike Phelan,Mike Phelan,Hull City,0,22jul2016,03jan2017,England,EPL,0
+Marco Silva,Marco Silva,Hull City,0,05jan2017,25may2017,Portugal,EPL,0
+John Lyall,John Lyall,Ipswich Town,0,11may1990,05dec1994,England,EPL,0
+Paul Goddard,Paul Goddard,Ipswich Town,1,06dec1994,27dec1994,England,EPL,0
+John Wark,John Wark,Ipswich Town,1,06dec1994,27dec1994,Scotland,EPL,0
+George Burley,George Burley,Ipswich Town,0,28dec1994,11oct2002,Scotland,EPL,0
+Howard Wilkinson,Howard Wilkinson,Leeds United,0,10oct1988,10sep1996,England,EPL,0
+George Graham,George Graham,Leeds United,0,10sep1996,01oct1998,Scotland,EPL,0
+David O'Leary,David O'Leary,Leeds United,0,01oct1998,27jun2002,Republic of Ireland,EPL,0
+Terry Venables,Terry Venables,Leeds United,0,08jul2002,21mar2003,England,EPL,0
+Peter Reid,Peter Reid,Leeds United,0,21mar2003,10nov2003,England,EPL,0
+Eddie Gray,Eddie Gray,Leeds United,1,10nov2003,21may2004,Scotland,EPL,0
+Brian Little,Brian Little,Leicester City,0,30may1991,22nov1994,England,EPL,0
+Kevin MacDonald,Kevin MacDonald,Leicester City,1,22nov1994,14dec1994,Scotland,EPL,0
+Mark McGhee,Mark McGhee,Leicester City,0,14dec1994,07dec1995,Scotland,EPL,0
+Martin O'Neill,Martin O'Neill,Leicester City,0,21dec1995,01jun2000,Northern Ireland,EPL,0
+Peter Taylor,Peter Taylor,Leicester City,0,12jun2000,30sep2001,England,EPL,0
+Dave Bassett,Dave Bassett,Leicester City,0,10oct2001,06apr2002,England,EPL,0
+Micky Adams,Micky Adams,Leicester City,0,07apr2002,11oct2004,England,EPL,0
+Nigel Pearson,Nigel Pearson,Leicester City,0,15nov2011,30jun2015,England,EPL,0
+Claudio Ranieri,Claudio Ranieri,Leicester City,0,13jul2015,23feb2017,Italy,EPL,0
+Craig Shakespeare,Craig Shakespeare,Leicester City,0,23feb2017,17oct2017,England,EPL,0
+Michael Appleton,Michael Appleton,Leicester City,1,17oct2017,25oct2017,England,EPL,0
+Claude Puel,Claude Puel,Leicester City,0,25oct2017,24feb2019,France,EPL,0
+Mike Stowell,Mike Stowell,Leicester City,1,24feb2019,26feb2019,England,EPL,0
+Adam Sadler,Adam Sadler,Leicester City,1,24feb2019,26feb2019,England,EPL,0
+Brendan Rodgers,Brendan Rodgers,Leicester City,0,26feb2019,01jul2019,Northern Ireland,EPL,1
+Graeme Souness,Graeme Souness,Liverpool,0,16apr1991,28jan1994,Scotland,EPL,0
+Roy Evans,Roy Evans,Liverpool,0,28jan1994,12nov1998,England,EPL,0
+Gérard Houllier,Gérard Houllier,Liverpool,0,01jul1998,14oct2001,France,EPL,0
+Phil Thompson,Phil Thompson,Liverpool,1,14oct2001,16mar2002,England,EPL,0
+Gérard Houllier,Gérard Houllier,Liverpool,0,17mar2002,24may2004,France,EPL,0
+Rafael Benítez,Rafael Benítez,Liverpool,0,16jun2004,03jun2010,Spain,EPL,0
+Roy Hodgson,Roy Hodgson,Liverpool,0,01jul2010,08jan2011,England,EPL,0
+Kenny Dalglish,Kenny Dalglish,Liverpool,0,08jan2011,16may2012,Scotland,EPL,0
+Brendan Rodgers,Brendan Rodgers,Liverpool,0,01jun2012,04oct2015,Northern Ireland,EPL,0
+Jürgen Klopp,Jürgen Klopp,Liverpool,0,08oct2015,01jul2019,Germany,EPL,1
+Peter Reid,Peter Reid,Manchester City,0,11nov1990,26aug1993,England,EPL,0
+Tony Book,Tony Book,Manchester City,1,26aug1993,28aug1993,England,EPL,0
+Brian Horton,Brian Horton,Manchester City,0,28aug1993,16may1995,England,EPL,0
+Alan Ball,Alan Ball,Manchester City,0,30jun1995,26aug1996,England,EPL,0
+Joe Royle,Joe Royle,Manchester City,0,18feb1998,21may2001,England,EPL,0
+Kevin Keegan,Kevin Keegan,Manchester City,0,24may2001,11mar2005,England,EPL,0
+Stuart Pearce,Stuart Pearce,Manchester City,0,21mar2005,14may2007,England,EPL,0
+Sven-Göran Eriksson,Sven-Göran Eriksson,Manchester City,0,06jul2007,02jun2008,Sweden,EPL,0
+Mark Hughes,Mark Hughes,Manchester City,0,04jun2008,19dec2009,Wales,EPL,0
+Roberto Mancini,Roberto Mancini,Manchester City,0,19dec2009,13may2013,Italy,EPL,0
+Brian Kidd,Brian Kidd,Manchester City,1,13may2013,14jun2013,England,EPL,0
+Manuel Pellegrini,Manuel Pellegrini,Manchester City,0,14jun2013,30jun2016,Chile,EPL,0
+Pep Guardiola,Pep Guardiola,Manchester City,0,01jul2016,01jul2019,Spain,EPL,1
+Alex Ferguson,Alex Ferguson,Manchester United,0,06nov1986,01jun2013,Scotland,EPL,0
+David Moyes,David Moyes,Manchester United,0,01jul2013,22apr2014,Scotland,EPL,0
+Ryan Giggs,Ryan Giggs,Manchester United,1,22apr2014,11may2014,Wales,EPL,0
+Louis van Gaal,Louis van Gaal,Manchester United,0,14jul2014,23may2016,Netherlands,EPL,0
+José Mourinho,José Mourinho,Manchester United,0,27may2016,18dec2018,Portugal,EPL,0
+Ole Gunnar Solskjær,Ole Gunnar Solskjær,Manchester United,0,19dec2018,01jul2019,Norway,EPL,1
+Lennie Lawrence,Lennie Lawrence,Middlesbrough,0,10jul1991,19may1994,England,EPL,0
+Bryan Robson,Bryan Robson,Middlesbrough,0,31may1994,06dec2000,England,EPL,0
+Terry Venables,Terry Venables,Middlesbrough,0,06dec2000,12jun2001,England,EPL,0
+Steve McClaren,Steve McClaren,Middlesbrough,0,12jun2001,11may2006,England,EPL,0
+Gareth Southgate,Gareth Southgate,Middlesbrough,0,07jun2006,20oct2009,England,EPL,0
+Aitor Karanka,Aitor Karanka,Middlesbrough,0,13nov2013,16mar2017,Spain,EPL,0
+Steve Agnew,Steve Agnew,Middlesbrough,1,16mar2017,09jun2017,England,EPL,0
+Kevin Keegan,Kevin Keegan,Newcastle United,0,05feb1992,08jan1997,England,EPL,0
+Terry McDermott,Terry McDermott,Newcastle United,1,08jan1997,14jan1997,England,EPL,0
+Kenny Dalglish,Kenny Dalglish,Newcastle United,0,14jan1997,27aug1998,Scotland,EPL,0
+Ruud Gullit,Ruud Gullit,Newcastle United,0,28aug1998,28aug1999,Netherlands,EPL,0
+Steve Clarke,Steve Clarke,Newcastle United,1,28aug1999,02sep1999,Scotland,EPL,0
+Bobby Robson,Bobby Robson,Newcastle United,0,02sep1999,30aug2004,England,EPL,0
+John Carver,John Carver,Newcastle United,1,11sep2004,13sep2004,England,EPL,0
+Graeme Souness,Graeme Souness,Newcastle United,0,13sep2004,02feb2006,Scotland,EPL,0
+Glenn Roeder,Glenn Roeder,Newcastle United,0,02feb2006,06may2007,England,EPL,0
+Nigel Pearson,Nigel Pearson,Newcastle United,1,06may2007,15may2007,England,EPL,0
+Sam Allardyce,Sam Allardyce,Newcastle United,0,15may2007,09jan2008,England,EPL,0
+Nigel Pearson,Nigel Pearson,Newcastle United,1,09jan2008,16jan2008,England,EPL,0
+Kevin Keegan,Kevin Keegan,Newcastle United,0,16jan2008,04sep2008,England,EPL,0
+Chris Hughton,Chris Hughton,Newcastle United,1,08sep2008,28sep2008,Republic of Ireland,EPL,0
+Joe Kinnear,Joe Kinnear,Newcastle United,0,29sep2008,01apr2009,Republic of Ireland,EPL,0
+Alan Shearer,Alan Shearer,Newcastle United,0,01apr2009,24may2009,England,EPL,0
+Chris Hughton,Chris Hughton,Newcastle United,0,01jun2009,06dec2010,Republic of Ireland,EPL,0
+Alan Pardew,Alan Pardew,Newcastle United,0,09dec2010,02jan2015,England,EPL,0
+John Carver,John Carver,Newcastle United,1,02jan2015,26jan2015,England,EPL,0
+John Carver,John Carver,Newcastle United,0,26jan2015,10jun2015,England,EPL,0
+Steve McClaren,Steve McClaren,Newcastle United,0,10jun2015,11mar2016,England,EPL,0
+Rafael Benítez,Rafael Benítez,Newcastle United,0,11mar2016,01jul2019,Spain,EPL,1
+Mike Walker,Mike Walker,Norwich City,0,01jun1992,06jan1994,Wales,EPL,0
+John Deehan,John Deehan,Norwich City,0,12jan1994,31jul1995,England,EPL,0
+Nigel Worthington,Nigel Worthington,Norwich City,0,04dec2000,02oct2006,Northern Ireland,EPL,0
+Paul Lambert,Paul Lambert,Norwich City,0,18aug2009,02jun2012,Scotland,EPL,0
+Chris Hughton,Chris Hughton,Norwich City,0,07jun2012,06apr2014,Republic of Ireland,EPL,0
+Neil Adams,Neil Adams,Norwich City,0,06apr2014,05jan2015,England,EPL,0
+Alex Neil,Alex Neil,Norwich City,0,09jan2015,10mar2017,Scotland,EPL,0
+Daniel Farke,Daniel Farke,Norwich City,0,25may2017,01jul2019,Germany,EPL,1
+Brian Clough,Brian Clough,Nottingham Forest,0,06jan1975,08may1993,England,EPL,0
+Frank Clark,Frank Clark,Nottingham Forest,0,12may1993,19dec1996,England,EPL,0
+Stuart Pearce,Stuart Pearce,Nottingham Forest,1,20dec1996,08may1997,England,EPL,0
+Dave Bassett,Dave Bassett,Nottingham Forest,0,08may1997,05jan1999,England,EPL,0
+Micky Adams,Micky Adams,Nottingham Forest,1,05jan1999,11jan1999,England,EPL,0
+Ron Atkinson,Ron Atkinson,Nottingham Forest,0,11jan1999,16may1999,England,EPL,0
+Joe Royle,Joe Royle,Oldham Athletic,0,14jul1982,10nov1994,England,EPL,0
+Harry Redknapp,Harry Redknapp,Portsmouth,0,25mar2002,24nov2004,England,EPL,0
+Velimir Zajec,Velimir Zajec,Portsmouth,0,24dec2004,07apr2005,Croatia,EPL,0
+Alain Perrin,Alain Perrin,Portsmouth,0,07apr2005,24nov2005,France,EPL,0
+Joe Jordan,Joe Jordan,Portsmouth,1,24nov2005,07dec2005,Scotland,EPL,0
+Harry Redknapp,Harry Redknapp,Portsmouth,0,07dec2005,25oct2008,England,EPL,0
+Joe Jordan,Joe Jordan,Portsmouth,1,25oct2008,28oct2008,Scotland,EPL,0
+Tony Adams,Tony Adams,Portsmouth,0,25oct2008,09feb2009,England,EPL,0
+Paul Hart,Paul Hart,Portsmouth,0,09feb2009,24nov2009,England,EPL,0
+Avram Grant,Avram Grant,Portsmouth,0,26nov2009,21may2010,Israel,EPL,0
+Gerry Francis,Gerry Francis,Queens Park Rangers,0,01jun1991,11nov1994,England,EPL,0
+Ray Wilkins,Ray Wilkins,Queens Park Rangers,0,15nov1994,04sep1996,England,EPL,0
+Neil Warnock,Neil Warnock,Queens Park Rangers,0,01mar2010,08jan2012,England,EPL,0
+Mark Hughes,Mark Hughes,Queens Park Rangers,0,10jan2012,23nov2012,Wales,EPL,0
+Mark Bowen,Mark Bowen,Queens Park Rangers,1,23nov2012,24nov2012,Wales,EPL,0
+Harry Redknapp,Harry Redknapp,Queens Park Rangers,0,24nov2012,03feb2015,England,EPL,0
+Kevin Bond,Kevin Bond,Queens Park Rangers,1,03feb2015,12feb2015,England,EPL,0
+Chris Ramsey,Chris Ramsey,Queens Park Rangers,0,03feb2015,04nov2015,England,EPL,0
+Steve Coppell,Steve Coppell,Reading,0,09oct2003,12may2009,England,EPL,0
+Brian McDermott,Brian McDermott,Reading,0,17dec2009,11mar2013,England,EPL,0
+Nigel Adkins,Nigel Adkins,Reading,0,26mar2013,15dec2014,England,EPL,0
+Dave Bassett,Dave Bassett,Sheffield United,0,02jan1988,12dec1995,England,EPL,0
+Neil Warnock,Neil Warnock,Sheffield United,0,02dec1999,16may2007,England,EPL,0
+Chris Wilder,Chris Wilder,Sheffield United,0,12may2016,01jul2019,England,EPL,1
+Trevor Francis,Trevor Francis,Sheffield Wednesday,0,07jun1991,20may1995,England,EPL,0
+David Pleat,David Pleat,Sheffield Wednesday,0,14jun1995,03nov1997,England,EPL,0
+Peter Shreeves,Peter Shreeves,Sheffield Wednesday,1,03nov1997,14nov1997,Wales,EPL,0
+Ron Atkinson,Ron Atkinson,Sheffield Wednesday,0,14nov1997,17may1998,England,EPL,0
+Danny Wilson,Danny Wilson,Sheffield Wednesday,0,06jul1998,21mar2000,Northern Ireland,EPL,0
+Peter Shreeves,Peter Shreeves,Sheffield Wednesday,1,21mar2000,21jun2000,Wales,EPL,0
+Ian Branfoot,Ian Branfoot,Southampton,0,11jun1991,10jan1994,England,EPL,0
+Alan Ball,Alan Ball,Southampton,0,20jan1994,02jul1995,England,EPL,0
+Dave Merrington,Dave Merrington,Southampton,0,14jul1995,14jun1996,England,EPL,0
+Graeme Souness,Graeme Souness,Southampton,0,03jul1996,01jun1997,Scotland,EPL,0
+Dave Jones,Dave Jones,Southampton,0,23jun1997,27jan2000,England,EPL,0
+Glenn Hoddle,Glenn Hoddle,Southampton,0,28jan2000,28mar2001,England,EPL,0
+Stuart Gray,Stuart Gray,Southampton,0,30mar2001,21oct2001,England,EPL,0
+Gordon Strachan,Gordon Strachan,Southampton,0,22oct2001,13feb2004,Scotland,EPL,0
+Steve Wigley,Steve Wigley,Southampton,1,13feb2004,04mar2004,England,EPL,0
+Paul Sturrock,Paul Sturrock,Southampton,0,04mar2004,23aug2004,Scotland,EPL,0
+Steve Wigley,Steve Wigley,Southampton,0,23aug2004,10dec2004,England,EPL,0
+Harry Redknapp,Harry Redknapp,Southampton,0,08dec2004,02dec2005,England,EPL,0
+Nigel Adkins,Nigel Adkins,Southampton,0,12sep2010,18jan2013,England,EPL,0
+Mauricio Pochettino,Mauricio Pochettino,Southampton,0,18jan2013,27may2014,Argentina,EPL,0
+Ronald Koeman,Ronald Koeman,Southampton,0,16jun2014,14jun2016,Netherlands,EPL,0
+Claude Puel,Claude Puel,Southampton,0,30jun2016,14jun2017,France,EPL,0
+Mauricio Pellegrino,Mauricio Pellegrino,Southampton,0,23jun2017,12mar2018,Argentina,EPL,0
+Mark Hughes,Mark Hughes,Southampton,0,14mar2018,03dec2018,Wales,EPL,0
+Kelvin Davis,Kelvin Davis,Southampton,1,03dec2018,05dec2018,England,EPL,0
+Ralph Hasenhüttl,Ralph Hasenhüttl,Southampton,0,05dec2018,01jul2019,Austria,EPL,1
+Tony Pulis,Tony Pulis,Stoke City,0,15jun2006,21may2013,Wales,EPL,0
+Mark Hughes,Mark Hughes,Stoke City,0,30may2013,06jan2018,Wales,EPL,0
+Eddie Niedzwiecki,Eddie Niedzwiecki,Stoke City,1,08jan2018,15jan2018,Wales,EPL,0
+Paul Lambert,Paul Lambert,Stoke City,0,15jan2018,18may2018,Scotland,EPL,0
+Peter Reid,Peter Reid,Sunderland,0,29mar1995,07oct2002,England,EPL,0
+Howard Wilkinson,Howard Wilkinson,Sunderland,0,10oct2002,10mar2003,England,EPL,0
+Mick McCarthy,Mick McCarthy,Sunderland,0,12mar2003,06mar2006,Republic of Ireland,EPL,0
+Kevin Ball,Kevin Ball,Sunderland,1,07mar2006,31may2006,England,EPL,0
+Roy Keane,Roy Keane,Sunderland,0,30aug2006,04dec2008,Republic of Ireland,EPL,0
+Ricky Sbragia,Ricky Sbragia,Sunderland,0,04dec2008,24may2009,Scotland,EPL,0
+Steve Bruce,Steve Bruce,Sunderland,0,03jun2009,30nov2011,England,EPL,0
+Martin O'Neill,Martin O'Neill,Sunderland,0,03dec2011,30mar2013,Northern Ireland,EPL,0
+Paolo Di Canio,Paolo Di Canio,Sunderland,0,31mar2013,22sep2013,Italy,EPL,0
+Kevin Ball,Kevin Ball,Sunderland,1,22sep2013,08oct2013,England,EPL,0
+Gus Poyet,Gus Poyet,Sunderland,0,08oct2013,16mar2015,Uruguay,EPL,0
+Dick Advocaat,Dick Advocaat,Sunderland,0,17mar2015,04oct2015,Netherlands,EPL,0
+Sam Allardyce,Sam Allardyce,Sunderland,0,09oct2015,22jul2016,England,EPL,0
+David Moyes,David Moyes,Sunderland,0,23jul2016,22may2017,Scotland,EPL,0
+Brendan Rodgers,Brendan Rodgers,Swansea City,0,16jul2010,01jun2012,Northern Ireland,EPL,0
+Michael Laudrup,Michael Laudrup,Swansea City,0,15jun2012,04feb2014,Denmark,EPL,0
+Garry Monk,Garry Monk,Swansea City,0,04feb2014,09dec2015,England,EPL,0
+Alan Curtis,Alan Curtis,Swansea City,1,09dec2015,18jan2016,Wales,EPL,0
+Francesco Guidolin,Francesco Guidolin,Swansea City,0,18jan2016,03oct2016,Italy,EPL,0
+Bob Bradley,Bob Bradley,Swansea City,0,03oct2016,27dec2016,United States,EPL,0
+Alan Curtis,Alan Curtis,Swansea City,1,27dec2016,03jan2017,Wales,EPL,0
+Paul Clement,Paul Clement,Swansea City,0,03jan2017,20dec2017,England,EPL,0
+Leon Britton,Leon Britton,Swansea City,1,20dec2017,28dec2017,England,EPL,0
+Carlos Carvalhal,Carlos Carvalhal,Swansea City,0,28dec2017,18may2018,Portugal,EPL,0
+John Gorman,John Gorman,Swindon Town,0,04jun1993,21nov1994,Scotland,EPL,0
+Doug Livermore,Doug Livermore,Tottenham Hotspur,0,27may1992,19jun1993,England,EPL,0
+Ossie Ardiles,Ossie Ardiles,Tottenham Hotspur,0,19jun1993,01nov1994,Argentina,EPL,0
+Steve Perryman,Steve Perryman,Tottenham Hotspur,1,01nov1994,15nov1994,England,EPL,0
+Gerry Francis,Gerry Francis,Tottenham Hotspur,0,15nov1994,19nov1997,England,EPL,0
+Christian Gross,Christian Gross,Tottenham Hotspur,0,25nov1997,05sep1998,Switzerland,EPL,0
+David Pleat,David Pleat,Tottenham Hotspur,1,30aug1998,03oct1998,England,EPL,0
+Chris Hughton,Chris Hughton,Tottenham Hotspur,1,07sep1998,01oct1998,Republic of Ireland,EPL,0
+George Graham,George Graham,Tottenham Hotspur,0,05oct1998,16mar2001,Scotland,EPL,0
+David Pleat,David Pleat,Tottenham Hotspur,1,16mar2001,02apr2001,England,EPL,0
+Glenn Hoddle,Glenn Hoddle,Tottenham Hotspur,0,02apr2001,21sep2003,England,EPL,0
+David Pleat,David Pleat,Tottenham Hotspur,1,21sep2003,03jun2004,England,EPL,0
+Jacques Santini,Jacques Santini,Tottenham Hotspur,0,03jun2004,05nov2004,France,EPL,0
+Martin Jol,Martin Jol,Tottenham Hotspur,0,05nov2004,25oct2007,Netherlands,EPL,0
+Alex Inglethorpe,Alex Inglethorpe,Tottenham Hotspur,1,25oct2007,29oct2007,England,EPL,0
+Clive Allen,Clive Allen,Tottenham Hotspur,1,25oct2007,29oct2007,England,EPL,0
+Juande Ramos,Juande Ramos,Tottenham Hotspur,0,27oct2007,25oct2008,Spain,EPL,0
+Clive Allen,Clive Allen,Tottenham Hotspur,1,25oct2008,26oct2008,England,EPL,0
+Harry Redknapp,Harry Redknapp,Tottenham Hotspur,0,26oct2008,13jun2012,England,EPL,0
+André Villas-Boas,André Villas-Boas,Tottenham Hotspur,0,06jul2012,16dec2013,Portugal,EPL,0
+Tim Sherwood,Tim Sherwood,Tottenham Hotspur,0,16dec2013,13may2014,England,EPL,0
+Mauricio Pochettino,Mauricio Pochettino,Tottenham Hotspur,0,27may2014,01jul2019,Argentina,EPL,1
+Graham Taylor,Graham Taylor,Watford,0,21feb1996,01jun2001,England,EPL,0
+Aidy Boothroyd,Aidy Boothroyd,Watford,0,29mar2005,03nov2008,England,EPL,0
+Quique Sánchez Flores,Quique Sánchez Flores,Watford,0,05jun2015,15may2016,Spain,EPL,0
+Walter Mazzarri,Walter Mazzarri,Watford,0,01jul2016,21may2017,Italy,EPL,0
+Marco Silva,Marco Silva,Watford,0,27may2017,21jan2018,Portugal,EPL,0
+Javi Gracia,Javi Gracia,Watford,0,21jan2018,01jul2019,Spain,EPL,1
+Gary Megson,Gary Megson,West Bromwich Albion,0,09mar2000,26oct2004,England,EPL,0
+Frank Burrows,Frank Burrows,West Bromwich Albion,1,27oct2004,08nov2004,Scotland,EPL,0
+Bryan Robson,Bryan Robson,West Bromwich Albion,0,09nov2004,18sep2006,England,EPL,0
+Tony Mowbray,Tony Mowbray,West Bromwich Albion,0,18oct2006,16jun2009,England,EPL,0
+Roberto Di Matteo,Roberto Di Matteo,West Bromwich Albion,0,30jun2009,06feb2011,Italy,EPL,0
+Michael Appleton,Michael Appleton,West Bromwich Albion,1,06feb2011,14feb2011,England,EPL,0
+Roy Hodgson,Roy Hodgson,West Bromwich Albion,0,14feb2011,13may2012,England,EPL,0
+Steve Clarke,Steve Clarke,West Bromwich Albion,0,08jun2012,14dec2013,Scotland,EPL,0
+Keith Downing,Keith Downing,West Bromwich Albion,1,14dec2013,09jan2014,England,EPL,0
+Pepe Mel,Pepe Mel,West Bromwich Albion,0,09jan2014,12may2014,Spain,EPL,0
+Alan Irvine,Alan Irvine,West Bromwich Albion,0,14jun2014,29dec2014,Scotland,EPL,0
+Rob Kelly,Rob Kelly,West Bromwich Albion,1,29dec2014,01jan2015,England,EPL,0
+Tony Pulis,Tony Pulis,West Bromwich Albion,0,01jan2015,20nov2017,Wales,EPL,0
+Gary Megson,Gary Megson,West Bromwich Albion,1,20nov2017,29nov2017,England,EPL,0
+Alan Pardew,Alan Pardew,West Bromwich Albion,0,29nov2017,02apr2018,England,EPL,0
+Darren Moore,Darren Moore,West Bromwich Albion,0,02apr2018,09mar2019,Jamaica,EPL,0
+Billy Bonds,Billy Bonds,West Ham United,0,23feb1990,10aug1994,England,EPL,0
+Harry Redknapp,Harry Redknapp,West Ham United,0,10aug1994,09may2001,England,EPL,0
+Glenn Roeder,Glenn Roeder,West Ham United,0,09may2001,24apr2003,England,EPL,0
+Trevor Brooking,Trevor Brooking,West Ham United,1,24apr2003,12may2003,England,EPL,0
+Alan Pardew,Alan Pardew,West Ham United,0,20oct2003,11dec2006,England,EPL,0
+Alan Curbishley,Alan Curbishley,West Ham United,0,13dec2006,03sep2008,England,EPL,0
+Kevin Keen,Kevin Keen,West Ham United,1,03sep2008,15sep2008,England,EPL,0
+Gianfranco Zola,Gianfranco Zola,West Ham United,0,15sep2008,11may2010,Italy,EPL,0
+Avram Grant,Avram Grant,West Ham United,0,03jun2010,15may2011,Israel,EPL,0
+Kevin Keen,Kevin Keen,West Ham United,1,15may2011,01jun2011,England,EPL,0
+Sam Allardyce,Sam Allardyce,West Ham United,0,01jun2011,24may2015,England,EPL,0
+Slaven Bilić,Slaven Bilić,West Ham United,0,09jun2015,06nov2017,Croatia,EPL,0
+David Moyes,David Moyes,West Ham United,0,07nov2017,16may2018,Scotland,EPL,0
+Manuel Pellegrini,Manuel Pellegrini,West Ham United,0,22may2018,01jul2019,Chile,EPL,1
+Paul Jewell,Paul Jewell,Wigan Athletic,0,12jun2001,14may2007,England,EPL,0
+Chris Hutchings,Chris Hutchings,Wigan Athletic,0,14may2007,05nov2007,England,EPL,0
+Frank Barlow,Frank Barlow,Wigan Athletic,1,05nov2007,26nov2007,England,EPL,0
+Steve Bruce,Steve Bruce,Wigan Athletic,0,26nov2007,03jun2009,England,EPL,0
+Roberto Martínez,Roberto Martínez,Wigan Athletic,0,15jun2009,28may2013,Spain,EPL,0
+Joe Kinnear,Joe Kinnear,Wimbledon,0,19jan1992,09jun1999,Republic of Ireland,EPL,0
+Egil Olsen,Egil Olsen,Wimbledon,0,09jun1999,01may2000,Norway,EPL,0
+Terry Burton,Terry Burton,Wimbledon,0,01may2000,25apr2002,England,EPL,0
+Dave Jones,Dave Jones,Wolverhampton Wanderers,0,03jan2001,11nov2004,England,EPL,0
+Mick McCarthy,Mick McCarthy,Wolverhampton Wanderers,0,05aug2006,14feb2012,Republic of Ireland,EPL,0
+Terry Connor,Terry Connor,Wolverhampton Wanderers,0,24feb2012,30jun2012,England,EPL,0
+Nuno Espírito Santo,Nuno Espírito Santo,Wolverhampton Wanderers,0,31may2017,01jul2019,Portugal,EPL,1

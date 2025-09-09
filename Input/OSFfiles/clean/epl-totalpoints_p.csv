@@ -1,0 +1,241 @@
+season,team,points_season,goaldiff_season
+2007,Arsenal,83.0,43.0
+2008,Arsenal,72.0,31.0
+2009,Arsenal,75.0,42.0
+2010,Arsenal,68.0,29.0
+2011,Arsenal,70.0,25.0
+2012,Arsenal,73.0,35.0
+2013,Arsenal,79.0,27.0
+2014,Arsenal,75.0,35.0
+2015,Arsenal,71.0,29.0
+2016,Arsenal,75.0,33.0
+2017,Arsenal,63.0,23.0
+2018,Arsenal,70.0,22.0
+2007,Aston Villa,60.0,20.0
+2008,Aston Villa,62.0,6.0
+2009,Aston Villa,64.0,13.0
+2010,Aston Villa,48.0,-11.0
+2011,Aston Villa,38.0,-16.0
+2012,Aston Villa,41.0,-22.0
+2013,Aston Villa,38.0,-22.0
+2014,Aston Villa,38.0,-26.0
+2015,Aston Villa,17.0,-49.0
+2007,Birmingham,35.0,-16.0
+2009,Birmingham,50.0,-9.0
+2010,Birmingham,39.0,-21.0
+2007,Blackburn,58.0,2.0
+2008,Blackburn,41.0,-20.0
+2009,Blackburn,50.0,-14.0
+2010,Blackburn,43.0,-13.0
+2011,Blackburn,31.0,-30.0
+2010,Blackpool,39.0,-23.0
+2007,Bolton,37.0,-18.0
+2008,Bolton,41.0,-12.0
+2009,Bolton,39.0,-25.0
+2010,Bolton,46.0,-4.0
+2011,Bolton,36.0,-31.0
+2015,Bournemouth,42.0,-22.0
+2016,Bournemouth,46.0,-12.0
+2017,Bournemouth,44.0,-16.0
+2018,Bournemouth,45.0,-14.0
+2017,Brighton,40.0,-20.0
+2018,Brighton,36.0,-25.0
+2009,Burnley,30.0,-40.0
+2014,Burnley,33.0,-25.0
+2016,Burnley,40.0,-16.0
+2017,Burnley,54.0,-3.0
+2018,Burnley,40.0,-23.0
+2013,Cardiff,30.0,-42.0
+2018,Cardiff,34.0,-35.0
+2007,Chelsea,85.0,39.0
+2008,Chelsea,83.0,44.0
+2009,Chelsea,86.0,71.0
+2010,Chelsea,71.0,36.0
+2011,Chelsea,64.0,19.0
+2012,Chelsea,75.0,36.0
+2013,Chelsea,82.0,44.0
+2014,Chelsea,87.0,41.0
+2015,Chelsea,50.0,6.0
+2016,Chelsea,93.0,52.0
+2017,Chelsea,70.0,24.0
+2018,Chelsea,72.0,24.0
+2013,Crystal Palace,45.0,-15.0
+2014,Crystal Palace,48.0,-4.0
+2015,Crystal Palace,42.0,-12.0
+2016,Crystal Palace,41.0,-13.0
+2017,Crystal Palace,44.0,-10.0
+2018,Crystal Palace,49.0,-2.0
+2007,Everton,65.0,22.0
+2008,Everton,63.0,18.0
+2009,Everton,61.0,11.0
+2010,Everton,54.0,6.0
+2011,Everton,56.0,10.0
+2012,Everton,63.0,15.0
+2013,Everton,72.0,22.0
+2014,Everton,47.0,-2.0
+2015,Everton,47.0,4.0
+2016,Everton,61.0,18.0
+2017,Everton,49.0,-14.0
+2018,Everton,54.0,8.0
+2007,Fulham,36.0,-22.0
+2008,Fulham,53.0,5.0
+2009,Fulham,46.0,-7.0
+2010,Fulham,49.0,6.0
+2011,Fulham,52.0,-3.0
+2012,Fulham,43.0,-10.0
+2013,Fulham,32.0,-45.0
+2018,Fulham,26.0,-47.0
+2017,Huddersfield,37.0,-30.0
+2018,Huddersfield,16.0,-54.0
+2008,Hull,35.0,-25.0
+2009,Hull,30.0,-41.0
+2013,Hull,37.0,-15.0
+2014,Hull,35.0,-18.0
+2016,Hull,34.0,-43.0
+2014,Leicester,41.0,-9.0
+2015,Leicester,81.0,32.0
+2016,Leicester,44.0,-15.0
+2017,Leicester,47.0,-4.0
+2018,Leicester,52.0,3.0
+2007,Liverpool,76.0,39.0
+2008,Liverpool,86.0,50.0
+2009,Liverpool,63.0,26.0
+2010,Liverpool,58.0,15.0
+2011,Liverpool,52.0,7.0
+2012,Liverpool,61.0,28.0
+2013,Liverpool,84.0,51.0
+2014,Liverpool,62.0,4.0
+2015,Liverpool,60.0,13.0
+2016,Liverpool,76.0,36.0
+2017,Liverpool,75.0,46.0
+2018,Liverpool,97.0,67.0
+2007,Man City,55.0,-8.0
+2008,Man City,50.0,8.0
+2009,Man City,67.0,28.0
+2010,Man City,71.0,27.0
+2011,Man City,89.0,64.0
+2012,Man City,78.0,32.0
+2013,Man City,86.0,65.0
+2014,Man City,79.0,45.0
+2015,Man City,66.0,30.0
+2016,Man City,78.0,41.0
+2017,Man City,100.0,79.0
+2018,Man City,98.0,72.0
+2007,Man United,87.0,58.0
+2008,Man United,90.0,44.0
+2009,Man United,85.0,58.0
+2010,Man United,80.0,41.0
+2011,Man United,89.0,56.0
+2012,Man United,89.0,43.0
+2013,Man United,64.0,21.0
+2014,Man United,70.0,25.0
+2015,Man United,66.0,14.0
+2016,Man United,69.0,25.0
+2017,Man United,81.0,40.0
+2018,Man United,66.0,11.0
+2007,Middlesbrough,42.0,-10.0
+2008,Middlesbrough,32.0,-29.0
+2016,Middlesbrough,28.0,-26.0
+2007,Newcastle,43.0,-20.0
+2008,Newcastle,34.0,-19.0
+2010,Newcastle,46.0,-1.0
+2011,Newcastle,65.0,5.0
+2012,Newcastle,41.0,-23.0
+2013,Newcastle,49.0,-16.0
+2014,Newcastle,39.0,-23.0
+2015,Newcastle,37.0,-21.0
+2017,Newcastle,44.0,-8.0
+2018,Newcastle,45.0,-6.0
+2011,Norwich,47.0,-14.0
+2012,Norwich,44.0,-17.0
+2013,Norwich,33.0,-34.0
+2015,Norwich,34.0,-28.0
+2007,Portsmouth,57.0,8.0
+2008,Portsmouth,41.0,-19.0
+2009,Portsmouth,28.0,-32.0
+2011,QPR,37.0,-23.0
+2012,QPR,25.0,-30.0
+2014,QPR,30.0,-31.0
+2007,Reading,36.0,-25.0
+2012,Reading,28.0,-30.0
+2012,Southampton,41.0,-11.0
+2013,Southampton,56.0,8.0
+2014,Southampton,60.0,21.0
+2015,Southampton,63.0,18.0
+2016,Southampton,46.0,-7.0
+2017,Southampton,36.0,-19.0
+2018,Southampton,39.0,-20.0
+2008,Stoke,45.0,-17.0
+2009,Stoke,47.0,-14.0
+2010,Stoke,46.0,-2.0
+2011,Stoke,45.0,-17.0
+2012,Stoke,42.0,-11.0
+2013,Stoke,50.0,-7.0
+2014,Stoke,54.0,3.0
+2015,Stoke,51.0,-14.0
+2016,Stoke,44.0,-15.0
+2017,Stoke,33.0,-33.0
+2007,Sunderland,39.0,-23.0
+2008,Sunderland,36.0,-20.0
+2009,Sunderland,44.0,-8.0
+2010,Sunderland,47.0,-11.0
+2011,Sunderland,45.0,-1.0
+2012,Sunderland,39.0,-13.0
+2013,Sunderland,38.0,-19.0
+2014,Sunderland,38.0,-22.0
+2015,Sunderland,39.0,-14.0
+2016,Sunderland,24.0,-40.0
+2011,Swansea,47.0,-7.0
+2012,Swansea,46.0,-4.0
+2013,Swansea,42.0,0.0
+2014,Swansea,56.0,-3.0
+2015,Swansea,47.0,-10.0
+2016,Swansea,41.0,-25.0
+2017,Swansea,33.0,-28.0
+2007,Tottenham,46.0,5.0
+2008,Tottenham,51.0,0.0
+2009,Tottenham,70.0,26.0
+2010,Tottenham,62.0,9.0
+2011,Tottenham,69.0,25.0
+2012,Tottenham,72.0,20.0
+2013,Tottenham,69.0,4.0
+2014,Tottenham,64.0,5.0
+2015,Tottenham,70.0,34.0
+2016,Tottenham,86.0,60.0
+2017,Tottenham,77.0,38.0
+2018,Tottenham,71.0,28.0
+2015,Watford,45.0,-10.0
+2016,Watford,40.0,-28.0
+2017,Watford,41.0,-20.0
+2018,Watford,50.0,-7.0
+2008,West Brom,32.0,-31.0
+2010,West Brom,47.0,-15.0
+2011,West Brom,47.0,-7.0
+2012,West Brom,49.0,-4.0
+2013,West Brom,36.0,-16.0
+2014,West Brom,44.0,-13.0
+2015,West Brom,43.0,-14.0
+2016,West Brom,45.0,-8.0
+2017,West Brom,31.0,-25.0
+2007,West Ham,49.0,-8.0
+2008,West Ham,51.0,-3.0
+2009,West Ham,35.0,-19.0
+2010,West Ham,33.0,-27.0
+2012,West Ham,46.0,-8.0
+2013,West Ham,40.0,-11.0
+2014,West Ham,47.0,-3.0
+2015,West Ham,62.0,14.0
+2016,West Ham,45.0,-17.0
+2017,West Ham,42.0,-20.0
+2018,West Ham,52.0,-3.0
+2007,Wigan,40.0,-17.0
+2008,Wigan,45.0,-11.0
+2009,Wigan,36.0,-42.0
+2010,Wigan,42.0,-21.0
+2011,Wigan,43.0,-20.0
+2012,Wigan,36.0,-26.0
+2009,Wolves,38.0,-24.0
+2010,Wolves,40.0,-20.0
+2011,Wolves,25.0,-42.0
+2018,Wolves,57.0,1.0
+2007,derby-county,11.0,-69.0
